@@ -1,0 +1,635 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>✨ Influencer Dashboard</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link href="https://fonts.googleapis.com/css2?family=Nunito:wght@400;600;700;800;900&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet" />
+  <style>
+    /* ── 변수 ── */
+    :root {
+      --pink-50:  #fff0f5;
+      --pink-100: #ffe0ec;
+      --pink-200: #ffb3cf;
+      --pink-400: #ff6fa3;
+      --pink-500: #ff4d8d;
+      --pink-600: #e63d7a;
+      --rose-100: #ffe4e9;
+      --peach:    #ffede0;
+      --white:    #ffffff;
+      --gray-400: #b0b7c3;
+      --gray-600: #6b7280;
+      --gray-800: #1f2937;
+      --radius-card: 20px;
+      --radius-pill: 999px;
+      --shadow-card: 0 4px 24px rgba(255, 100, 160, 0.10);
+      --shadow-hover: 0 12px 40px rgba(255, 100, 160, 0.22);
+    }
+
+    /* ── 리셋 & 기본 ── */
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html { scroll-behavior: smooth; }
+    body {
+      font-family: 'Nunito', 'Noto Sans KR', sans-serif;
+      background: var(--pink-50);
+      color: var(--gray-800);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── 배경 메쉬 ── */
+    body::before {
+      content: '';
+      position: fixed;
+      inset: 0;
+      background:
+        radial-gradient(ellipse 60% 50% at 10% 0%, #ffd6e7 0%, transparent 60%),
+        radial-gradient(ellipse 50% 40% at 90% 100%, #ffc8d8 0%, transparent 55%),
+        radial-gradient(ellipse 40% 40% at 50% 50%, #fff0f8 0%, transparent 70%);
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── 레이아웃 래퍼 ── */
+    .wrapper {
+      position: relative;
+      z-index: 1;
+      max-width: 1200px;
+      margin: 0 auto;
+      padding: 0 24px 60px;
+    }
+
+    /* ── 헤더 ── */
+    header {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding: 36px 0 28px;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .header-title {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+    .header-title .logo {
+      width: 44px; height: 44px;
+      background: linear-gradient(135deg, var(--pink-400), var(--pink-600));
+      border-radius: 14px;
+      display: flex; align-items: center; justify-content: center;
+      font-size: 22px;
+      box-shadow: 0 4px 14px rgba(255,77,141,0.35);
+    }
+    .header-title h1 {
+      font-size: 1.6rem;
+      font-weight: 900;
+      background: linear-gradient(135deg, var(--pink-500), #c94080);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      letter-spacing: -0.5px;
+    }
+    .header-meta {
+      font-size: 0.78rem;
+      color: var(--gray-400);
+      font-weight: 600;
+    }
+    #last-updated {
+      font-weight: 700;
+      color: var(--pink-500);
+    }
+
+    /* ── 통계 배너 ── */
+    .stats-bar {
+      display: flex;
+      gap: 14px;
+      margin-bottom: 28px;
+      flex-wrap: wrap;
+    }
+    .stat-chip {
+      background: var(--white);
+      border-radius: var(--radius-pill);
+      padding: 10px 20px;
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--gray-600);
+      box-shadow: var(--shadow-card);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      animation: fadeUp 0.5s ease both;
+    }
+    .stat-chip span.num {
+      font-size: 1rem;
+      font-weight: 900;
+      color: var(--pink-500);
+    }
+
+    /* ── 필터 영역 ── */
+    .filter-bar {
+      background: var(--white);
+      border-radius: var(--radius-card);
+      padding: 20px 24px;
+      margin-bottom: 28px;
+      box-shadow: var(--shadow-card);
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      flex-wrap: wrap;
+    }
+    .filter-bar label {
+      font-size: 0.8rem;
+      font-weight: 700;
+      color: var(--gray-600);
+      white-space: nowrap;
+    }
+
+    /* 탭 */
+    .tab-group {
+      display: flex;
+      gap: 6px;
+    }
+    .tab-btn {
+      padding: 7px 16px;
+      border-radius: var(--radius-pill);
+      border: 2px solid var(--pink-200);
+      background: transparent;
+      color: var(--gray-600);
+      font-family: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      transition: all 0.18s;
+    }
+    .tab-btn:hover { border-color: var(--pink-400); color: var(--pink-500); }
+    .tab-btn.active {
+      background: linear-gradient(135deg, var(--pink-400), var(--pink-600));
+      border-color: transparent;
+      color: #fff;
+      box-shadow: 0 4px 12px rgba(255,77,141,0.30);
+    }
+
+    /* Tier 필터 */
+    .tier-select, .sort-select {
+      padding: 8px 14px;
+      border-radius: var(--radius-pill);
+      border: 2px solid var(--pink-200);
+      background: var(--white);
+      color: var(--gray-800);
+      font-family: inherit;
+      font-size: 0.82rem;
+      font-weight: 700;
+      cursor: pointer;
+      outline: none;
+      transition: border-color 0.18s;
+      appearance: none;
+      -webkit-appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23ff6fa3' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+      padding-right: 32px;
+    }
+    .tier-select:focus, .sort-select:focus { border-color: var(--pink-400); }
+
+    /* 검색 */
+    .search-wrap {
+      flex: 1;
+      min-width: 180px;
+      position: relative;
+    }
+    .search-wrap input {
+      width: 100%;
+      padding: 9px 16px 9px 38px;
+      border-radius: var(--radius-pill);
+      border: 2px solid var(--pink-200);
+      background: var(--white);
+      font-family: inherit;
+      font-size: 0.84rem;
+      font-weight: 600;
+      color: var(--gray-800);
+      outline: none;
+      transition: border-color 0.18s;
+    }
+    .search-wrap input:focus { border-color: var(--pink-400); }
+    .search-wrap input::placeholder { color: var(--gray-400); }
+    .search-wrap .search-icon {
+      position: absolute;
+      left: 13px; top: 50%;
+      transform: translateY(-50%);
+      font-size: 15px;
+      pointer-events: none;
+    }
+
+    /* ── 결과 수 ── */
+    .result-count {
+      font-size: 0.82rem;
+      font-weight: 700;
+      color: var(--gray-400);
+      margin-bottom: 18px;
+    }
+    .result-count strong { color: var(--pink-500); }
+
+    /* ── 카드 그리드 ── */
+    .card-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
+      gap: 20px;
+    }
+
+    /* ── 인플루언서 카드 ── */
+    .card {
+      background: var(--white);
+      border-radius: var(--radius-card);
+      padding: 24px 20px 20px;
+      box-shadow: var(--shadow-card);
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 12px;
+      text-align: center;
+      transition: transform 0.22s, box-shadow 0.22s;
+      animation: fadeUp 0.4s ease both;
+      cursor: pointer;
+      text-decoration: none;
+      color: inherit;
+    }
+    .card:hover {
+      transform: translateY(-6px);
+      box-shadow: var(--shadow-hover);
+    }
+
+    .card-avatar {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 3px solid var(--pink-200);
+      background: var(--pink-100);
+    }
+    .card-avatar-placeholder {
+      width: 72px; height: 72px;
+      border-radius: 50%;
+      background: linear-gradient(135deg, var(--pink-200), var(--pink-400));
+      display: flex; align-items: center; justify-content: center;
+      font-size: 28px;
+      border: 3px solid var(--pink-200);
+    }
+
+    .card-name {
+      font-size: 0.95rem;
+      font-weight: 800;
+      color: var(--gray-800);
+      line-height: 1.2;
+    }
+    .card-handle {
+      font-size: 0.78rem;
+      color: var(--gray-400);
+      font-weight: 600;
+    }
+
+    /* Tier 뱃지 */
+    .tier-badge {
+      padding: 3px 12px;
+      border-radius: var(--radius-pill);
+      font-size: 0.7rem;
+      font-weight: 800;
+      letter-spacing: 0.5px;
+      text-transform: uppercase;
+    }
+    .tier-mega   { background: #fff0c2; color: #b07800; }
+    .tier-macro  { background: #ffe0ec; color: #c0004a; }
+    .tier-mid    { background: #e8f0ff; color: #2244cc; }
+    .tier-micro  { background: #e6faf0; color: #007a40; }
+    .tier-nano   { background: #f3f0ff; color: #5500cc; }
+
+    /* 플랫폼 뱃지 */
+    .platform-badge {
+      font-size: 0.72rem;
+      font-weight: 700;
+      padding: 3px 10px;
+      border-radius: var(--radius-pill);
+      background: var(--pink-50);
+      color: var(--pink-600);
+      border: 1.5px solid var(--pink-200);
+    }
+
+    /* 스탯 행 */
+    .card-stats {
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      padding: 12px 0 0;
+      border-top: 1.5px dashed var(--pink-100);
+      gap: 8px;
+    }
+    .card-stat {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 2px;
+    }
+    .card-stat .val {
+      font-size: 0.95rem;
+      font-weight: 900;
+      color: var(--gray-800);
+    }
+    .card-stat .lbl {
+      font-size: 0.68rem;
+      font-weight: 700;
+      color: var(--gray-400);
+      text-transform: uppercase;
+      letter-spacing: 0.3px;
+    }
+
+    /* ── 로딩 / 에러 / 빈 상태 ── */
+    .state-box {
+      grid-column: 1 / -1;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      gap: 14px;
+      padding: 60px 0;
+      color: var(--gray-400);
+      font-weight: 700;
+      font-size: 0.95rem;
+    }
+    .state-box .icon { font-size: 3rem; }
+
+    .spinner {
+      width: 40px; height: 40px;
+      border: 4px solid var(--pink-100);
+      border-top-color: var(--pink-400);
+      border-radius: 50%;
+      animation: spin 0.8s linear infinite;
+    }
+
+    /* ── 애니메이션 ── */
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(18px); }
+      to   { opacity: 1; transform: translateY(0); }
+    }
+    @keyframes spin {
+      to { transform: rotate(360deg); }
+    }
+
+    /* ── 반응형 ── */
+    @media (max-width: 600px) {
+      header { padding: 24px 0 20px; }
+      .filter-bar { flex-direction: column; align-items: stretch; }
+      .tab-group { flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+<div class="wrapper">
+
+  <!-- 헤더 -->
+  <header>
+    <div class="header-title">
+      <div class="logo">🌸</div>
+      <h1>Influencer Dashboard</h1>
+    </div>
+    <div class="header-meta">
+      마지막 업데이트: <span id="last-updated">—</span>
+    </div>
+  </header>
+
+  <!-- 통계 배너 -->
+  <div class="stats-bar" id="stats-bar">
+    <div class="stat-chip"><span class="num" id="stat-total">—</span> 총 인플루언서</div>
+    <div class="stat-chip"><span class="num" id="stat-mega">—</span> Mega</div>
+    <div class="stat-chip"><span class="num" id="stat-macro">—</span> Macro</div>
+    <div class="stat-chip"><span class="num" id="stat-mid">—</span> Mid</div>
+    <div class="stat-chip"><span class="num" id="stat-micro">—</span> Micro</div>
+  </div>
+
+  <!-- 필터 바 -->
+  <div class="filter-bar">
+    <!-- 플랫폼 탭 -->
+    <label>플랫폼</label>
+    <div class="tab-group" id="platform-tabs">
+      <button class="tab-btn active" data-platform="all">전체</button>
+      <button class="tab-btn" data-platform="youtube">🎬 YouTube</button>
+      <button class="tab-btn" data-platform="instagram">📸 Instagram</button>
+      <button class="tab-btn" data-platform="tiktok">🎵 TikTok</button>
+    </div>
+
+    <!-- Tier 필터 -->
+    <label>Tier</label>
+    <select class="tier-select" id="tier-filter">
+      <option value="all">전체 Tier</option>
+      <option value="mega">🌟 Mega (100만+)</option>
+      <option value="macro">💫 Macro (10만+)</option>
+      <option value="mid">✨ Mid (5만+)</option>
+      <option value="micro">⭐ Micro (1만+)</option>
+      <option value="nano">🌱 Nano (~1만)</option>
+    </select>
+
+    <!-- 정렬 -->
+    <label>정렬</label>
+    <select class="sort-select" id="sort-filter">
+      <option value="followers_desc">구독자 많은 순</option>
+      <option value="followers_asc">구독자 적은 순</option>
+      <option value="name_asc">이름 순</option>
+    </select>
+
+    <!-- 검색 -->
+    <div class="search-wrap">
+      <span class="search-icon">🔍</span>
+      <input type="text" id="search-input" placeholder="이름 또는 핸들 검색..." />
+    </div>
+  </div>
+
+  <!-- 결과 수 -->
+  <p class="result-count" id="result-count"></p>
+
+  <!-- 카드 그리드 -->
+  <div class="card-grid" id="card-grid">
+    <div class="state-box">
+      <div class="spinner"></div>
+      <span>데이터 불러오는 중...</span>
+    </div>
+  </div>
+
+</div>
+
+<script>
+// ── 숫자 포맷 ──────────────────────────────────────────────
+function fmt(n) {
+  if (n == null) return '—';
+  if (n >= 1_000_000) return (n / 1_000_000).toFixed(1) + 'M';
+  if (n >= 1_000)     return (n / 1_000).toFixed(1) + 'K';
+  return n.toLocaleString();
+}
+
+// ── 티어 뱃지 ─────────────────────────────────────────────
+const TIER_LABEL = { mega: '🌟 Mega', macro: '💫 Macro', mid: '✨ Mid', micro: '⭐ Micro', nano: '🌱 Nano' };
+function tierBadge(tier) {
+  return `<span class="tier-badge tier-${tier}">${TIER_LABEL[tier] ?? tier}</span>`;
+}
+
+// ── 플랫폼 뱃지 ───────────────────────────────────────────
+const PLATFORM_LABEL = { youtube: '🎬 YouTube', instagram: '📸 Instagram', tiktok: '🎵 TikTok' };
+function platformBadge(p) {
+  return `<span class="platform-badge">${PLATFORM_LABEL[p] ?? p}</span>`;
+}
+
+// ── 카드 렌더 ─────────────────────────────────────────────
+function renderCard(inf) {
+  const avatar = inf.profile_image
+    ? `<img class="card-avatar" src="${inf.profile_image}" alt="${inf.name}" loading="lazy" onerror="this.replaceWith(makePlaceholder())">`
+    : `<div class="card-avatar-placeholder">🌸</div>`;
+
+  const subLabel = inf.platform === 'youtube' ? '구독자' : '팔로워';
+
+  const extraStat = inf.platform === 'youtube'
+    ? `<div class="card-stat"><span class="val">${fmt(inf.avg_views_per_video)}</span><span class="lbl">평균조회</span></div>`
+    : inf.engagement_rate != null
+      ? `<div class="card-stat"><span class="val">${inf.engagement_rate}%</span><span class="lbl">참여율</span></div>`
+      : '';
+
+  return `
+    <a class="card" href="${inf.profile_url}" target="_blank" rel="noopener">
+      ${avatar}
+      <div class="card-name">${inf.name}</div>
+      <div class="card-handle">@${inf.handle}</div>
+      <div style="display:flex;gap:6px;flex-wrap:wrap;justify-content:center">
+        ${platformBadge(inf.platform)}
+        ${tierBadge(inf.tier)}
+      </div>
+      <div class="card-stats">
+        <div class="card-stat">
+          <span class="val">${fmt(inf.followers)}</span>
+          <span class="lbl">${subLabel}</span>
+        </div>
+        ${extraStat}
+        <div class="card-stat">
+          <span class="val">${inf.video_count != null ? fmt(inf.video_count) : '—'}</span>
+          <span class="lbl">영상 수</span>
+        </div>
+      </div>
+    </a>`;
+}
+
+function makePlaceholder() {
+  const d = document.createElement('div');
+  d.className = 'card-avatar-placeholder';
+  d.textContent = '🌸';
+  return d;
+}
+
+// ── 상태(로딩/에러/빈) ────────────────────────────────────
+function showState(icon, msg) {
+  document.getElementById('card-grid').innerHTML =
+    `<div class="state-box"><div class="icon">${icon}</div><span>${msg}</span></div>`;
+}
+
+// ── 메인 ──────────────────────────────────────────────────
+let allData = [];
+
+// 필터 상태
+let filters = { platform: 'all', tier: 'all', sort: 'followers_desc', query: '' };
+
+function applyFilters() {
+  let list = [...allData];
+
+  if (filters.platform !== 'all')
+    list = list.filter(i => i.platform === filters.platform);
+  if (filters.tier !== 'all')
+    list = list.filter(i => i.tier === filters.tier);
+  if (filters.query)
+    list = list.filter(i =>
+      i.name.toLowerCase().includes(filters.query) ||
+      i.handle.toLowerCase().includes(filters.query));
+
+  // 정렬
+  if (filters.sort === 'followers_desc') list.sort((a,b) => b.followers - a.followers);
+  if (filters.sort === 'followers_asc')  list.sort((a,b) => a.followers - b.followers);
+  if (filters.sort === 'name_asc')       list.sort((a,b) => a.name.localeCompare(b.name));
+
+  render(list);
+}
+
+function render(list) {
+  const grid = document.getElementById('card-grid');
+  document.getElementById('result-count').innerHTML =
+    `총 <strong>${list.length}</strong>명의 인플루언서`;
+
+  if (list.length === 0) {
+    showState('🔍', '조건에 맞는 인플루언서가 없어요');
+    return;
+  }
+
+  grid.innerHTML = list.map((inf, i) => {
+    const card = renderCard(inf);
+    // 순차 페이드인 딜레이
+    return card.replace('class="card"', `class="card" style="animation-delay:${Math.min(i * 0.04, 0.6)}s"`);
+  }).join('');
+}
+
+function updateStats(data) {
+  const count = t => data.filter(i => i.tier === t).length;
+  document.getElementById('stat-total').textContent  = data.length;
+  document.getElementById('stat-mega').textContent   = count('mega');
+  document.getElementById('stat-macro').textContent  = count('macro');
+  document.getElementById('stat-mid').textContent    = count('mid');
+  document.getElementById('stat-micro').textContent  = count('micro');
+}
+
+async function init() {
+  try {
+    const res = await fetch('data/influencers.json');
+    if (!res.ok) throw new Error(res.status);
+    const json = await res.json();
+
+    allData = json.influencers ?? [];
+
+    // 마지막 업데이트
+    if (json.generated_at) {
+      const d = new Date(json.generated_at);
+      document.getElementById('last-updated').textContent =
+        d.toLocaleDateString('ko-KR', { year:'numeric', month:'long', day:'numeric' });
+    }
+
+    updateStats(allData);
+    applyFilters();
+  } catch (e) {
+    showState('🌸', 'influencers.json을 불러올 수 없어요. GitHub Actions가 아직 실행되지 않았을 수 있어요.');
+    console.error(e);
+  }
+}
+
+// ── 이벤트 바인딩 ─────────────────────────────────────────
+document.getElementById('platform-tabs').addEventListener('click', e => {
+  const btn = e.target.closest('.tab-btn');
+  if (!btn) return;
+  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  filters.platform = btn.dataset.platform;
+  applyFilters();
+});
+
+document.getElementById('tier-filter').addEventListener('change', e => {
+  filters.tier = e.target.value;
+  applyFilters();
+});
+
+document.getElementById('sort-filter').addEventListener('change', e => {
+  filters.sort = e.target.value;
+  applyFilters();
+});
+
+let searchTimer;
+document.getElementById('search-input').addEventListener('input', e => {
+  clearTimeout(searchTimer);
+  searchTimer = setTimeout(() => {
+    filters.query = e.target.value.trim().toLowerCase();
+    applyFilters();
+  }, 250);
+});
+
+init();
+</script>
+</body>
+</html>

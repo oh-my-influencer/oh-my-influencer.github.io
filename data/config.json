@@ -1,0 +1,18 @@
+{
+    "keywords": [
+      "스킨케어 루틴",
+      "skincare review 한국",
+      "피부 관리 추천",
+      "화장품 리뷰",
+      "korean skincare routine",
+      "글로우 스킨",
+      "비건 스킨케어"
+    ],
+    "filters": {
+      "min_subscribers": 10000,
+      "max_subscribers": 1000000,
+      "min_videos": 10,
+      "language": ""
+    },
+    "max_results_per_keyword": 20
+  }

@@ -20,7 +20,7 @@
       "max_results_per_hashtag": 30
     },
     "filters": {
-      "min_followers": 10000,
+      "min_followers": 1000,
       "max_followers": 1000000,
       "min_videos": 10
     }

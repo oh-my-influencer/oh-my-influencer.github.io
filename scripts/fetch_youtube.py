@@ -6,7 +6,7 @@ fetch_youtube.py
   2. YouTube Search API 로 키워드별 채널을 검색해 발굴한다.
   3. YouTube Channels API 로 각 채널의 상세 정보를 가져온다.
   4. 필터(구독자 수 범위, 최소 영상 수)를 적용한다.
-  5. 결과를 data/influencers.json 으로 저장한다.
+  5. 결과를 data/youtube.json 으로 저장한다.
 
 환경변수:
   YOUTUBE_API_KEY : YouTube Data API v3 키 (GitHub Secret 으로 주입)
@@ -14,12 +14,12 @@ fetch_youtube.py
 YouTube API Quota 소모 예시 (기본 한도: 10,000 유닛/일):
   - Search:   100 유닛/요청
   - Channels:   1 유닛/요청
-  키워드 7개 × max_results 20 = Search 700 유닛
+  키워드 5개 × max_results 20 = Search 500 유닛
   채널 상세 조회 (50개씩): ~3 유닛
-  → 총 약 703 유닛 소모 (여유 충분)
+  → 총 약 503 유닛 소모 (여유 충분)
 
 실행:
-  YOUTUBE_API_KEY=xxx python scripts/fetch_youtube.py
+  YOUTUBE_API_KEY=xxx uv run python scripts/fetch_youtube.py
 """
 
 import json
@@ -29,15 +29,15 @@ import time
 from datetime import datetime, timezone
 from pathlib import Path
 
-import dotenv
 import requests
+from dotenv import load_dotenv
 
-dotenv.load_dotenv()  # .env 파일에서 환경변수 로드
+load_dotenv()  # 로컬 실행 시 .env 파일에서 환경변수 로드 (CI에서는 무시됨)
 
 # ── 경로 설정 ──────────────────────────────────────────────
 ROOT = Path(__file__).parent.parent
 CONFIG_PATH = ROOT / "data" / "config.json"
-OUTPUT_PATH = ROOT / "data" / "influencers.json"
+OUTPUT_PATH = ROOT / "data" / "youtube.json"
 
 YOUTUBE_API_BASE = "https://www.googleapis.com/youtube/v3"
 

@@ -3,21 +3,13 @@ fetch_instagram.py
 
 역할:
   1. data/config.json 에서 Instagram 해시태그 목록과 필터 조건을 읽는다.
-  2. Apify Instagram Hashtag Scraper로 해시태그별 게시물을 수집한다.
-  3. 게시물 작성자 계정을 추출해 중복을 제거한다.
-  4. 팔로워 수 필터를 적용한다.
-  5. data/instagram.json 으로 저장한다.
+  2. 기존 data/instagram.json 에서 이미 알려진 계정 목록을 로드한다.
+  3. Apify Instagram Hashtag Scraper로 해시태그별 게시물을 수집한다.
+  4. 신규 계정(기존에 없던 핸들)만 Apify로 추가 처리한다. (비용 최적화)
+  5. 팔로워 수 필터를 적용하고 기존 + 신규를 합쳐 저장한다.
 
 환경변수:
   APIFY_API_TOKEN : Apify API 토큰 (GitHub Secret으로 주입)
-
-Apify Actor:
-  apify/instagram-hashtag-scraper
-  https://apify.com/apify/instagram-hashtag-scraper
-
-크레딧 소모 예시:
-  해시태그 7개 × max_results 50개 = 게시물 350개
-  → 약 $0.10 ~ $0.20 소모 (초기 $5 크레딧으로 수십 회 실행 가능)
 
 실행:
   APIFY_API_TOKEN=xxx uv run python scripts/fetch_instagram.py
@@ -57,11 +49,20 @@ def get_tier(followers: int) -> str:
     return "nano"
 
 
+# ── 기존 데이터 로드 ───────────────────────────────────────
+def load_existing(path: Path) -> dict[str, dict]:
+    """기존 instagram.json에서 {handle: account} 딕셔너리를 반환한다."""
+    if not path.exists():
+        return {}
+    with open(path, encoding="utf-8") as f:
+        data = json.load(f)
+    return {acc["handle"]: acc for acc in data.get("influencers", [])}
+
+
 # ── Apify Actor 실행 + 결과 대기 ──────────────────────────
 def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
-    """Apify Actor를 실행하고 결과를 반환한다."""
+    """Apify Actor를 실행하고 게시물 목록을 반환한다."""
 
-    # 1) Actor 실행
     run_resp = requests.post(
         f"{APIFY_BASE}/acts/{ACTOR_ID}/runs",
         params={"token": token},
@@ -73,47 +74,45 @@ def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
         timeout=30,
     )
     run_resp.raise_for_status()
-    run_id = run_resp.json()["data"]["id"]
-    dataset_id = run_resp.json()["data"]["defaultDatasetId"]
+    run_data = run_resp.json()["data"]
+    run_id = run_data["id"]
+    dataset_id = run_data["defaultDatasetId"]
     print(f"   Actor 실행됨 (run_id: {run_id})")
 
-    # 2) 완료 대기 (최대 5분)
+    # 완료 대기 (최대 5분)
     for _ in range(60):
         time.sleep(5)
-        status_resp = requests.get(
+        status = requests.get(
             f"{APIFY_BASE}/actor-runs/{run_id}",
             params={"token": token},
             timeout=10,
-        )
-        status = status_resp.json()["data"]["status"]
+        ).json()["data"]["status"]
+
         if status == "SUCCEEDED":
             break
         if status in ("FAILED", "ABORTED", "TIMED-OUT"):
             print(f"   ⚠️ Actor 실패: {status}", file=sys.stderr)
             return []
     else:
-        print("   ⚠️ 타임아웃: Actor가 5분 내에 완료되지 않음", file=sys.stderr)
+        print("   ⚠️ 타임아웃: 5분 내 완료되지 않음", file=sys.stderr)
         return []
 
-    # 3) 결과 가져오기
-    items_resp = requests.get(
+    items = requests.get(
         f"{APIFY_BASE}/datasets/{dataset_id}/items",
         params={"token": token, "format": "json"},
         timeout=30,
     )
-    items_resp.raise_for_status()
-    return items_resp.json()
+    items.raise_for_status()
+    return items.json()
 
 
-# ── 게시물 → 인플루언서 계정 추출 ─────────────────────────
+# ── 게시물 → 계정 추출 ────────────────────────────────────
 def extract_accounts(posts: list[dict]) -> dict[str, dict]:
-    """게시물 목록에서 작성자 계정 정보를 추출한다. {username: account_dict}"""
-    accounts = {}
+    """게시물 목록에서 작성자 핸들 기준으로 계정 정보를 추출한다."""
+    accounts: dict[str, dict] = {}
     for post in posts:
-        owner = post.get("ownerUsername") or post.get("owner", {}).get("username")
-        if not owner:
-            continue
-        if owner in accounts:
+        handle = post.get("ownerUsername") or post.get("owner", {}).get("username")
+        if not handle or handle in accounts:
             continue
 
         followers = (
@@ -121,24 +120,19 @@ def extract_accounts(posts: list[dict]) -> dict[str, dict]:
             or post.get("owner", {}).get("followersCount")
             or 0
         )
-        full_name = (
-            post.get("ownerFullName") or post.get("owner", {}).get("fullName") or owner
-        )
-        profile_pic = (
-            post.get("ownerProfilePicUrl")
-            or post.get("owner", {}).get("profilePicUrl")
-            or ""
-        )
-
-        accounts[owner] = {
-            "id": f"ig_{owner}",
+        accounts[handle] = {
+            "id": f"ig_{handle}",
             "platform": "instagram",
-            "handle": owner,
-            "name": full_name,
-            "profile_url": f"https://www.instagram.com/{owner}/",
-            "profile_image": profile_pic,
+            "handle": handle,
+            "name": post.get("ownerFullName")
+            or post.get("owner", {}).get("fullName")
+            or handle,
+            "profile_url": f"https://www.instagram.com/{handle}/",
+            "profile_image": post.get("ownerProfilePicUrl")
+            or post.get("owner", {}).get("profilePicUrl")
+            or "",
             "followers": followers,
-            "engagement_rate": None,  # Hashtag Scraper는 참여율 미제공
+            "engagement_rate": None,
             "video_count": None,
             "category": ["skincare", "beauty"],
             "tier": get_tier(followers),
@@ -159,28 +153,40 @@ def main() -> None:
 
     ig_config = config.get("instagram", {})
     hashtags = ig_config.get("hashtags", [])
-    max_results = ig_config.get("max_results_per_hashtag", 50)
+    max_results = ig_config.get("max_results_per_hashtag", 30)
     filters = config.get("filters", {})
     min_f = filters.get("min_followers", 10_000)
     max_f = filters.get("max_followers", 1_000_000)
 
-    all_accounts: dict[str, dict] = {}
+    # 기존 계정 로드 (중복 스킵용)
+    existing = load_existing(OUTPUT_PATH)
+    print(f"📂 기존 계정 {len(existing)}개 로드됨")
+
+    newly_found: dict[str, dict] = {}
 
     for tag in hashtags:
-        print(f"🔍 #{tag} 크롤링 중... (최대 {max_results}개 게시물)")
+        print(f"\n🔍 #{tag} 크롤링 중... (최대 {max_results}개 게시물)")
         posts = run_actor(token, tag, max_results)
         accounts = extract_accounts(posts)
-        before = len(all_accounts)
-        all_accounts.update(accounts)
-        print(f"   → 신규 계정 {len(all_accounts) - before}개 추가")
 
-    # 필터 적용
-    filtered = [
-        acc for acc in all_accounts.values() if min_f <= acc["followers"] <= max_f
-    ]
+        # 신규 계정만 추가
+        new_in_tag = {
+            h: a
+            for h, a in accounts.items()
+            if h not in existing and h not in newly_found
+        }
+        newly_found.update(new_in_tag)
+        skipped = len(accounts) - len(new_in_tag)
+        print(f"   → 신규 {len(new_in_tag)}개 발굴 / {skipped}개 중복 스킵")
+
+    print(f"\n📊 이번 실행 신규 발굴: {len(newly_found)}개")
+
+    # 기존 + 신규 병합 후 필터 적용
+    merged = {**existing, **newly_found}
+    filtered = [acc for acc in merged.values() if min_f <= acc["followers"] <= max_f]
     filtered.sort(key=lambda x: x["followers"], reverse=True)
 
-    print(f"\n✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,} ~ {max_f:,})")
+    print(f"✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,} ~ {max_f:,})")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

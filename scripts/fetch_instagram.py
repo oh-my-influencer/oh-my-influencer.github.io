@@ -205,6 +205,21 @@ def main() -> None:
     existing = load_existing(OUTPUT_PATH)
     print(f"📂 기존 계정 {len(existing)}개 로드됨\n")
 
+    # 기존 계정 중 이미지가 없는 것만 재시도
+    missing_image = [
+        handle for handle, acc in existing.items() if not acc.get("profile_image")
+    ]
+    if missing_image:
+        print(f"🔄 이미지 없는 기존 계정 {len(missing_image)}개 재시도 중...")
+        for handle in missing_image:
+            acc = existing[handle]
+            # profile_image 필드가 빈 경우 이미지 파일명으로 직접 시도
+            dest = IMAGES_DIR / f"ig_{handle}.jpg"
+            if dest.exists():
+                existing[handle]["profile_image"] = f"data/images/ig_{handle}.jpg"
+                print(f"   ✅ 로컬 파일 발견: @{handle}")
+        print()
+
     # Step 1: 해시태그 → 신규 username 수집
     all_usernames: set[str] = set()
     for tag in hashtags:

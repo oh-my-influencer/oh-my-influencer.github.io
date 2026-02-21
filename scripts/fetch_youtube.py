@@ -144,8 +144,8 @@ def fetch_channel_details(api_key: str, channel_ids: list[str]) -> list[dict]:
 
 # ── 3단계: 필터 적용 ──────────────────────────────────────
 def apply_filters(channels: list[dict], filters: dict) -> list[dict]:
-    min_sub = filters.get("min_subscribers", 10_000)
-    max_sub = filters.get("max_subscribers", 1_000_000)
+    min_sub = filters.get("min_followers", 10_000)
+    max_sub = filters.get("max_followers", 1_000_000)
     min_videos = filters.get("min_videos", 10)
 
     return [
@@ -167,9 +167,10 @@ def main() -> None:
     with open(CONFIG_PATH, encoding="utf-8") as f:
         config = json.load(f)
 
-    keywords: list[str] = config.get("keywords", [])
+    yt_config = config.get("youtube", {})
+    keywords: list[str] = yt_config.get("keywords", [])
+    max_results: int = yt_config.get("max_results_per_keyword", 20)
     filters: dict = config.get("filters", {})
-    max_results: int = config.get("max_results_per_keyword", 20)
 
     # 키워드별 채널 ID 수집 (중복 제거)
     all_channel_ids: set[str] = set()
@@ -188,7 +189,7 @@ def main() -> None:
     # 필터 적용
     filtered = apply_filters(channels, filters)
     print(
-        f"✅ 필터 통과: {len(filtered)}개 (구독자 {filters.get('min_subscribers', 0):,} ~ {filters.get('max_subscribers', 0):,})"
+        f"✅ 필터 통과: {len(filtered)}개 (구독자 {filters.get('min_followers', 0):,} ~ {filters.get('max_followers', 0):,})"
     )
 
     # 구독자 수 내림차순 정렬

@@ -606,7 +606,19 @@ document.getElementById('platform-tabs').addEventListener('click', e => {
   if (!btn) return;
   document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
-  filters.platform = btn.dataset.platform;
+
+  const platform = btn.dataset.platform;
+  filters.platform = platform;
+
+  // 선택한 플랫폼 데이터가 아예 없으면 준비 중 안내
+  const hasData = platform === 'all' || allData.some(i => i.platform === platform);
+  if (!hasData) {
+    const PLATFORM_KO = { instagram: '인스타그램', tiktok: '틱톡', youtube: '유튜브' };
+    document.getElementById('result-count').innerHTML = '';
+    showState('🚧', `${PLATFORM_KO[platform] ?? platform} 데이터는 준비 중이에요!<br><small style="font-weight:500;color:#b0b7c3">곧 업데이트될 예정이에요 🌸</small>`);
+    return;
+  }
+
   applyFilters();
 });
 

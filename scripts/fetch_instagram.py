@@ -200,7 +200,6 @@ def main() -> None:
     max_results = ig_config.get("max_results_per_hashtag", 30)
     filters = config.get("filters", {})
     min_f = filters.get("min_followers", 10_000)
-    max_f = filters.get("max_followers", 1_000_000)
 
     existing = load_existing(OUTPUT_PATH)
     print(f"📂 기존 계정 {len(existing)}개 로드됨\n")
@@ -242,10 +241,10 @@ def main() -> None:
 
     # 병합 + 필터
     merged = {**existing, **{acc["handle"]: acc for acc in new_accounts}}
-    filtered = [acc for acc in merged.values() if min_f <= acc["followers"] <= max_f]
+    filtered = [acc for acc in merged.values() if acc["followers"] >= min_f]
     filtered.sort(key=lambda x: x["followers"], reverse=True)
 
-    print(f"\n✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,} ~ {max_f:,})")
+    print(f"\n✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,})")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

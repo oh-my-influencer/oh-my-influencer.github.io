@@ -127,6 +127,14 @@
       font-weight: 900;
       color: var(--pink-500);
     }
+    .stat-chip.active {
+      background: linear-gradient(135deg, var(--pink-400), var(--pink-600));
+      color: #fff;
+      box-shadow: 0 4px 12px rgba(255,77,141,0.30);
+    }
+    .stat-chip.active span.num {
+      color: #fff;
+    }
 
     /* ── 필터 영역 ── */
     .filter-bar {
@@ -402,11 +410,12 @@
 
   <!-- 통계 배너 -->
   <div class="stats-bar" id="stats-bar">
-    <div class="stat-chip"><span class="num" id="stat-total">—</span> 총 인플루언서</div>
-    <div class="stat-chip"><span class="num" id="stat-mega">—</span> Mega</div>
-    <div class="stat-chip"><span class="num" id="stat-macro">—</span> Macro</div>
-    <div class="stat-chip"><span class="num" id="stat-mid">—</span> Mid</div>
-    <div class="stat-chip"><span class="num" id="stat-micro">—</span> Micro</div>
+    <div class="stat-chip" data-tier="all" style="cursor:pointer"><span class="num" id="stat-total">—</span> 총 인플루언서</div>
+    <div class="stat-chip" data-tier="mega" style="cursor:pointer"><span class="num" id="stat-mega">—</span> Mega</div>
+    <div class="stat-chip" data-tier="macro" style="cursor:pointer"><span class="num" id="stat-macro">—</span> Macro</div>
+    <div class="stat-chip" data-tier="mid" style="cursor:pointer"><span class="num" id="stat-mid">—</span> Mid</div>
+    <div class="stat-chip" data-tier="micro" style="cursor:pointer"><span class="num" id="stat-micro">—</span> Micro</div>
+    <div class="stat-chip" data-tier="nano" style="cursor:pointer"><span class="num" id="stat-nano">—</span> Nano</div>
   </div>
 
   <!-- 필터 바 -->
@@ -424,11 +433,11 @@
     <label>Tier</label>
     <select class="tier-select" id="tier-filter">
       <option value="all">전체 Tier</option>
-      <option value="mega">🌟 Mega (100만+)</option>
-      <option value="macro">💫 Macro (10만+)</option>
-      <option value="mid">✨ Mid (5만+)</option>
-      <option value="micro">⭐ Micro (1만+)</option>
-      <option value="nano">🌱 Nano (~1만)</option>
+      <option value="mega">🌟 Mega (1M+)</option>
+      <option value="macro">💫 Macro (100K+)</option>
+      <option value="mid">✨ Mid (50K+)</option>
+      <option value="micro">⭐ Micro (10K+)</option>
+      <option value="nano">🌱 Nano (1K~10K)</option>
     </select>
 
     <!-- 정렬 -->
@@ -587,6 +596,7 @@ function updateStats(data) {
   document.getElementById('stat-macro').textContent  = count('macro');
   document.getElementById('stat-mid').textContent    = count('mid');
   document.getElementById('stat-micro').textContent  = count('micro');
+  document.getElementById('stat-nano').textContent   = count('nano');
 }
 
 async function init() {
@@ -637,6 +647,10 @@ document.getElementById('platform-tabs').addEventListener('click', e => {
 document.getElementById('tier-filter').addEventListener('change', e => {
   filters.tier = e.target.value;
   applyFilters();
+  // 칩 active 상태 동기화
+  document.querySelectorAll('.stat-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.tier === filters.tier);
+  });
 });
 
 document.getElementById('sort-filter').addEventListener('change', e => {
@@ -651,6 +665,32 @@ document.getElementById('search-input').addEventListener('input', e => {
     filters.query = e.target.value.trim().toLowerCase();
     applyFilters();
   }, 250);
+});
+
+// ── 통계 칩 클릭 → tier 필터 연동 ──────────────────────────
+document.getElementById('stats-bar').addEventListener('click', e => {
+  const chip = e.target.closest('.stat-chip');
+  if (!chip) return;
+
+  const tier = chip.dataset.tier;
+
+  // 칩 active 상태 토글
+  document.querySelectorAll('.stat-chip').forEach(c => c.classList.remove('active'));
+  chip.classList.add('active');
+
+  // tier 드롭다운 동기화
+  const select = document.getElementById('tier-filter');
+  select.value = tier;
+  filters.tier = tier;
+  applyFilters();
+});
+
+// tier 드롭다운 변경 시 칩 active 상태도 동기화
+document.getElementById('tier-filter').addEventListener('change', e => {
+  const tier = e.target.value;
+  document.querySelectorAll('.stat-chip').forEach(c => {
+    c.classList.toggle('active', c.dataset.tier === tier);
+  });
 });
 
 init();

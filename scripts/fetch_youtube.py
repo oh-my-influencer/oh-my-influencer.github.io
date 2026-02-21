@@ -145,13 +145,12 @@ def fetch_channel_details(api_key: str, channel_ids: list[str]) -> list[dict]:
 # ── 3단계: 필터 적용 ──────────────────────────────────────
 def apply_filters(channels: list[dict], filters: dict) -> list[dict]:
     min_sub = filters.get("min_followers", 10_000)
-    max_sub = filters.get("max_followers", 1_000_000)
     min_videos = filters.get("min_videos", 10)
 
     return [
         ch
         for ch in channels
-        if min_sub <= ch["followers"] <= max_sub and ch["video_count"] >= min_videos
+        if ch["followers"] >= min_sub and ch["video_count"] >= min_videos
     ]
 
 
@@ -189,7 +188,7 @@ def main() -> None:
     # 필터 적용
     filtered = apply_filters(channels, filters)
     print(
-        f"✅ 필터 통과: {len(filtered)}개 (구독자 {filters.get('min_followers', 0):,} ~ {filters.get('max_followers', 0):,})"
+        f"✅ 필터 통과: {len(filtered)}개 (구독자 {filters.get('min_followers', 0):,})"
     )
 
     # 구독자 수 내림차순 정렬

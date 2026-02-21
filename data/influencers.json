@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T06:42:01.078492+00:00",
-  "count": 89,
+  "generated_at": "2026-02-21T06:48:46.814846+00:00",
+  "count": 143,
   "influencers": [
     {
       "id": "yt_UCIBp7eB3u-3h1exkj5y4loA",
@@ -51,6 +51,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_03_tok",
+      "platform": "tiktok",
+      "handle": "03_tok",
+      "name": "hinase💭",
+      "profile_url": "https://www.tiktok.com/@03_tok",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3ff6e9fa3b2e8e46e6eeea3c3b0c63b3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7a444148&x-expires=1771826400&x-signature=cFPFBqBJM6sflMehEwbCfj%2Btmn0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 609600,
+      "following": 396,
+      "total_likes": 17800000,
+      "video_count": 107,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UC_1UmbgcVUuIO5jbHbyMzLA",
       "platform": "youtube",
       "channel_id": "UC_1UmbgcVUuIO5jbHbyMzLA",
@@ -75,6 +95,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_sasainseoul",
+      "platform": "tiktok",
+      "handle": "sasainseoul",
+      "name": "sasa",
+      "profile_url": "https://www.tiktok.com/@sasainseoul",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/165a20a765f3563b98bd486203099cd1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ddb2e7a0&x-expires=1771826400&x-signature=kG2sbzZUUTnvasHQ1cauWjowSpM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 582800,
+      "following": 42,
+      "total_likes": 5500000,
+      "video_count": 82,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCrlUlicedicJ5mlibqC62Eg",
       "platform": "youtube",
       "channel_id": "UCrlUlicedicJ5mlibqC62Eg",
@@ -96,6 +136,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_heartsfor.kbeauty",
+      "platform": "tiktok",
+      "handle": "heartsfor.kbeauty",
+      "name": "Oceane ᵕ̈",
+      "profile_url": "https://www.tiktok.com/@heartsfor.kbeauty",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e35d084054d2f1e61eb10f4de0ea7e73~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a1b51e51&x-expires=1771826400&x-signature=pu8D9jhohlRnzLYUB8wmlkR4%2F8M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 507400,
+      "following": 3428,
+      "total_likes": 23300000,
+      "video_count": 323,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
       "last_updated": "2026-02-21"
     },
     {
@@ -171,6 +231,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_dearwonii_",
+      "platform": "tiktok",
+      "handle": "dearwonii_",
+      "name": "woni ⋆⭒˚.⋆",
+      "profile_url": "https://www.tiktok.com/@dearwonii_",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a419aea20893fe9403c06abd01c5ecb3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b872f821&x-expires=1771826400&x-signature=MoiLORRTzpPpYZ3KK1ZQQm7wrsY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 355400,
+      "following": 981,
+      "total_likes": 10500000,
+      "video_count": 317,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCVbW7vOtOnmjyDORZB4Sz0w",
       "platform": "youtube",
       "channel_id": "UCVbW7vOtOnmjyDORZB4Sz0w",
@@ -219,6 +299,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_ftb_2",
+      "platform": "tiktok",
+      "handle": "ftb_2",
+      "name": "アキラ フタバ",
+      "profile_url": "https://www.tiktok.com/@ftb_2",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b72b26eacab6b13411420623068abdb4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8c348e17&x-expires=1771826400&x-signature=Bf%2FtNEqeX%2F5NDwYEtEKmBJC%2FwTw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 332000,
+      "following": 50,
+      "total_likes": 19400000,
+      "video_count": 1029,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_mindaylee_",
+      "platform": "tiktok",
+      "handle": "mindaylee_",
+      "name": "minday",
+      "profile_url": "https://www.tiktok.com/@mindaylee_",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3288809f48ada408de8e4ed878d6b7aa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b85121fe&x-expires=1771826400&x-signature=zjFYfdznmWylCktlL0Et6nOw7Pg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 329800,
+      "following": 86,
+      "total_likes": 8300000,
+      "video_count": 105,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UC8qXNVuyfJLJtDf8vCr_xNw",
       "platform": "youtube",
       "channel_id": "UC8qXNVuyfJLJtDf8vCr_xNw",
@@ -240,6 +360,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_timeless.tales145",
+      "platform": "tiktok",
+      "handle": "timeless.tales145",
+      "name": "Healthy chatter",
+      "profile_url": "https://www.tiktok.com/@timeless.tales145",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a28deb6f7b0a33cceb4ef44f8e70c746~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=73dd376c&x-expires=1771826400&x-signature=23zcSHS%2BCXOET9uoG82wntfkHtY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 290600,
+      "following": 3,
+      "total_likes": 4900000,
+      "video_count": 50,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
       "last_updated": "2026-02-21"
     },
     {
@@ -267,6 +407,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_ruthing2002",
+      "platform": "tiktok",
+      "handle": "ruthing2002",
+      "name": "루띵이 ディア ⚒️🦫",
+      "profile_url": "https://www.tiktok.com/@ruthing2002",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/0d8d24617092cf7f3237c924d218e98e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4e6fa5e2&x-expires=1771826400&x-signature=ApXv%2F0Z3QH8VJdCZ0Uzhqqhw1Ps%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 280100,
+      "following": 82,
+      "total_likes": 4400000,
+      "video_count": 593,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCPjIcXVRzgsTkXp-DFjhDdQ",
       "platform": "youtube",
       "channel_id": "UCPjIcXVRzgsTkXp-DFjhDdQ",
@@ -288,6 +448,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_694n9",
+      "platform": "tiktok",
+      "handle": "694n9",
+      "name": "Hee",
+      "profile_url": "https://www.tiktok.com/@694n9",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b8a2f27686f098323595d26532825c7c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=37e12a0d&x-expires=1771826400&x-signature=Us8lJnytbGdf2ACSdZqFeTSaZ8o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 267000,
+      "following": 119,
+      "total_likes": 10900000,
+      "video_count": 110,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
       "last_updated": "2026-02-21"
     },
     {
@@ -315,6 +495,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_sarahsaleen",
+      "platform": "tiktok",
+      "handle": "sarahsaleen",
+      "name": "Sarah",
+      "profile_url": "https://www.tiktok.com/@sarahsaleen",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6cb26d476dd7c524f0b8f6d5d2d28ac8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3e613e04&x-expires=1771826400&x-signature=Cx0EXUN%2BWtDSr6wK7ibWK76LkhY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 246700,
+      "following": 204,
+      "total_likes": 8600000,
+      "video_count": 553,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_hs27825877",
+      "platform": "tiktok",
+      "handle": "hs27825877",
+      "name": "궘뇸섬",
+      "profile_url": "https://www.tiktok.com/@hs27825877",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f5eb7aa925b0ea3850e54bc0c81274d9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c0ba2000&x-expires=1771826400&x-signature=hPxI53rBGVXRALi3qwSgcpP017Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 224900,
+      "following": 112,
+      "total_likes": 9700000,
+      "video_count": 79,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCHa6h8DGLYkAljbskQbIXHw",
       "platform": "youtube",
       "channel_id": "UCHa6h8DGLYkAljbskQbIXHw",
@@ -336,6 +556,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_so_bing",
+      "platform": "tiktok",
+      "handle": "so_bing",
+      "name": "소빙🤨",
+      "profile_url": "https://www.tiktok.com/@so_bing",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8c3668c819b9168fe3abf76e55a5ea78~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=f0b464b4&x-expires=1771826400&x-signature=XBXjcCl9RfzO%2F0ObwzMKAuIpegs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 182900,
+      "following": 67,
+      "total_likes": 15600000,
+      "video_count": 619,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
       "last_updated": "2026-02-21"
     },
     {
@@ -384,6 +624,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_song0330_15",
+      "platform": "tiktok",
+      "handle": "song0330_15",
+      "name": "이송희",
+      "profile_url": "https://www.tiktok.com/@song0330_15",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9fabadd91ee211c903c9d66f8fe0f3b4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=e74e6e2e&x-expires=1771826400&x-signature=E4%2FcnCfJZW4f1wHPcbBLJNvxXNA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 149100,
+      "following": 44,
+      "total_likes": 6100000,
+      "video_count": 388,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
       "last_updated": "2026-02-21"
     },
     {
@@ -503,6 +763,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_iamjiyookim",
+      "platform": "tiktok",
+      "handle": "iamjiyookim",
+      "name": "지유",
+      "profile_url": "https://www.tiktok.com/@iamjiyookim",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/2399703213147c2eea6bd5426579bd4e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a53f39ef&x-expires=1771826400&x-signature=NNJoO%2BBgmMe54rcKmxCeaIV3F%2BE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 99000,
+      "following": 3,
+      "total_likes": 312700,
+      "video_count": 575,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_gaeddorrai",
+      "platform": "tiktok",
+      "handle": "gaeddorrai",
+      "name": "김꿿꽑",
+      "profile_url": "https://www.tiktok.com/@gaeddorrai",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/adcdd9bf618ec7cdb1251c44eed362fe~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=57a801d8&x-expires=1771826400&x-signature=uYx1XV7DibwvDiW70bHVQxhzquo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 97900,
+      "following": 5,
+      "total_likes": 11300000,
+      "video_count": 691,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCaH0qTQwlqUZ6O54m0s04EA",
       "platform": "youtube",
       "channel_id": "UCaH0qTQwlqUZ6O54m0s04EA",
@@ -524,6 +824,46 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_4047khk1",
+      "platform": "tiktok",
+      "handle": "4047khk1",
+      "name": "은채",
+      "profile_url": "https://www.tiktok.com/@4047khk1",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/59e618f1bd4dc9efdb70079e2d3ca00b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=092ee56b&x-expires=1771826400&x-signature=QHloFvBrG9tFywv5PcG53uP7O%2BY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 89800,
+      "following": 36,
+      "total_likes": 2300000,
+      "video_count": 763,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_chae._.ullet",
+      "platform": "tiktok",
+      "handle": "chae._.ullet",
+      "name": "채울렛chaeullet",
+      "profile_url": "https://www.tiktok.com/@chae._.ullet",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/8d2b38fcf7e63637b2c40bb9506aae41~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=1b96acf7&x-expires=1771826400&x-signature=EduE2uxuRgqVNjgZGaIdK9UTi%2B0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 88700,
+      "following": 135,
+      "total_likes": 7900000,
+      "video_count": 621,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
       "last_updated": "2026-02-21"
     },
     {
@@ -599,6 +939,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_gumeeee_",
+      "platform": "tiktok",
+      "handle": "gumeeee_",
+      "name": "추구미",
+      "profile_url": "https://www.tiktok.com/@gumeeee_",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/525ace4bac1f138d6500fb1575510652~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3d5c5b73&x-expires=1771826400&x-signature=ql0RSKGbmP01Pt84iU2P5qKZagA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 78000,
+      "following": 30,
+      "total_likes": 3800000,
+      "video_count": 281,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_yul0428",
+      "platform": "tiktok",
+      "handle": "yul0428",
+      "name": "배율",
+      "profile_url": "https://www.tiktok.com/@yul0428",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/59a7216b5780b5fcb0bf099ff9676333~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=6506a2b8&x-expires=1771826400&x-signature=v7EqcebFBR63wh1zDIXh85kxRCw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 76100,
+      "following": 99,
+      "total_likes": 2900000,
+      "video_count": 165,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCFdi3igjh6--YqjX17M1lhA",
       "platform": "youtube",
       "channel_id": "UCFdi3igjh6--YqjX17M1lhA",
@@ -655,6 +1035,26 @@
       "engagement_rate": null,
       "bio": "피부과 9년차가 직접 사용하는 제품만 공유해요.\n모든 바비님들이 예뻐지는 그날까지🥚✨\n🔛 가쉬 10초팩 4종 (골라담기) 🚨역대급할인율🚨\n•\n•\n🔻구매는 아래링크 클릭🔻",
       "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_review_mimizzang",
+      "platform": "tiktok",
+      "handle": "review_mimizzang",
+      "name": "리뷰하는 미미쨩",
+      "profile_url": "https://www.tiktok.com/@review_mimizzang",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/823c0553db8a3efb5ac56616f5bc89d2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4ed88313&x-expires=1771826400&x-signature=uh3dOE6OGLWu3AT2OSZic%2FIwGN0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 52400,
+      "following": 13,
+      "total_likes": 2800000,
+      "video_count": 328,
+      "engagement_rate": null,
+      "is_verified": false,
       "category": [
         "skincare",
         "beauty"
@@ -871,6 +1271,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_jiu.skin_care",
+      "platform": "tiktok",
+      "handle": "jiu.skin_care",
+      "name": "JIUJIU",
+      "profile_url": "https://www.tiktok.com/@jiu.skin_care",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/0637e7102ffe58b66a5f35e2723e2682~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=23d07933&x-expires=1771826400&x-signature=tDq7r5A0SGz9oxdlv0YUFXzpvck%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 34000,
+      "following": 44,
+      "total_likes": 577800,
+      "video_count": 90,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCED7YKsAzQ2qi2e-cJ7yTEg",
       "platform": "youtube",
       "channel_id": "UCED7YKsAzQ2qi2e-cJ7yTEg",
@@ -892,6 +1312,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_cute_.dami",
+      "platform": "tiktok",
+      "handle": "cute_.dami",
+      "name": "겸다미",
+      "profile_url": "https://www.tiktok.com/@cute_.dami",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7642fc8c7c47119d6b57f05114d2dd69~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=79564364&x-expires=1771826400&x-signature=IvxQtYN8Kb6uBGX8VPsoaWL3f3Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 31700,
+      "following": 3,
+      "total_likes": 1700000,
+      "video_count": 563,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
       "last_updated": "2026-02-21"
     },
     {
@@ -919,6 +1359,86 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_22y22un",
+      "platform": "tiktok",
+      "handle": "22y22un",
+      "name": "피뷰티예은",
+      "profile_url": "https://www.tiktok.com/@22y22un",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ebb9c4d7015a8b5c152c705d3ee4fab7~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3f3dbae0&x-expires=1771826400&x-signature=vUJ59XKoqycfoKVLpvCwEBn4CzA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 31100,
+      "following": 0,
+      "total_likes": 688100,
+      "video_count": 48,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_rubyrubyrune",
+      "platform": "tiktok",
+      "handle": "rubyrubyrune",
+      "name": "rubyrubyrune",
+      "profile_url": "https://www.tiktok.com/@rubyrubyrune",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9909e0d698b6f4caa8bc5f1d08ce40ac~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d52c9c81&x-expires=1771826400&x-signature=v2Q04HZTne4Df63NfV%2FaQOHUrkA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 29800,
+      "following": 53,
+      "total_likes": 969400,
+      "video_count": 331,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_kimcassironway",
+      "platform": "tiktok",
+      "handle": "kimcassironway",
+      "name": "Kimcassie",
+      "profile_url": "https://www.tiktok.com/@kimcassironway",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ecf1b8a55d474460d15d92a534cb1a6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3e9b427b&x-expires=1771826400&x-signature=MgQOD0j6gbFYD4kDkT6KmMegwOk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 28800,
+      "following": 26,
+      "total_likes": 372000,
+      "video_count": 29,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_cmai0227",
+      "platform": "tiktok",
+      "handle": "cmai0227",
+      "name": "아무",
+      "profile_url": "https://www.tiktok.com/@cmai0227",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/98e2aca7e39cc3373e5f36c34f8d6eef~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fcd44f5c&x-expires=1771826400&x-signature=6Yh5NDBHo6nyIpKYBnmLD88RWZ0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 28400,
+      "following": 48,
+      "total_likes": 1200000,
+      "video_count": 89,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_byecom_cosmetic",
       "platform": "instagram",
       "handle": "byecom_cosmetic",
@@ -930,6 +1450,86 @@
       "posts_count": 1142,
       "engagement_rate": null,
       "bio": "ғᴏʀ ʏᴏᴜʀ ʙʀɪʟʟɪᴀɴᴛ sᴋɪɴ\n저자극 스킨케어 브랜드 바이애콤 BY ECOM 공식 계정💓",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_aeiezo.pdf",
+      "platform": "tiktok",
+      "handle": "aeiezo.pdf",
+      "name": "zoeeᶻ 𝗓 𐰁",
+      "profile_url": "https://www.tiktok.com/@aeiezo.pdf",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/af6f047c41dc4bebce8949836641d67c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=03fa5e65&x-expires=1771826400&x-signature=WfdQY%2BFwyYikq%2FPWZ0SSvwJgG2I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 25400,
+      "following": 166,
+      "total_likes": 513000,
+      "video_count": 76,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_jane2.lee",
+      "platform": "tiktok",
+      "handle": "jane2.lee",
+      "name": "Jane",
+      "profile_url": "https://www.tiktok.com/@jane2.lee",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a82b379d8024730920e9833dfcefcec1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=1b64a07e&x-expires=1771826400&x-signature=HCDa7c63m90%2BF7hwrYJbnKSsji4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 25100,
+      "following": 296,
+      "total_likes": 1100000,
+      "video_count": 199,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_palcon_dmi7",
+      "platform": "tiktok",
+      "handle": "palcon_dmi7",
+      "name": "드미",
+      "profile_url": "https://www.tiktok.com/@palcon_dmi7",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7a58c67c9ca9605f6747180938f79fb6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=875e1574&x-expires=1771826400&x-signature=ypL3jHHybzceDTteexfngGurlbE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 25100,
+      "following": 14,
+      "total_likes": 945800,
+      "video_count": 58,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_kalei_sg",
+      "platform": "tiktok",
+      "handle": "kalei_sg",
+      "name": "kalei SG",
+      "profile_url": "https://www.tiktok.com/@kalei_sg",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/be4fdfb60be6edad5bb413312b9e3274~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c99d5c1e&x-expires=1771826400&x-signature=vrwrUP3e91jd9J2moRWJM%2FnrUuw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 24600,
+      "following": 111,
+      "total_likes": 559400,
+      "video_count": 161,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -960,6 +1560,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_mybeauty_7",
+      "platform": "tiktok",
+      "handle": "mybeauty_7",
+      "name": "마이쀼",
+      "profile_url": "https://www.tiktok.com/@mybeauty_7",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/bb53a6405bb3eabbce1b163f6803e447~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=85f2b56c&x-expires=1771826400&x-signature=3UXHdBp1hCWPD2LIMA%2BJdCIozhc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 22500,
+      "following": 23,
+      "total_likes": 1000000,
+      "video_count": 76,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
       "last_updated": "2026-02-21"
     },
     {
@@ -1079,6 +1699,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_beyond_the_end200",
+      "platform": "tiktok",
+      "handle": "beyond_the_end200",
+      "name": "비트 BTE",
+      "profile_url": "https://www.tiktok.com/@beyond_the_end200",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/45985958f9a9284dee4a52f054425e47~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=5512e52b&x-expires=1771826400&x-signature=z0lbC99kV8DIRipgf5bPws%2BoyY4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 15200,
+      "following": 0,
+      "total_likes": 392900,
+      "video_count": 271,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_hemeko.o",
+      "platform": "tiktok",
+      "handle": "hemeko.o",
+      "name": "HEMEKO 헤메코",
+      "profile_url": "https://www.tiktok.com/@hemeko.o",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b278324b4ac622cacb9712ad450b17b0~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=eb1014e1&x-expires=1771826400&x-signature=2Ub1crYuJWmpVnFCzGli19rJpiM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 15200,
+      "following": 7,
+      "total_likes": 740800,
+      "video_count": 797,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UC6Z_wsj0tNT40IlEo1n0YNw",
       "platform": "youtube",
       "channel_id": "UC6Z_wsj0tNT40IlEo1n0YNw",
@@ -1151,6 +1811,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_user27502363879694",
+      "platform": "tiktok",
+      "handle": "user27502363879694",
+      "name": "모래",
+      "profile_url": "https://www.tiktok.com/@user27502363879694",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7206223706984480770~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a7216dbe&x-expires=1771826400&x-signature=hArY1M1qunWzzLK3Xkg6ElCpMug%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 13000,
+      "following": 5,
+      "total_likes": 357900,
+      "video_count": 210,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_bingbing010103",
+      "platform": "tiktok",
+      "handle": "bingbing010103",
+      "name": "빙빙 BingBing",
+      "profile_url": "https://www.tiktok.com/@bingbing010103",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/6870180c2eddab248813f5941e0ae491~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=75b5fcfc&x-expires=1771826400&x-signature=Kw5UgU5aXFkrlpRN8xYeKKHSHBc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 12800,
+      "following": 0,
+      "total_likes": 181500,
+      "video_count": 132,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_h_unny",
       "platform": "instagram",
       "handle": "h_unny",
@@ -1191,6 +1891,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_tentencouple",
+      "platform": "tiktok",
+      "handle": "tentencouple",
+      "name": "열살차이",
+      "profile_url": "https://www.tiktok.com/@tentencouple",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ad12e1d9d3955aa5631bc935573c019f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=0a81372f&x-expires=1771826400&x-signature=Gp95fAAalzTLnD8UNr%2FUcqPC5Fs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 12500,
+      "following": 7,
+      "total_likes": 434300,
+      "video_count": 344,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCmYFgly9rKU6VEsNT6J1DMQ",
       "platform": "youtube",
       "channel_id": "UCmYFgly9rKU6VEsNT6J1DMQ",
@@ -1215,6 +1935,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_daybyday_item",
+      "platform": "tiktok",
+      "handle": "daybyday_item",
+      "name": "보그디그",
+      "profile_url": "https://www.tiktok.com/@daybyday_item",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d432426c996ad7b3682817da57b9ca96~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=05205cb1&x-expires=1771826400&x-signature=%2FAWYvAZ5srQb5KUzyw2S1p5Tn28%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 11500,
+      "following": 24,
+      "total_likes": 33600,
+      "video_count": 229,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_ohvelyjoo_eng",
       "platform": "instagram",
       "handle": "ohvelyjoo_eng",
@@ -1226,6 +1966,26 @@
       "posts_count": 555,
       "engagement_rate": null,
       "bio": "📍 Hongik Station(exit 2)\n✨ FREE English Consultation \n🩷 Beauty & Dermatology service\n💌 Booking/Consu",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_mukpresident",
+      "platform": "tiktok",
+      "handle": "mukpresident",
+      "name": "먹통령 - mukpresident",
+      "profile_url": "https://www.tiktok.com/@mukpresident",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/4be42c501e0737f4a46e04d8b8facdf2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=67acddf7&x-expires=1771826400&x-signature=jOjusHfEww7Qml2g0h4aJ85h9vg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 10500,
+      "following": 1,
+      "total_likes": 721500,
+      "video_count": 925,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -1279,6 +2039,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_chichi_e_u",
+      "platform": "tiktok",
+      "handle": "chichi_e_u",
+      "name": "유치치",
+      "profile_url": "https://www.tiktok.com/@chichi_e_u",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/2c414429ed788f3fe202f09d0081677a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=9beecfb8&x-expires=1771826400&x-signature=Gmd%2F6XMmsbO9f%2Bc8J76YR7N3kio%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 8673,
+      "following": 0,
+      "total_likes": 190000,
+      "video_count": 251,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_review_hee_",
       "platform": "instagram",
       "handle": "review_hee_",
@@ -1319,6 +2099,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_drcosmo12",
+      "platform": "tiktok",
+      "handle": "drcosmo12",
+      "name": "닥터코스모",
+      "profile_url": "https://www.tiktok.com/@drcosmo12",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/0e1f7483ebe120027ecf7122944fcc63~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fcfc1054&x-expires=1771826400&x-signature=8lTEcA0edmJWTIY%2FxhfaTjSjReI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 7469,
+      "following": 4,
+      "total_likes": 82900,
+      "video_count": 272,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_blau_ha_2",
       "platform": "instagram",
       "handle": "blau_ha_2",
@@ -1330,6 +2130,26 @@
       "posts_count": 1646,
       "engagement_rate": null,
       "bio": "• Beauty & fashion & healthy\n❥✧¸.•*¨*✧♡✧✧♡✧*¨*•.❥\n🔗소개한 제품들은 하단 링크 Click \n💫#무신사크리에이터 #wconcept #셔터브리티",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_shunierose",
+      "platform": "tiktok",
+      "handle": "shunierose",
+      "name": "슈니",
+      "profile_url": "https://www.tiktok.com/@shunierose",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ff3ff56b169210c209281295156af7bb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=120dd568&x-expires=1771826400&x-signature=gl24%2B2zWrDXltVpjN04S7zzH5DM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 5960,
+      "following": 75,
+      "total_likes": 146600,
+      "video_count": 43,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -1424,6 +2244,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_livingmans",
+      "platform": "tiktok",
+      "handle": "livingmans",
+      "name": "사는사람",
+      "profile_url": "https://www.tiktok.com/@livingmans",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/671028c76dc6add04f5f495c1d7d0929~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=63840e3d&x-expires=1771826400&x-signature=dzFl2SCzgjsXLp%2Bh70y9FvN7bs4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 4778,
+      "following": 3,
+      "total_likes": 23100,
+      "video_count": 153,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
       "last_updated": "2026-02-21"
     },
     {
@@ -1535,6 +2375,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_u__girin",
+      "platform": "tiktok",
+      "handle": "u__girin",
+      "name": "유기리니 🦒",
+      "profile_url": "https://www.tiktok.com/@u__girin",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ee5c0c1ef06fac736581af0b2ad0470c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4575f665&x-expires=1771826400&x-signature=AK5Uwm%2Bw53HzvRxwVkzMbiYQjIE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 3360,
+      "following": 19,
+      "total_likes": 210000,
+      "video_count": 190,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCYQ-i8qGil3T3AqJkU269Eg",
       "platform": "youtube",
       "channel_id": "UCYQ-i8qGil3T3AqJkU269Eg",
@@ -1556,6 +2416,46 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_hyovelyya",
+      "platform": "tiktok",
+      "handle": "hyovelyya",
+      "name": "hyovelyya",
+      "profile_url": "https://www.tiktok.com/@hyovelyya",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ab78b17878447c0b0250e9707f8f18c8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=36da389c&x-expires=1771826400&x-signature=q5F7Qhovl%2B7p62gwfwNFehtGv38%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 3215,
+      "following": 64,
+      "total_likes": 204900,
+      "video_count": 79,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_roslynkim_",
+      "platform": "tiktok",
+      "handle": "roslynkim_",
+      "name": "ro",
+      "profile_url": "https://www.tiktok.com/@roslynkim_",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/965b7ac69a039dd31c56c7bca85f0426~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3a192476&x-expires=1771826400&x-signature=UotRwaJ4oH6wgFhODXHzNOXEPdU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 3130,
+      "following": 128,
+      "total_likes": 33400,
+      "video_count": 56,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
       "last_updated": "2026-02-21"
     },
     {
@@ -1590,6 +2490,26 @@
       "posts_count": 28,
       "engagement_rate": null,
       "bio": "Your skin’s soulmate for glow ✨ \nDaily skincare tips • Glow ritual ⛅\nK-Beauty 🇰🇷 | Indo-Ayurveda 🌿 |",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_bae_jita0404",
+      "platform": "tiktok",
+      "handle": "bae_jita0404",
+      "name": "배지타",
+      "profile_url": "https://www.tiktok.com/@bae_jita0404",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a55b0647d9b64e375480ab4cd827762d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=e873d574&x-expires=1771826400&x-signature=W9EOD5fzeAMd1qdJ2LZcxH8gGCo%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 2818,
+      "following": 595,
+      "total_likes": 136600,
+      "video_count": 275,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -1647,6 +2567,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_vanessarotondi",
+      "platform": "tiktok",
+      "handle": "vanessarotondi",
+      "name": "Vanessa Rotondi",
+      "profile_url": "https://www.tiktok.com/@vanessarotondi",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/06d33c9d155d4b836d44ba09b2e21877~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=283c74f2&x-expires=1771826400&x-signature=Jxw33mRIeiDy2FNK2Fucj9gN1pQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 2451,
+      "following": 76,
+      "total_likes": 189200,
+      "video_count": 578,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCqt1ri48VA36lgKTd4kC4SA",
       "platform": "youtube",
       "channel_id": "UCqt1ri48VA36lgKTd4kC4SA",
@@ -1668,6 +2608,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_gwonhaul",
+      "platform": "tiktok",
+      "handle": "gwonhaul",
+      "name": "gwonhaul",
+      "profile_url": "https://www.tiktok.com/@gwonhaul",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a528b1298d7188c2f2c8cac1cdaaf89b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7a7f3b09&x-expires=1771826400&x-signature=OAc6aq9oBDl5S0Jy6fiFZzGLXgk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 2272,
+      "following": 33,
+      "total_likes": 148500,
+      "video_count": 43,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
       "last_updated": "2026-02-21"
     },
     {
@@ -1755,6 +2715,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "tt_mung.0501",
+      "platform": "tiktok",
+      "handle": "mung.0501",
+      "name": "뭉",
+      "profile_url": "https://www.tiktok.com/@mung.0501",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b044207969d08a0d11e9dbd99ea32d13~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8cde66ec&x-expires=1771826400&x-signature=7uaMJNKiMJfEzLL%2Bc347k%2BzMaA8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 1624,
+      "following": 42,
+      "total_likes": 99000,
+      "video_count": 56,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "yt_UCnWN_EiWn8UeyNtlZ4quiKA",
       "platform": "youtube",
       "channel_id": "UCnWN_EiWn8UeyNtlZ4quiKA",
@@ -1776,6 +2756,26 @@
         "skincare",
         "beauty"
       ],
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_sooooaivix",
+      "platform": "tiktok",
+      "handle": "sooooaivix",
+      "name": "숭아",
+      "profile_url": "https://www.tiktok.com/@sooooaivix",
+      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/89e0714ac66538b2df69bccdc7b603c9~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d6a3b696&x-expires=1771826400&x-signature=Eu5maJVJvU%2FDkgz3Z0Y0SayeP60%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 1584,
+      "following": 6,
+      "total_likes": 50600,
+      "video_count": 90,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
       "last_updated": "2026-02-21"
     },
     {
@@ -1810,6 +2810,26 @@
       "posts_count": 382,
       "engagement_rate": null,
       "bio": "문제성피부 𝟭:𝟭케어\n피부학과 전공\n피부과 경력 𝟭𝟬년\nㅤㅤ\nㅤ🧸네이버예약 & 문의",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_hanmood_y",
+      "platform": "tiktok",
+      "handle": "hanmood_y",
+      "name": "한무드",
+      "profile_url": "https://www.tiktok.com/@hanmood_y",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/002d3377503004e613143ff9808e554a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=6a630b6d&x-expires=1771826400&x-signature=QrTG9hhr0BKZycICcqQbhoZG0%2F0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 1502,
+      "following": 0,
+      "total_likes": 58100,
+      "video_count": 20,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -1854,6 +2874,46 @@
       "posts_count": 223,
       "engagement_rate": null,
       "bio": "빛이 만든 구조적 피부 흔적 케어하는 더마🌞\n해안가에서 태어난 리얼 메디컬 브랜드\n✨️2024 Allure Rising Beauty✨️\nSporty & Good Care Life\n",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_potatojo_a",
+      "platform": "tiktok",
+      "handle": "potatojo_a",
+      "name": "potatojo_a",
+      "profile_url": "https://www.tiktok.com/@potatojo_a",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/c3684bfde03e1ff07f369e65acb652a3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7fc17cb4&x-expires=1771826400&x-signature=OkGmLBjXssu8nl2gcDmUiAzyT0s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 1233,
+      "following": 0,
+      "total_likes": 29000,
+      "video_count": 21,
+      "engagement_rate": null,
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_yeribuu",
+      "platform": "tiktok",
+      "handle": "yeribuu",
+      "name": "예리부🖤",
+      "profile_url": "https://www.tiktok.com/@yeribuu",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/2db8e88eb026b998605792d21fdb4400~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=19268b95&x-expires=1771826400&x-signature=YFqLKJq%2FEuJM1gzxqvdaQ0ar74Y%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
+      "followers": 1192,
+      "following": 2,
+      "total_likes": 18100,
+      "video_count": 88,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",
@@ -1994,6 +3054,26 @@
       "posts_count": 654,
       "engagement_rate": null,
       "bio": "Whatsapp: +82 10 8377 7580\nKakao: tsprsglobal\nYoutube: @tsprsen\nLine : trprsen",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "tt_k_jaeshin",
+      "platform": "tiktok",
+      "handle": "k_jaeshin",
+      "name": "재신 jaeshin",
+      "profile_url": "https://www.tiktok.com/@k_jaeshin",
+      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/09ac7ce28e96ee59712344d6c3ec8eaf~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=e94ae49a&x-expires=1771826400&x-signature=ETxrTgck9gbvRg8ZazxHjiti0VI%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
+      "followers": 1015,
+      "following": 16,
+      "total_likes": 14200,
+      "video_count": 44,
+      "engagement_rate": null,
       "is_verified": false,
       "category": [
         "skincare",

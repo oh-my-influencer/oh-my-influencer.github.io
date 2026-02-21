@@ -1,27 +1,31 @@
 {
-    "youtube": {
-      "keywords": [
-        "스킨케어 루틴",
-        "skincare review 한국",
-        "피부 관리 추천",
-        "화장품 리뷰",
-        "korean skincare routine"
-      ],
-      "max_results_per_keyword": 20
-    },
-    "instagram": {
-      "hashtags": [
-        "스킨케어",
-        "피부관리",
-        "화장품리뷰",
-        "koreanbeauty",
-        "kbeauty"
-      ],
-      "max_results_per_hashtag": 30
-    },
-    "filters": {
-      "min_followers": 1000,
-      "max_followers": 1000000,
-      "min_videos": 10
-    }
+  "youtube": {
+    "keywords": [
+      "스킨케어 루틴",
+      "피부 관리 추천",
+      "화장품 리뷰"
+    ],
+    "max_results_per_keyword": 20
+  },
+  "instagram": {
+    "hashtags": [
+      "스킨케어",
+      "피부관리",
+      "화장품리뷰"
+    ],
+    "max_results_per_hashtag": 30
+  },
+  "filters": {
+    "min_followers": 1000,
+    "max_followers": 1000000,
+    "min_videos": 10
+  },
+  "tiktok": {
+    "hashtags": [
+      "스킨케어",
+      "피부관리",
+      "화장품추천"
+    ],
+    "max_results_per_hashtag": 30
   }
+}

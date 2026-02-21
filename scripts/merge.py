@@ -20,6 +20,7 @@ ROOT = Path(__file__).parent.parent
 SOURCES = [
     ROOT / "data" / "youtube.json",
     ROOT / "data" / "instagram.json",
+    ROOT / "data" / "tiktok.json",
 ]
 OUTPUT_PATH = ROOT / "data" / "influencers.json"
 

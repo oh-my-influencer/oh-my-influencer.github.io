@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-02-21T06:42:01.013868+00:00",
-  "count": 34,
+  "generated_at": "2026-02-21T13:53:10.564280+00:00",
+  "count": 49,
   "influencers": [
+    {
+      "id": "ig_share_tip",
+      "platform": "instagram",
+      "handle": "share_tip",
+      "name": "꿀팁을 담아서 공유",
+      "profile_url": "https://www.instagram.com/share_tip/",
+      "profile_image": "data/images/ig_share_tip.jpg",
+      "followers": 152385,
+      "following": 10,
+      "posts_count": 5159,
+      "engagement_rate": null,
+      "bio": "알아두면 유용한 정보만 담아서 공유 합니다💞\n[💓꿀팁을 담아서 공유 장바구니💓]\n✨👇🏻원하는 제품 여기 다 있음👇🏻✨",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
     {
       "id": "ig_sulwhasoo.us",
       "platform": "instagram",
@@ -15,6 +35,66 @@
       "engagement_rate": null,
       "bio": "Journey to Holistic Beauty",
       "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_leebkum",
+      "platform": "instagram",
+      "handle": "leebkum",
+      "name": "이보검",
+      "profile_url": "https://www.instagram.com/leebkum/",
+      "profile_image": "data/images/ig_leebkum.jpg",
+      "followers": 121811,
+      "following": 868,
+      "posts_count": 171,
+      "engagement_rate": null,
+      "bio": "𝐂𝐨𝐧𝐭𝐚𝐜𝐭: 𝐃𝐌💌 문의 디엠  #협찬#광고                            🍀💓☺️🥰❤️🍭🍀                                     ",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_luna.humor",
+      "platform": "instagram",
+      "handle": "luna.humor",
+      "name": "루나 유머 • 𝐋𝐮𝐧𝐚 𝐡𝐮𝐦𝐨𝐫",
+      "profile_url": "https://www.instagram.com/luna.humor/",
+      "profile_image": "data/images/ig_luna.humor.jpg",
+      "followers": 110156,
+      "following": 0,
+      "posts_count": 787,
+      "engagement_rate": null,
+      "bio": "𝑳𝒖𝒏𝒂 𝒉𝒖𝒎𝒐𝒓 .•❤︎\n⠀\n트렌디한 음악ㅣ케이팝ㅣ영화 드라마 예능 모음\n각종 문의는 ‘𝐃𝐌’⠀📨",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_jesty3978",
+      "platform": "instagram",
+      "handle": "jesty3978",
+      "name": "들국화언니",
+      "profile_url": "https://www.instagram.com/jesty3978/",
+      "profile_image": "data/images/ig_jesty3978.jpg",
+      "followers": 102539,
+      "following": 7498,
+      "posts_count": 2256,
+      "engagement_rate": null,
+      "bio": "디지털 크리에이터\n#여행 #카페투어  #여행팸투어 #맛집투어 #홈카페 #인테리어 #리빙\n문의 카톡아이디 min2533979\n협업문의 카톡주세요\n메일주소  jesty3978@nave",
+      "is_verified": false,
       "category": [
         "skincare",
         "beauty"
@@ -83,6 +163,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_kkaosis",
+      "platform": "instagram",
+      "handle": "kkaosis",
+      "name": "가현 | kkaosis",
+      "profile_url": "https://www.instagram.com/kkaosis/",
+      "profile_image": "data/images/ig_kkaosis.jpg",
+      "followers": 37249,
+      "following": 925,
+      "posts_count": 141,
+      "engagement_rate": null,
+      "bio": "그냥 일상 공유☁️",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_daehan__choi_",
       "platform": "instagram",
       "handle": "daehan__choi_",
@@ -94,6 +194,26 @@
       "posts_count": 326,
       "engagement_rate": null,
       "bio": "",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_museaura__official",
+      "platform": "instagram",
+      "handle": "museaura__official",
+      "name": "museaura__official",
+      "profile_url": "https://www.instagram.com/museaura__official/",
+      "profile_image": "data/images/ig_museaura__official.jpg",
+      "followers": 29510,
+      "following": 1,
+      "posts_count": 30,
+      "engagement_rate": null,
+      "bio": "Muse Aura 뮤즈아우라",
       "is_verified": false,
       "category": [
         "skincare",
@@ -134,6 +254,26 @@
       "posts_count": 4064,
       "engagement_rate": null,
       "bio": "Run by Prof. Dr.@amnaali.korea \nSupply korean skin care beauty products for our Kbeauty customers in",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_wellage.official",
+      "platform": "instagram",
+      "handle": "wellage.official",
+      "name": "웰라쥬 WELLAGE 공식 인스타그램",
+      "profile_url": "https://www.instagram.com/wellage.official/",
+      "profile_image": "data/images/ig_wellage.official.jpg",
+      "followers": 20553,
+      "following": 5,
+      "posts_count": 1015,
+      "engagement_rate": null,
+      "bio": "",
       "is_verified": false,
       "category": [
         "skincare",
@@ -423,6 +563,66 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_riha.home_",
+      "platform": "instagram",
+      "handle": "riha.home_",
+      "name": "리하홈🐰",
+      "profile_url": "https://www.instagram.com/riha.home_/",
+      "profile_image": "data/images/ig_riha.home_.jpg",
+      "followers": 2709,
+      "following": 706,
+      "posts_count": 216,
+      "engagement_rate": null,
+      "bio": "◆ 오늘의집 명예의 전당 크리에이터 / 누잠단 5기\n◆ 메이트하우스 1기 MVP & 오감리뷰 월간 우수 크리에이터\n◆ 5m 층고의 구축 아파트 탑층 신혼 라이프 ⋆◡̎⋆\n💌 협찬 ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_baby._krong",
+      "platform": "instagram",
+      "handle": "baby._krong",
+      "name": "서이♥゛",
+      "profile_url": "https://www.instagram.com/baby._krong/",
+      "profile_image": "data/images/ig_baby._krong.jpg",
+      "followers": 2558,
+      "following": 2024,
+      "posts_count": 91,
+      "engagement_rate": null,
+      "bio": "୨୧ ᴀᴄᴄᴏᴜɴᴛ ʀᴜɴ ʙʏ ᴍᴏᴍ\n୨୧ 2026.01.30⊹₊｡ꕤ˚\n୨୧ 보육교사 엄마의 육아 기록",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig__skin_lab7",
+      "platform": "instagram",
+      "handle": "_skin_lab7",
+      "name": "수진원장 |  여드름 압출 에클라스킨",
+      "profile_url": "https://www.instagram.com/_skin_lab7/",
+      "profile_image": "data/images/ig__skin_lab7.jpg",
+      "followers": 2517,
+      "following": 38,
+      "posts_count": 45,
+      "engagement_rate": null,
+      "bio": "여드름·홍조·예민피부 전문 케어\n|20년 경력, 누적 케이스 6만건이 증명하는 변화\n|문제성 피부, 관리 기준 바로 잡아드립니다.\n📩 영상 속 제품 & 피부 상담은 아래 링크 클릭",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_madeyoung_th",
       "platform": "instagram",
       "handle": "madeyoung_th",
@@ -454,6 +654,46 @@
       "posts_count": 15,
       "engagement_rate": null,
       "bio": "Salty Archive 🧂쇼금의 취향 기록\nBeauty & fashion content creator\n🤍💭 Collab: DM / kreppe@naver.com",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_godhong_official",
+      "platform": "instagram",
+      "handle": "godhong_official",
+      "name": "박지홍[朴知弘] ENFJ",
+      "profile_url": "https://www.instagram.com/godhong_official/",
+      "profile_image": "data/images/ig_godhong_official.jpg",
+      "followers": 2120,
+      "following": 2111,
+      "posts_count": 239,
+      "engagement_rate": null,
+      "bio": "[이것저것많이하는사람🎧]\n#뻔한거말고Fun한거하는사람\n아직 성장캐~ing🙌\n🇰🇷Korean performance DJ\nLA.Ent performance DJ😎\n#DJGodHong ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig__apple_uuu",
+      "platform": "instagram",
+      "handle": "_apple_uuu",
+      "name": "⋆⭒˚｡⋆🍎.˚ ༘♡﻿",
+      "profile_url": "https://www.instagram.com/_apple_uuu/",
+      "profile_image": "data/images/ig__apple_uuu.jpg",
+      "followers": 2117,
+      "following": 1810,
+      "posts_count": 32,
+      "engagement_rate": null,
+      "bio": "애플이의 모든 기록🍎\n 𝘼𝙘𝙘𝙤𝙪𝙣𝙩 𝙧𝙪𝙣 𝙗𝙮 𝙢𝙤𝙢",
       "is_verified": false,
       "category": [
         "skincare",
@@ -523,6 +763,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig__140416_remember",
+      "platform": "instagram",
+      "handle": "_140416_remember",
+      "name": "_140416_remember",
+      "profile_url": "https://www.instagram.com/_140416_remember/",
+      "profile_image": "data/images/ig__140416_remember.jpg",
+      "followers": 1493,
+      "following": 597,
+      "posts_count": 668,
+      "engagement_rate": null,
+      "bio": "ﾟ👑 *。\n퀸가람\n▼ 2026년 패션 & 뷰티 트렌드 한눈에 보기",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
       "id": "ig_dr.offshore.official",
       "platform": "instagram",
       "handle": "dr.offshore.official",
@@ -574,6 +834,26 @@
       "posts_count": 190,
       "engagement_rate": null,
       "bio": "✨Embracing my most authentic, whimsical, nerdy self 😌🔮✨🌙\n📚Current book read: Acotar \n✨LA based",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_whygg03",
+      "platform": "instagram",
+      "handle": "whygg03",
+      "name": "연두부",
+      "profile_url": "https://www.instagram.com/whygg03/",
+      "profile_image": "data/images/ig_whygg03.jpg",
+      "followers": 1149,
+      "following": 1285,
+      "posts_count": 82,
+      "engagement_rate": null,
+      "bio": "퍼컬 상관없이 다 구매🤭\n#코덕맞팔 \n#코덕계\n💌contact: wwhygg03@gmail.com or dm",
       "is_verified": false,
       "category": [
         "skincare",
@@ -654,6 +934,26 @@
       "posts_count": 139,
       "engagement_rate": null,
       "bio": "🔗 Share my fashion philosophy\n패션 지식과 철학을 공유합니다\n🐰@ameliefashion_official \n🐰PIONKI 서포터즈 @daub_official",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_allkind_effy",
+      "platform": "instagram",
+      "handle": "allkind_effy",
+      "name": "코덕 | Beauty Effy 에피🎀",
+      "profile_url": "https://www.instagram.com/allkind_effy/",
+      "profile_image": "data/images/ig_allkind_effy.jpg",
+      "followers": 1105,
+      "following": 2050,
+      "posts_count": 205,
+      "engagement_rate": null,
+      "bio": "❄️겨울쿨톤 / 수부지 / 19-21호\nAmbassador @menthology.official\nAmbassador 더페이스샵 7기\n화해 SNS리뷰단\n무신사/에이블리 크리에이터\nC",
       "is_verified": false,
       "category": [
         "skincare",

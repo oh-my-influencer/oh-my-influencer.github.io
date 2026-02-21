@@ -5,7 +5,8 @@ fetch_instagram.py
   1. Apify Instagram Hashtag Scraper로 해시태그별 게시물 수집
   2. 게시물에서 ownerUsername 추출 (신규만)
   3. Apify Instagram Profile Scraper로 팔로워 수 등 상세 정보 수집
-  4. 필터 적용 후 기존 + 신규 병합해서 instagram.json 저장
+  4. 프로필 이미지를 data/images/ 에 다운로드 후 로컬 경로로 저장
+  5. 필터 적용 후 기존 + 신규 병합해서 instagram.json 저장
 
 환경변수:
   APIFY_API_TOKEN : Apify API 토큰 (GitHub Secret으로 주입)
@@ -29,6 +30,7 @@ load_dotenv()
 ROOT = Path(__file__).parent.parent
 CONFIG_PATH = ROOT / "data" / "config.json"
 OUTPUT_PATH = ROOT / "data" / "instagram.json"
+IMAGES_DIR = ROOT / "data" / "images"
 
 APIFY_BASE = "https://api.apify.com/v2"
 HASHTAG_ACTOR = "apify~instagram-hashtag-scraper"
@@ -61,7 +63,6 @@ def load_existing(path: Path) -> dict[str, dict]:
 def run_actor(
     token: str, actor_id: str, input_data: dict, timeout_sec: int = 300
 ) -> list[dict]:
-    """Actor 실행 → 완료 대기 → 결과 반환"""
     run_resp = requests.post(
         f"{APIFY_BASE}/acts/{actor_id}/runs",
         params={"token": token},
@@ -74,7 +75,6 @@ def run_actor(
     dataset_id = run_data["defaultDatasetId"]
     print(f"   Actor 실행됨 (run_id: {run_id})")
 
-    # 완료 대기
     for _ in range(timeout_sec // 5):
         time.sleep(5)
         status = requests.get(
@@ -82,7 +82,6 @@ def run_actor(
             params={"token": token},
             timeout=10,
         ).json()["data"]["status"]
-
         if status == "SUCCEEDED":
             break
         if status in ("FAILED", "ABORTED", "TIMED-OUT"):
@@ -101,6 +100,33 @@ def run_actor(
     return items.json()
 
 
+# ── 이미지 다운로드 ────────────────────────────────────────
+def download_image(url: str, handle: str) -> str:
+    """
+    프로필 이미지를 data/images/ig_{handle}.jpg 로 저장하고
+    HTML에서 참조할 상대 경로를 반환한다.
+    이미 존재하면 다운로드 스킵.
+    """
+    if not url:
+        return ""
+
+    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
+    dest = IMAGES_DIR / f"ig_{handle}.jpg"
+
+    # 이미 있으면 스킵
+    if dest.exists():
+        return f"data/images/ig_{handle}.jpg"
+
+    try:
+        resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
+        resp.raise_for_status()
+        dest.write_bytes(resp.content)
+        return f"data/images/ig_{handle}.jpg"
+    except Exception as e:
+        print(f"   ⚠️ 이미지 다운로드 실패 ({handle}): {e}", file=sys.stderr)
+        return ""
+
+
 # ── Step 1: 해시태그 → username 목록 수집 ─────────────────
 def collect_usernames(token: str, hashtag: str, max_results: int) -> set[str]:
     posts = run_actor(
@@ -115,21 +141,15 @@ def collect_usernames(token: str, hashtag: str, max_results: int) -> set[str]:
     return {post["ownerUsername"] for post in posts if post.get("ownerUsername")}
 
 
-# ── Step 2: username → 프로필 상세 정보 수집 ──────────────
+# ── Step 2: username → 프로필 상세 + 이미지 다운로드 ──────
 def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
-    """Profile Scraper로 계정 상세 정보를 가져온다. (50개씩 배치)"""
     results = []
     chunk_size = 50
     for i in range(0, len(usernames), chunk_size):
         chunk = usernames[i : i + chunk_size]
         print(f"   프로필 조회 중: {len(chunk)}개")
         profiles = run_actor(
-            token,
-            PROFILE_ACTOR,
-            {
-                "usernames": chunk,
-            },
-            timeout_sec=300,
+            token, PROFILE_ACTOR, {"usernames": chunk}, timeout_sec=300
         )
 
         for p in profiles:
@@ -137,6 +157,12 @@ def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
             followers = p.get("followersCount") or p.get("followers", 0) or 0
             if not handle:
                 continue
+
+            # 이미지 다운로드 (HD 우선)
+            pic_url = p.get("profilePicUrlHD") or p.get("profilePicUrl") or ""
+            print(f"   📸 이미지 다운로드: @{handle}")
+            local_image = download_image(pic_url, handle)
+
             results.append(
                 {
                     "id": f"ig_{handle}",
@@ -144,9 +170,7 @@ def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
                     "handle": handle,
                     "name": p.get("fullName") or handle,
                     "profile_url": f"https://www.instagram.com/{handle}/",
-                    "profile_image": p.get("profilePicUrl")
-                    or p.get("profilePicUrlHD")
-                    or "",
+                    "profile_image": local_image,
                     "followers": followers,
                     "following": p.get("followsCount") or 0,
                     "posts_count": p.get("postsCount") or 0,
@@ -178,11 +202,10 @@ def main() -> None:
     min_f = filters.get("min_followers", 10_000)
     max_f = filters.get("max_followers", 1_000_000)
 
-    # 기존 계정 로드
     existing = load_existing(OUTPUT_PATH)
     print(f"📂 기존 계정 {len(existing)}개 로드됨\n")
 
-    # Step 1: 해시태그별 username 수집
+    # Step 1: 해시태그 → 신규 username 수집
     all_usernames: set[str] = set()
     for tag in hashtags:
         print(f"🔍 #{tag} 해시태그 크롤링 중...")
@@ -195,14 +218,14 @@ def main() -> None:
 
     print(f"📊 신규 발굴 username: {len(all_usernames)}개")
 
-    # Step 2: 신규 username만 프로필 상세 조회
+    # Step 2: 신규 username만 프로필 + 이미지 수집
     new_accounts: list[dict] = []
     if all_usernames:
-        print("\n👤 프로필 상세 정보 조회 중 (Profile Scraper)...")
+        print("\n👤 프로필 상세 정보 + 이미지 다운로드 중...")
         new_accounts = fetch_profiles(token, list(all_usernames))
-        print(f"   → {len(new_accounts)}개 프로필 수집 완료")
+        print(f"   → {len(new_accounts)}개 완료")
 
-    # 기존 + 신규 병합 후 필터 적용
+    # 병합 + 필터
     merged = {**existing, **{acc["handle"]: acc for acc in new_accounts}}
     filtered = [acc for acc in merged.values() if min_f <= acc["followers"] <= max_f]
     filtered.sort(key=lambda x: x["followers"], reverse=True)

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-21T13:53:10.564280+00:00",
-  "count": 49,
+  "generated_at": "2026-02-23T15:47:42.681660+00:00",
+  "count": 72,
   "influencers": [
     {
       "id": "ig_share_tip",
@@ -21,6 +21,46 @@
       ],
       "tier": "macro",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_seol_musefit",
+      "platform": "instagram",
+      "handle": "seol_musefit",
+      "name": "김 설",
+      "profile_url": "https://www.instagram.com/seol_musefit/",
+      "profile_image": "data/images/ig_seol_musefit.jpg",
+      "followers": 137572,
+      "following": 1191,
+      "posts_count": 139,
+      "engagement_rate": null,
+      "bio": "운동 • 레시피 • 뷰티\nFitness model🪽\n前, 도도필라테스 원장\n한양대학교 무용학과 졸업\nPilates & weight & yoga 12년\nFree & Scuba div",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_ot.si3",
+      "platform": "instagram",
+      "handle": "ot.si3",
+      "name": "月姫/루네",
+      "profile_url": "https://www.instagram.com/ot.si3/",
+      "profile_image": "data/images/ig_ot.si3.jpg",
+      "followers": 135570,
+      "following": 783,
+      "posts_count": 309,
+      "engagement_rate": null,
+      "bio": "WOWs所属\n【お仕事の依頼】はメールへ*.+ﾟ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_sulwhasoo.us",
@@ -103,6 +143,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_beautyus_mag",
+      "platform": "instagram",
+      "handle": "beautyus_mag",
+      "name": "뷰티어쓰ㅣBEAUTY MAGAZINE",
+      "profile_url": "https://www.instagram.com/beautyus_mag/",
+      "profile_image": "data/images/ig_beautyus_mag.jpg",
+      "followers": 82680,
+      "following": 264,
+      "posts_count": 2788,
+      "engagement_rate": null,
+      "bio": "뷰티라면 다 좋아 ˚ෆ*₊\n얇아진 지갑이 만든 에디터 취향을 담아 𓏲 ࣪  \n-\n📮beautyusofficial@gmail.com",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_luna.daily__",
+      "platform": "instagram",
+      "handle": "luna.daily__",
+      "name": "루나 데일리 • 𝐋𝐮𝐧𝐚 𝐝𝐚𝐢𝐥𝐲",
+      "profile_url": "https://www.instagram.com/luna.daily__/",
+      "profile_image": "data/images/ig_luna.daily__.jpg",
+      "followers": 66561,
+      "following": 0,
+      "posts_count": 838,
+      "engagement_rate": null,
+      "bio": "𝑳𝒖𝒏𝒂 𝒅𝒂𝒊𝒍𝒚 .•❤︎\n⠀\n트렌디한 음악ㅣ케이팝ㅣ영화 드라마 예능 모음\n각종 문의는 ‘𝐃𝐌’⠀📨",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_sasahk_official",
       "platform": "instagram",
       "handle": "sasahk_official",
@@ -143,6 +223,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_jamzzang",
+      "platform": "instagram",
+      "handle": "jamzzang",
+      "name": "잼짱",
+      "profile_url": "https://www.instagram.com/jamzzang/",
+      "profile_image": "data/images/ig_jamzzang.jpg",
+      "followers": 51366,
+      "following": 1393,
+      "posts_count": 568,
+      "engagement_rate": null,
+      "bio": "JAMZZANG\n📩 contact : DM\nvisd147@naver.com\n@comentstudio",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_jini__0511",
+      "platform": "instagram",
+      "handle": "jini__0511",
+      "name": "ᴊɪɴɪ",
+      "profile_url": "https://www.instagram.com/jini__0511/",
+      "profile_image": "data/images/ig_jini__0511.jpg",
+      "followers": 45140,
+      "following": 486,
+      "posts_count": 765,
+      "engagement_rate": null,
+      "bio": "🌹DJ JINI👑",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_studio_imissyou",
       "platform": "instagram",
       "handle": "studio_imissyou",
@@ -161,6 +281,26 @@
       ],
       "tier": "micro",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_dermatory.kr",
+      "platform": "instagram",
+      "handle": "dermatory.kr",
+      "name": "더마토리 Dermatory",
+      "profile_url": "https://www.instagram.com/dermatory.kr/",
+      "profile_image": "data/images/ig_dermatory.kr.jpg",
+      "followers": 37696,
+      "following": 8,
+      "posts_count": 1514,
+      "engagement_rate": null,
+      "bio": "🔬 모든 피부 고민별 더마 솔루션",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_kkaosis",
@@ -201,6 +341,26 @@
       ],
       "tier": "micro",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_nato.iove",
+      "platform": "instagram",
+      "handle": "nato.iove",
+      "name": "나토 러브 • 𝐍𝐚𝐭𝐨 𝐢𝐨𝐯𝐞",
+      "profile_url": "https://www.instagram.com/nato.iove/",
+      "profile_image": "data/images/ig_nato.iove.jpg",
+      "followers": 33044,
+      "following": 0,
+      "posts_count": 753,
+      "engagement_rate": null,
+      "bio": "𝑵𝒂𝒕𝒐 𝐢𝒐𝐯𝒆 .•❤︎\n⠀\n트렌디한 음악ㅣ케이팝ㅣ영화 드라마 예능 모음\n각종 문의는 ‘𝐃𝐌’⠀📨",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_museaura__official",
@@ -283,6 +443,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_like__kit",
+      "platform": "instagram",
+      "handle": "like__kit",
+      "name": "like__kit",
+      "profile_url": "https://www.instagram.com/like__kit/",
+      "profile_image": "data/images/ig_like__kit.jpg",
+      "followers": 14754,
+      "following": 1085,
+      "posts_count": 1305,
+      "engagement_rate": null,
+      "bio": "에너지사용법  *,\n🎼 Music @ Yonsei Univ. (Master's)\n*, K-beauty, ballet, travel",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_h_unny",
       "platform": "instagram",
       "handle": "h_unny",
@@ -363,6 +543,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_b.roche_official",
+      "platform": "instagram",
+      "handle": "b.roche_official",
+      "name": "B.ROCHE│비로체",
+      "profile_url": "https://www.instagram.com/b.roche_official/",
+      "profile_image": "data/images/ig_b.roche_official.jpg",
+      "followers": 8793,
+      "following": 3,
+      "posts_count": 58,
+      "engagement_rate": null,
+      "bio": "Nature’s heritage. Skin’s future.\n비로체_자연에서 시작된 스킨케어 브랜드",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_review_hee_",
       "platform": "instagram",
       "handle": "review_hee_",
@@ -423,6 +623,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_dh_hm0919",
+      "platform": "instagram",
+      "handle": "dh_hm0919",
+      "name": "MI🩷 마이미",
+      "profile_url": "https://www.instagram.com/dh_hm0919/",
+      "profile_image": "data/images/ig_dh_hm0919.jpg",
+      "followers": 6284,
+      "following": 2161,
+      "posts_count": 539,
+      "engagement_rate": null,
+      "bio": "▫️40대 관리는 계속된다\n🎀 내가 써본 가성비 굳!!! 아이템🔻🔻",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig__with.seoa_",
       "platform": "instagram",
       "handle": "_with.seoa_",
@@ -441,6 +661,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_thaominaaah",
+      "platform": "instagram",
+      "handle": "thaominaaah",
+      "name": "Minah 민아",
+      "profile_url": "https://www.instagram.com/thaominaaah/",
+      "profile_image": "data/images/ig_thaominaaah.jpg",
+      "followers": 5596,
+      "following": 566,
+      "posts_count": 847,
+      "engagement_rate": null,
+      "bio": "@minah.princess.kr  \nMahoe Liquid VN\nChallans de Paris | Skanskin VN\nSogang Univ '19 Media&Entertain",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_krepubliq",
@@ -483,6 +723,46 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_byryzn_cosmetics",
+      "platform": "instagram",
+      "handle": "byryzn_cosmetics",
+      "name": "BYRYZN BR",
+      "profile_url": "https://www.instagram.com/byryzn_cosmetics/",
+      "profile_image": "data/images/ig_byryzn_cosmetics.jpg",
+      "followers": 4205,
+      "following": 0,
+      "posts_count": 247,
+      "engagement_rate": null,
+      "bio": "바이리즌BR\n \nDiscover the Original Efficacy\n피부부터 피부 속까지 오리지널 유효성분을 전달합니다.",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_dermabellofficial",
+      "platform": "instagram",
+      "handle": "dermabellofficial",
+      "name": "더마벨 공식 인스타그램",
+      "profile_url": "https://www.instagram.com/dermabellofficial/",
+      "profile_image": "data/images/ig_dermabellofficial.jpg",
+      "followers": 3827,
+      "following": 3982,
+      "posts_count": 971,
+      "engagement_rate": null,
+      "bio": "\"나다운 아름다움을 찾는\"\n글로벌 클리닉, 에스테틱 브랜드 더마벨 DERMABELL",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_inyoe_official",
       "platform": "instagram",
       "handle": "inyoe_official",
@@ -521,6 +801,46 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_aquaque.official",
+      "platform": "instagram",
+      "handle": "aquaque.official",
+      "name": "아쿠아크 Aqu’aque",
+      "profile_url": "https://www.instagram.com/aquaque.official/",
+      "profile_image": "data/images/ig_aquaque.official.jpg",
+      "followers": 3348,
+      "following": 1,
+      "posts_count": 491,
+      "engagement_rate": null,
+      "bio": "𝗙𝗢𝗥 𝗬𝗢𝗨𝗥 𝗦𝗨𝗦𝗧𝗔𝗜𝗡𝗔𝗕𝗟𝗘 𝗟𝗜𝗙𝗘\n피부의식 ꜱᴋɪɴ ᴀᴡᴀʀᴇɴᴇꜱꜱ  | 피부를 감각의 창으로 바라보다 \n@aquaque.global",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_stayuth_official",
+      "platform": "instagram",
+      "handle": "stayuth_official",
+      "name": "𝐒𝐭𝐚𝐲𝐔𝐭𝐡 l 스테이유스",
+      "profile_url": "https://www.instagram.com/stayuth_official/",
+      "profile_image": "data/images/ig_stayuth_official.jpg",
+      "followers": 3261,
+      "following": 3,
+      "posts_count": 155,
+      "engagement_rate": null,
+      "bio": "+ 당신의 건강한 아름다움을 위한 동행. 스테이유스\n𝐼𝑛𝑛𝑜𝑣𝑎𝑡𝑖𝑣𝑒 𝑆𝑙𝑜𝑤-𝐴𝑔𝑖𝑛𝑔 𝑆𝑜𝑙𝑢𝑡𝑖𝑜𝑛 𝑓𝑜𝑟 𝑇𝑎𝑟𝑔𝑒𝑡𝑒𝑑 𝐶𝑎𝑟𝑒\n-\n🔻🔻🔻",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_sssseobom",
@@ -683,6 +1003,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_wtherapy",
+      "platform": "instagram",
+      "handle": "wtherapy",
+      "name": "W테라피",
+      "profile_url": "https://www.instagram.com/wtherapy/",
+      "profile_image": "data/images/ig_wtherapy.jpg",
+      "followers": 2119,
+      "following": 52,
+      "posts_count": 1765,
+      "engagement_rate": null,
+      "bio": "건강한 아름다움을 위해 깊이 생각합니다 :)\n- 뷰티마켓 · 종각살롱 · Since 2013\n⠀\n@wtherapy.salon",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig__apple_uuu",
       "platform": "instagram",
       "handle": "_apple_uuu",
@@ -701,6 +1041,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig___been09",
+      "platform": "instagram",
+      "handle": "__been09",
+      "name": "수빈",
+      "profile_url": "https://www.instagram.com/__been09/",
+      "profile_image": "data/images/ig___been09.jpg",
+      "followers": 1984,
+      "following": 599,
+      "posts_count": 25,
+      "engagement_rate": null,
+      "bio": "수빈",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_xaoj_v",
@@ -763,6 +1123,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_mo_mo_td",
+      "platform": "instagram",
+      "handle": "mo_mo_td",
+      "name": "모모티디 (motd)",
+      "profile_url": "https://www.instagram.com/mo_mo_td/",
+      "profile_image": "data/images/ig_mo_mo_td.jpg",
+      "followers": 1494,
+      "following": 1544,
+      "posts_count": 65,
+      "engagement_rate": null,
+      "bio": "💗 봄웜 〰️ 여쿨 어딘가\n💗 #motd #코덕맞팔 #코덕그램\n💗 화장품 날것의 후기 📸 \n💗코덕계정만 맞팔👌🏼dm안주셔두",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig__140416_remember",
       "platform": "instagram",
       "handle": "_140416_remember",
@@ -783,6 +1163,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_ihanutta",
+      "platform": "instagram",
+      "handle": "ihanutta",
+      "name": "애채",
+      "profile_url": "https://www.instagram.com/ihanutta/",
+      "profile_image": "data/images/ig_ihanutta.jpg",
+      "followers": 1493,
+      "following": 399,
+      "posts_count": 176,
+      "engagement_rate": null,
+      "bio": "고요해지기 위한 분주함",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
+    },
+    {
       "id": "ig_dr.offshore.official",
       "platform": "instagram",
       "handle": "dr.offshore.official",
@@ -801,6 +1201,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_feura_official",
+      "platform": "instagram",
+      "handle": "feura_official",
+      "name": "feura 퓌라",
+      "profile_url": "https://www.instagram.com/feura_official/",
+      "profile_image": "data/images/ig_feura_official.jpg",
+      "followers": 1359,
+      "following": 5,
+      "posts_count": 41,
+      "engagement_rate": null,
+      "bio": "𝖱𝖾𝗏𝖾𝗋𝗌𝖾 𝖳𝗂𝗆𝖾, 𝖱𝖾𝗏𝖾𝖺𝗅 𝖠𝗎𝗋𝖺",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_jujuboxlzlq",
@@ -841,6 +1261,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_moonis10",
+      "platform": "instagram",
+      "handle": "moonis10",
+      "name": "헤이, 사소한 기록",
+      "profile_url": "https://www.instagram.com/moonis10/",
+      "profile_image": "data/images/ig_moonis10.jpg",
+      "followers": 1160,
+      "following": 1195,
+      "posts_count": 281,
+      "engagement_rate": null,
+      "bio": "사소한 기록 •• 두루두루 느린 편 •• FTC10기",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_whygg03",
@@ -961,6 +1401,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_she.her.sho",
+      "platform": "instagram",
+      "handle": "she.her.sho",
+      "name": "쇼쇼ㅣ21호 여쿨라🧊🩵",
+      "profile_url": "https://www.instagram.com/she.her.sho/",
+      "profile_image": "data/images/ig_she.her.sho.jpg",
+      "followers": 1046,
+      "following": 2547,
+      "posts_count": 13,
+      "engagement_rate": null,
+      "bio": "네이버뷰스타, 홀리카홀리카, 앤365렌즈 등 30개 브랜드 서포터즈 경험으로 쌓은 뷰티, 패션 인사이트와 루틴 공유해요🩵✨\n모든 문의는 DM 주세요🤍",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-02-23"
     },
     {
       "id": "ig_tsprsglobal",

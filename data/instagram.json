@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-23T15:47:42.681660+00:00",
-  "count": 72,
+  "generated_at": "2026-03-02T15:42:47.808423+00:00",
+  "count": 91,
   "influencers": [
     {
       "id": "ig_share_tip",
@@ -101,6 +101,26 @@
       ],
       "tier": "macro",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_r.r_mamm",
+      "platform": "instagram",
+      "handle": "r.r_mamm",
+      "name": "김몽실 blog/wow353 ❤️",
+      "profile_url": "https://www.instagram.com/r.r_mamm/",
+      "profile_image": "data/images/ig_r.r_mamm.jpg",
+      "followers": 116312,
+      "following": 5796,
+      "posts_count": 4649,
+      "engagement_rate": null,
+      "bio": "🎈말랑싸랑 🎈Account run by mom",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_luna.humor",
@@ -243,6 +263,26 @@
       "last_updated": "2026-02-23"
     },
     {
+      "id": "ig_moms_beauty_0",
+      "platform": "instagram",
+      "handle": "moms_beauty_0",
+      "name": "예쁜 엄마가 되고 싶다면  [맘스뷰티🎀]",
+      "profile_url": "https://www.instagram.com/moms_beauty_0/",
+      "profile_image": "data/images/ig_moms_beauty_0.jpg",
+      "followers": 49117,
+      "following": 0,
+      "posts_count": 156,
+      "engagement_rate": null,
+      "bio": "바쁜 엄마들을 위한 5분 뷰티 루틴🎀\n아이 챙기느라 나를 놓쳤다면\n팔로우하고 예뻐지기!\n영상 속 모든 제품은 아래 링크 클릭⬇️",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_jini__0511",
       "platform": "instagram",
       "handle": "jini__0511",
@@ -343,6 +383,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_sense_mama_",
+      "platform": "instagram",
+      "handle": "sense_mama_",
+      "name": "센스마마🩷",
+      "profile_url": "https://www.instagram.com/sense_mama_/",
+      "profile_image": "data/images/ig_sense_mama_.jpg",
+      "followers": 33219,
+      "following": 794,
+      "posts_count": 237,
+      "engagement_rate": null,
+      "bio": "팔로우 하고 매일 육아,살림 꿀템 받기👉\n▫️센스있는 엄마들은 다 아는 계정▫️\n✨️엄마들이 심쿵한 아이템 총정리✨️",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_nato.iove",
       "platform": "instagram",
       "handle": "nato.iove",
@@ -401,6 +461,26 @@
       ],
       "tier": "micro",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig__nagi_729",
+      "platform": "instagram",
+      "handle": "_nagi_729",
+      "name": "나기",
+      "profile_url": "https://www.instagram.com/_nagi_729/",
+      "profile_image": "data/images/ig__nagi_729.jpg",
+      "followers": 23030,
+      "following": 1567,
+      "posts_count": 2365,
+      "engagement_rate": null,
+      "bio": "𝑩𝑬𝑨𝑼𝑻𝒀 코덕 21호\n📧 nagi_729@naver.com\n👇AKlover 제품 구매링크",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_koreanmegastorebelle",
@@ -543,6 +623,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_merci.hu",
+      "platform": "instagram",
+      "handle": "merci.hu",
+      "name": "은영 | 메르시후",
+      "profile_url": "https://www.instagram.com/merci.hu/",
+      "profile_image": "data/images/ig_merci.hu.jpg",
+      "followers": 10036,
+      "following": 1928,
+      "posts_count": 3022,
+      "engagement_rate": null,
+      "bio": "그날의 분위기 🕊️\n-\n한샘 | 홈크루Lite\n룸앤홈 | 룸메이트 13기\n⠀\n#집꾸미기 #홈인테리어\n#홈스타그램 #뷰티스타그램 #데일리룩",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_b.roche_official",
       "platform": "instagram",
       "handle": "b.roche_official",
@@ -563,6 +663,26 @@
       "last_updated": "2026-02-23"
     },
     {
+      "id": "ig_bomddoong",
+      "platform": "instagram",
+      "handle": "bomddoong",
+      "name": "bomddoong",
+      "profile_url": "https://www.instagram.com/bomddoong/",
+      "profile_image": "data/images/ig_bomddoong.jpg",
+      "followers": 8635,
+      "following": 3771,
+      "posts_count": 443,
+      "engagement_rate": null,
+      "bio": "우기 🌷\nhooney · yejun · woogi 🤍\n일상육아 · 가족기록 · 솔직리뷰 \n소통하며지내요𓂃⋆✿˖°",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_review_hee_",
       "platform": "instagram",
       "handle": "review_hee_",
@@ -581,6 +701,46 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_bbb_utter",
+      "platform": "instagram",
+      "handle": "bbb_utter",
+      "name": "Butter Review",
+      "profile_url": "https://www.instagram.com/bbb_utter/",
+      "profile_image": "data/images/ig_bbb_utter.jpg",
+      "followers": 7951,
+      "following": 7283,
+      "posts_count": 580,
+      "engagement_rate": null,
+      "bio": "🤍 맛집, 스킨케어, 뷰티, 라이프까지 다양하게! #버터롱\n💬 광고ㆍ협찬DM",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
+      "id": "ig_imsunni__",
+      "platform": "instagram",
+      "handle": "imsunni__",
+      "name": "경선",
+      "profile_url": "https://www.instagram.com/imsunni__/",
+      "profile_image": "data/images/ig_imsunni__.jpg",
+      "followers": 7605,
+      "following": 546,
+      "posts_count": 354,
+      "engagement_rate": null,
+      "bio": "I'm sunny \nSUNNIARY 📝\n건강한 삶으로 🌳🧘🏻‍♀️🕯️\n✉️ contact : DM",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_firstpharmacy_ug",
@@ -643,6 +803,26 @@
       "last_updated": "2026-02-23"
     },
     {
+      "id": "ig_castle._.story",
+      "platform": "instagram",
+      "handle": "castle._.story",
+      "name": "🫧 민정이의 대외활동 🫧",
+      "profile_url": "https://www.instagram.com/castle._.story/",
+      "profile_image": "data/images/ig_castle._.story.jpg",
+      "followers": 5841,
+      "following": 7328,
+      "posts_count": 71,
+      "engagement_rate": null,
+      "bio": "#대외활동 #대외활동계정 #대외활동맞팔 \n🔗 활동 정리는 링크 참고",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig__with.seoa_",
       "platform": "instagram",
       "handle": "_with.seoa_",
@@ -681,6 +861,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_j_j_i_n_y",
+      "platform": "instagram",
+      "handle": "j_j_i_n_y",
+      "name": "탕탕구리",
+      "profile_url": "https://www.instagram.com/j_j_i_n_y/",
+      "profile_image": "data/images/ig_j_j_i_n_y.jpg",
+      "followers": 5545,
+      "following": 4078,
+      "posts_count": 4459,
+      "engagement_rate": null,
+      "bio": "🐕 🏡 🏃‍♀️ 👩‍🍳 👫 🐶 🏊‍♀️ 🎶 🍺\n개산책, 사람밥, OOTD친자",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_krepubliq",
@@ -743,6 +943,46 @@
       "last_updated": "2026-02-23"
     },
     {
+      "id": "ig_jjeong6392",
+      "platform": "instagram",
+      "handle": "jjeong6392",
+      "name": "쩡이",
+      "profile_url": "https://www.instagram.com/jjeong6392/",
+      "profile_image": "data/images/ig_jjeong6392.jpg",
+      "followers": 4107,
+      "following": 5495,
+      "posts_count": 383,
+      "engagement_rate": null,
+      "bio": "RN38848397",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
+      "id": "ig_arin.harin_twins",
+      "platform": "instagram",
+      "handle": "arin.harin_twins",
+      "name": "𝑨𝒓𝒊𝒏ෆ 𝑯𝒂𝒓𝒊𝒏ෆ",
+      "profile_url": "https://www.instagram.com/arin.harin_twins/",
+      "profile_image": "data/images/ig_arin.harin_twins.jpg",
+      "followers": 3958,
+      "following": 4041,
+      "posts_count": 212,
+      "engagement_rate": null,
+      "bio": "ᴀᴄᴄᴏᴜɴᴛ ʀᴜɴ ʙʏ ᴍᴏᴍ @_nayoon___ \n👶🏻👶🏻➋⓿➋➍.➊➊.➊➑",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_dermabellofficial",
       "platform": "instagram",
       "handle": "dermabellofficial",
@@ -801,6 +1041,46 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_knjiyn",
+      "platform": "instagram",
+      "handle": "knjiyn",
+      "name": "윤",
+      "profile_url": "https://www.instagram.com/knjiyn/",
+      "profile_image": "data/images/ig_knjiyn.jpg",
+      "followers": 3571,
+      "following": 936,
+      "posts_count": 901,
+      "engagement_rate": null,
+      "bio": "𓈒𓏸𓈒 𓂂🎀𓂂 𓈒𓏸𓈒\n22호 가을뮤트 소프트\n💌ᴅᴍ 📧ᴄᴏʟᴏʀᴛᴡɪsᴛ@ɴᴀᴠᴇʀ.ᴄᴏᴍ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
+      "id": "ig_anni_nakano",
+      "platform": "instagram",
+      "handle": "anni_nakano",
+      "name": "Anni Nakano",
+      "profile_url": "https://www.instagram.com/anni_nakano/",
+      "profile_image": "data/images/ig_anni_nakano.jpg",
+      "followers": 3447,
+      "following": 1191,
+      "posts_count": 717,
+      "engagement_rate": null,
+      "bio": "🇯🇵 x 🇸🇪\n📍東京 \n(Japanese/Swedish/English/Korean📚)\n💌 anninakanoco@gmail.com",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_aquaque.official",
@@ -1043,6 +1323,26 @@
       "last_updated": "2026-02-21"
     },
     {
+      "id": "ig_jiyou123_",
+      "platform": "instagram",
+      "handle": "jiyou123_",
+      "name": "지유",
+      "profile_url": "https://www.instagram.com/jiyou123_/",
+      "profile_image": "data/images/ig_jiyou123_.jpg",
+      "followers": 2071,
+      "following": 1006,
+      "posts_count": 110,
+      "engagement_rate": null,
+      "bio": "놀고 먹고 또 놀고먹기중~!!\n뽀로로인가ㅋ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig___been09",
       "platform": "instagram",
       "handle": "__been09",
@@ -1183,6 +1483,46 @@
       "last_updated": "2026-02-23"
     },
     {
+      "id": "ig_imelgg_",
+      "platform": "instagram",
+      "handle": "imelgg_",
+      "name": "Elisa",
+      "profile_url": "https://www.instagram.com/imelgg_/",
+      "profile_image": "data/images/ig_imelgg_.jpg",
+      "followers": 1478,
+      "following": 1182,
+      "posts_count": 205,
+      "engagement_rate": null,
+      "bio": "엘리 🌸🧿\nSicily 🇮🇹☀️🇰🇷🩷\n✈️ 🌏 @inviaggioconbe",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
+      "id": "ig_letsgo10km",
+      "platform": "instagram",
+      "handle": "letsgo10km",
+      "name": "짱은희",
+      "profile_url": "https://www.instagram.com/letsgo10km/",
+      "profile_image": "data/images/ig_letsgo10km.jpg",
+      "followers": 1420,
+      "following": 1248,
+      "posts_count": 67,
+      "engagement_rate": null,
+      "bio": "I like it\nBoxing • Running • Trail Running\n러닝용품 글러브 협찬받는 그날까지 🏃🏻‍♀️🥊\n맞팔을 안했다면 디엠으로 당근을 흔들어 주세요 🥕🧑🏻‍🌾",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
+    },
+    {
       "id": "ig_dr.offshore.official",
       "platform": "instagram",
       "handle": "dr.offshore.official",
@@ -1221,6 +1561,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-23"
+    },
+    {
+      "id": "ig_myo__o",
+      "platform": "instagram",
+      "handle": "myo__o",
+      "name": "묘영",
+      "profile_url": "https://www.instagram.com/myo__o/",
+      "profile_image": "data/images/ig_myo__o.jpg",
+      "followers": 1284,
+      "following": 252,
+      "posts_count": 538,
+      "engagement_rate": null,
+      "bio": "妙(묘할 묘)煐(빛날 영)\n177cm 36-24-39\n📩ᴄᴏɴᴛᴀᴄᴛ ᴅᴍ",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_jujuboxlzlq",
@@ -1341,6 +1701,26 @@
       ],
       "tier": "nano",
       "last_updated": "2026-02-21"
+    },
+    {
+      "id": "ig_byong.1020_",
+      "platform": "instagram",
+      "handle": "byong.1020_",
+      "name": "이병식",
+      "profile_url": "https://www.instagram.com/byong.1020_/",
+      "profile_image": "data/images/ig_byong.1020_.jpg",
+      "followers": 1131,
+      "following": 7065,
+      "posts_count": 298,
+      "engagement_rate": null,
+      "bio": "1시간\n24시간\n365일\n매일 행복하구 보람차게",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-02"
     },
     {
       "id": "ig_seul._.h710",

@@ -28,6 +28,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
+from utils import detect_language
 
 load_dotenv()
 
@@ -131,18 +132,27 @@ def extract_accounts(videos: list[dict]) -> dict[str, dict]:
         avatar = author.get("avatar") or author.get("avatarLarger") or ""
         verified = author.get("verified") or False
 
+        # region 코드 → country (KR/JP 매핑, 없으면 언어 감지로 보완)
+        region = (author.get("region") or "").upper()
+        if region in ("KR", "JP"):
+            country = region
+        else:
+            sig = (author.get("signature") or "") + " " + nick
+            country = detect_language(sig, handle=handle)
+
         accounts[handle] = {
             "id": f"tt_{handle}",
             "platform": "tiktok",
             "handle": handle,
             "name": nick,
             "profile_url": f"https://www.tiktok.com/@{handle}",
-            "profile_image": avatar,  # TikTok CDN은 비교적 접근 가능
+            "profile_image": avatar,
             "followers": followers,
             "following": following,
             "total_likes": heart,
             "video_count": video_cnt,
             "engagement_rate": None,
+            "country": country,
             "is_verified": verified,
             "category": ["skincare", "beauty"],
             "tier": get_tier(followers),
@@ -193,7 +203,13 @@ def main() -> None:
 
     # 병합 + 필터
     merged = {**existing, **newly_found}
-    filtered = [acc for acc in merged.values() if acc["followers"] >= min_f]
+    allowed = [c.upper() for c in filters.get("allowed_countries", [])]
+    filtered = [
+        acc
+        for acc in merged.values()
+        if acc["followers"] >= min_f
+        and (not allowed or acc.get("country", "") in allowed)
+    ]
     filtered.sort(key=lambda x: x["followers"], reverse=True)
 
     print(f"✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,})")

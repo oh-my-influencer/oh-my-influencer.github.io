@@ -24,6 +24,7 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
+from utils import detect_language
 
 load_dotenv()
 
@@ -163,6 +164,10 @@ def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
             print(f"   📸 이미지 다운로드: @{handle}")
             local_image = download_image(pic_url, handle)
 
+            bio = (p.get("biography") or "")[:100]
+            country = detect_language(
+                bio + " " + (p.get("fullName") or ""), handle=handle
+            )
             results.append(
                 {
                     "id": f"ig_{handle}",
@@ -175,7 +180,8 @@ def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
                     "following": p.get("followsCount") or 0,
                     "posts_count": p.get("postsCount") or 0,
                     "engagement_rate": None,
-                    "bio": (p.get("biography") or "")[:100],
+                    "bio": bio,
+                    "country": country,
                     "is_verified": p.get("verified") or False,
                     "category": ["skincare", "beauty"],
                     "tier": get_tier(followers),
@@ -241,7 +247,13 @@ def main() -> None:
 
     # 병합 + 필터
     merged = {**existing, **{acc["handle"]: acc for acc in new_accounts}}
-    filtered = [acc for acc in merged.values() if acc["followers"] >= min_f]
+    allowed = [c.upper() for c in filters.get("allowed_countries", [])]
+    filtered = [
+        acc
+        for acc in merged.values()
+        if acc["followers"] >= min_f
+        and (not allowed or acc.get("country", "") in allowed)
+    ]
     filtered.sort(key=lambda x: x["followers"], reverse=True)
 
     print(f"\n✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,})")

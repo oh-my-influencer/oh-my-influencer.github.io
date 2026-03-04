@@ -144,13 +144,16 @@ def fetch_channel_details(api_key: str, channel_ids: list[str]) -> list[dict]:
 
 # ── 3단계: 필터 적용 ──────────────────────────────────────
 def apply_filters(channels: list[dict], filters: dict) -> list[dict]:
-    min_sub = filters.get("min_followers", 10_000)
+    min_sub = filters.get("min_followers", 1_000)
     min_videos = filters.get("min_videos", 10)
+    allowed = [c.upper() for c in filters.get("allowed_countries", [])]
 
     return [
         ch
         for ch in channels
-        if ch["followers"] >= min_sub and ch["video_count"] >= min_videos
+        if ch["followers"] >= min_sub
+        and ch["video_count"] >= min_videos
+        and (not allowed or ch.get("country", "").upper() in allowed)
     ]
 
 

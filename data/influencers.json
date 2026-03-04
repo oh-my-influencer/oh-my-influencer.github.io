@@ -1,67 +1,7 @@
 {
-  "generated_at": "2026-03-02T15:43:39.675410+00:00",
-  "count": 264,
+  "generated_at": "2026-03-04T14:36:39.026108+00:00",
+  "count": 199,
   "influencers": [
-    {
-      "id": "tt_darceyangel",
-      "platform": "tiktok",
-      "handle": "darceyangel",
-      "name": "darcey angel",
-      "profile_url": "https://www.tiktok.com/@darceyangel",
-      "profile_image": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/697c3c255ec66e1b740e0e50d07542bb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=0c0c24ad&x-expires=1772636400&x-signature=yHPvfEAYbWp%2F6wmcpdPHpYMrq9A%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 2700000,
-      "following": 446,
-      "total_likes": 50300000,
-      "video_count": 873,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_olafflee",
-      "platform": "tiktok",
-      "handle": "olafflee",
-      "name": "olivia ♡",
-      "profile_url": "https://www.tiktok.com/@olafflee",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/c31b25200037982aae9910a5381cd4fd~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=f70ade77&x-expires=1771851600&x-signature=pZI85bnFYTaiKS%2F3FE7m%2F4vrXO4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 2400000,
-      "following": 1177,
-      "total_likes": 91600000,
-      "video_count": 1453,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_kaitlynfallasmr",
-      "platform": "tiktok",
-      "handle": "kaitlynfallasmr",
-      "name": "Kaitlyn Fall Asmr 🥱💤",
-      "profile_url": "https://www.tiktok.com/@kaitlynfallasmr",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/0ed9fa8c8cf71b706ced37a28c13a594~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=139ac5a4&x-expires=1772031600&x-signature=oHfKqnXSPF0Bu296IDbodDqG71Q%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 1900000,
-      "following": 220,
-      "total_likes": 54300000,
-      "video_count": 814,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-02-23"
-    },
     {
       "id": "tt_glowwithjabb",
       "platform": "tiktok",
@@ -80,87 +20,8 @@
         "beauty"
       ],
       "tier": "mega",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_ahnestkitchen",
-      "platform": "tiktok",
-      "handle": "ahnestkitchen",
-      "name": "Sarah Ahn",
-      "profile_url": "https://www.tiktok.com/@ahnestkitchen",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/28ff6c70a42b7e2b3473ee860efb851a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=18bfabe9&x-expires=1771851600&x-signature=HQ7k%2B1Ap5CxA8J7%2FpmAAHABFoD4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 1300000,
-      "following": 373,
-      "total_likes": 45200000,
-      "video_count": 164,
-      "engagement_rate": null,
-      "is_verified": true,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_via..li",
-      "platform": "tiktok",
-      "handle": "via..li",
-      "name": "Via",
-      "profile_url": "https://www.tiktok.com/@via..li",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b4b0595ed1e0dda0e6952b9b50a09d43~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8653a017&x-expires=1771851600&x-signature=yeqgK0ZnW61NpOF%2BXucJU0USduY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 1300000,
-      "following": 438,
-      "total_likes": 104100000,
-      "video_count": 4758,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_jasminnlily_",
-      "platform": "tiktok",
-      "handle": "jasminnlily_",
-      "name": "Jasmin",
-      "profile_url": "https://www.tiktok.com/@jasminnlily_",
-      "profile_image": "https://p19-common-sign-useastred.tiktokcdn-eu.com/tos-useast2a-avt-0068-euttp/433d00f65aabdfc31ddcdaea4924bb28~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=e3ca67be&x-expires=1772636400&x-signature=oRPXqBFy22EL0JZriAvlpoa7mJY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 1200000,
-      "following": 196,
-      "total_likes": 44100000,
-      "video_count": 393,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_elisapur",
-      "platform": "tiktok",
-      "handle": "elisapur",
-      "name": "elisa",
-      "profile_url": "https://www.tiktok.com/@elisapur",
-      "profile_image": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/de29c0326fa5686197b8b4afa5e711c4~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=c460c777&x-expires=1772636400&x-signature=Mz4mrTzE9OM47efVWLkk8mHHhAw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 1100000,
-      "following": 100,
-      "total_likes": 70100000,
-      "video_count": 494,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mega",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCqrNqg3UgVoD3Sa-F_TxuSA",
@@ -187,46 +48,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_03_tok",
-      "platform": "tiktok",
-      "handle": "03_tok",
-      "name": "hinase💭",
-      "profile_url": "https://www.tiktok.com/@03_tok",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3ff6e9fa3b2e8e46e6eeea3c3b0c63b3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7a444148&x-expires=1771826400&x-signature=cFPFBqBJM6sflMehEwbCfj%2Btmn0%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 609600,
-      "following": 396,
-      "total_likes": 17800000,
-      "video_count": 107,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_sasainseoul",
-      "platform": "tiktok",
-      "handle": "sasainseoul",
-      "name": "sasa",
-      "profile_url": "https://www.tiktok.com/@sasainseoul",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/165a20a765f3563b98bd486203099cd1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=ddb2e7a0&x-expires=1771826400&x-signature=kG2sbzZUUTnvasHQ1cauWjowSpM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 582800,
-      "following": 42,
-      "total_likes": 5500000,
-      "video_count": 82,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "yt_UCrlUlicedicJ5mlibqC62Eg",
       "platform": "youtube",
       "channel_id": "UCrlUlicedicJ5mlibqC62Eg",
@@ -251,26 +72,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_heartsfor.kbeauty",
-      "platform": "tiktok",
-      "handle": "heartsfor.kbeauty",
-      "name": "Oceane ᵕ̈",
-      "profile_url": "https://www.tiktok.com/@heartsfor.kbeauty",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/e35d084054d2f1e61eb10f4de0ea7e73~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a1b51e51&x-expires=1771826400&x-signature=pu8D9jhohlRnzLYUB8wmlkR4%2F8M%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 507400,
-      "following": 3428,
-      "total_likes": 23300000,
-      "video_count": 323,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "tt_gomanan054",
       "platform": "tiktok",
       "handle": "gomanan054",
@@ -288,27 +89,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_a.closmain",
-      "platform": "tiktok",
-      "handle": "a.closmain",
-      "name": "Anton Closmain",
-      "profile_url": "https://www.tiktok.com/@a.closmain",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/563562d2f948c7a79e7a03d2549905ca~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=238aa121&x-expires=1772031600&x-signature=gMV5D9wJahXy3mdBsjxVW9gXEmc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 503000,
-      "following": 80,
-      "total_likes": 23700000,
-      "video_count": 306,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UChaTUCM7bPBTJaIZQ83PNwQ",
@@ -352,7 +134,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCURnLWTrLZVv_KiVaeZakog",
@@ -377,26 +160,6 @@
         "beauty"
       ],
       "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_dearwonii_",
-      "platform": "tiktok",
-      "handle": "dearwonii_",
-      "name": "woni ⋆⭒˚.⋆",
-      "profile_url": "https://www.tiktok.com/@dearwonii_",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a419aea20893fe9403c06abd01c5ecb3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b872f821&x-expires=1771826400&x-signature=MoiLORRTzpPpYZ3KK1ZQQm7wrsY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 355400,
-      "following": 981,
-      "total_likes": 10500000,
-      "video_count": 317,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
     },
     {
       "id": "yt_UCVbW7vOtOnmjyDORZB4Sz0w",
@@ -440,27 +203,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_mindaylee_",
-      "platform": "tiktok",
-      "handle": "mindaylee_",
-      "name": "minday",
-      "profile_url": "https://www.tiktok.com/@mindaylee_",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/3288809f48ada408de8e4ed878d6b7aa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b85121fe&x-expires=1771826400&x-signature=zjFYfdznmWylCktlL0Et6nOw7Pg%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 329800,
-      "following": 86,
-      "total_likes": 8300000,
-      "video_count": 105,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "JP"
     },
     {
       "id": "yt_UC8qXNVuyfJLJtDf8vCr_xNw",
@@ -504,27 +248,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_timeless.tales145",
-      "platform": "tiktok",
-      "handle": "timeless.tales145",
-      "name": "Healthy chatter",
-      "profile_url": "https://www.tiktok.com/@timeless.tales145",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/a28deb6f7b0a33cceb4ef44f8e70c746~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=73dd376c&x-expires=1771826400&x-signature=23zcSHS%2BCXOET9uoG82wntfkHtY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 290600,
-      "following": 3,
-      "total_likes": 4900000,
-      "video_count": 50,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "JP"
     },
     {
       "id": "yt_UCYsv-IHC-B-DiVMmJuqibcg",
@@ -551,46 +276,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_ruthing2002",
-      "platform": "tiktok",
-      "handle": "ruthing2002",
-      "name": "루띵이 ディア ⚒️🦫",
-      "profile_url": "https://www.tiktok.com/@ruthing2002",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/0d8d24617092cf7f3237c924d218e98e~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4e6fa5e2&x-expires=1771826400&x-signature=ApXv%2F0Z3QH8VJdCZ0Uzhqqhw1Ps%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 280100,
-      "following": 82,
-      "total_likes": 4400000,
-      "video_count": 593,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_694n9",
-      "platform": "tiktok",
-      "handle": "694n9",
-      "name": "Hee",
-      "profile_url": "https://www.tiktok.com/@694n9",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b8a2f27686f098323595d26532825c7c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=37e12a0d&x-expires=1771826400&x-signature=Us8lJnytbGdf2ACSdZqFeTSaZ8o%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 267000,
-      "following": 119,
-      "total_likes": 10900000,
-      "video_count": 110,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "yt_UCdpGQgQ3HOucwR8Wk2wzSHQ",
       "platform": "youtube",
       "channel_id": "UCdpGQgQ3HOucwR8Wk2wzSHQ",
@@ -615,46 +300,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_brutechoi",
-      "platform": "tiktok",
-      "handle": "brutechoi",
-      "name": "Brute Choi 🧿",
-      "profile_url": "https://www.tiktok.com/@brutechoi",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/9935fc3c4c99ec634fd4160628adb6eb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=709cfd5f&x-expires=1771851600&x-signature=D%2BJdFCUy1QHlq5EccJi%2FAP%2FquRQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 253100,
-      "following": 1618,
-      "total_likes": 8000000,
-      "video_count": 565,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_sarahsaleen",
-      "platform": "tiktok",
-      "handle": "sarahsaleen",
-      "name": "Sarah",
-      "profile_url": "https://www.tiktok.com/@sarahsaleen",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/6cb26d476dd7c524f0b8f6d5d2d28ac8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3e613e04&x-expires=1771826400&x-signature=Cx0EXUN%2BWtDSr6wK7ibWK76LkhY%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 246700,
-      "following": 204,
-      "total_likes": 8600000,
-      "video_count": 553,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "tt_hs27825877",
       "platform": "tiktok",
       "handle": "hs27825877",
@@ -672,7 +317,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCHa6h8DGLYkAljbskQbIXHw",
@@ -716,7 +362,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_jiwon0280",
@@ -736,7 +383,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCxthUNFu-GWQZ0YE9AnIetg",
@@ -787,26 +435,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_michansari",
-      "platform": "tiktok",
-      "handle": "michansari",
-      "name": "mich",
-      "profile_url": "https://www.tiktok.com/@michansari",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/14edff653ec2c1f9fa960ba3ad15500d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=91f29271&x-expires=1772031600&x-signature=92%2BeGnCPHAfZ4AvFZHAlR70pqWk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 153300,
-      "following": 201,
-      "total_likes": 7300000,
-      "video_count": 309,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-23"
-    },
-    {
       "id": "ig_share_tip",
       "platform": "instagram",
       "handle": "share_tip",
@@ -824,7 +452,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_song0330_15",
@@ -844,67 +473,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_lydia.chae",
-      "platform": "tiktok",
-      "handle": "lydia.chae",
-      "name": "Lydia 🎈",
-      "profile_url": "https://www.tiktok.com/@lydia.chae",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/30ae3145090c73dc0304de18f74aa1fb~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=a82d940b&x-expires=1772636400&x-signature=V%2BJ9zoixXATsgE%2FxCsrdXF119cM%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 142200,
-      "following": 236,
-      "total_likes": 9400000,
-      "video_count": 345,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_mienomma",
-      "platform": "tiktok",
-      "handle": "mienomma",
-      "name": "이노마イノマ",
-      "profile_url": "https://www.tiktok.com/@mienomma",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/f204fb083f8191bb05abd9c460fbdc17~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=4f8256fe&x-expires=1772031600&x-signature=ZisL2s%2B9QYfFcsJ3b7b3vKMFWIA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 140800,
-      "following": 39,
-      "total_likes": 8100000,
-      "video_count": 397,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_itsedonna",
-      "platform": "tiktok",
-      "handle": "itsedonna",
-      "name": "Itsedonna | Skincare",
-      "profile_url": "https://www.tiktok.com/@itsedonna",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/cc0a588649800a2c61ca8dba4a383f3f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=dad49b30&x-expires=1772031600&x-signature=ea5BUnm8iKnglz%2BhAM%2BCBfRZe8U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 139000,
-      "following": 287,
-      "total_likes": 5500000,
-      "video_count": 410,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_seol_musefit",
@@ -924,7 +494,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_ot.si3",
@@ -944,27 +515,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "ig_sulwhasoo.us",
-      "platform": "instagram",
-      "handle": "sulwhasoo.us",
-      "name": "Sulwhasoo",
-      "profile_url": "https://www.instagram.com/sulwhasoo.us/",
-      "profile_image": "https://scontent-hou1-1.cdninstagram.com/v/t51.2885-19/482327853_1396994401673364_2707602387535941747_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDAwLmMyIn0&_nc_ht=scontent-hou1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QGTznbgxaWQLP70wDp4EUCZDES2aJNXQoy6FUJWwdymy8zpL5QunYd1fafTCtLvnPQ&_nc_ohc=PoQ9HVa2oWsQ7kNvwHC1wYX&_nc_gid=eomXKnkHo5BYtDStlWy58Q&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AftV95JYmeUUbsEjhBulMlMg7KPOnpcAn_dj_mHdPziHuw&oe=699F29CA&_nc_sid=8b3546",
-      "followers": 133034,
-      "following": 1147,
-      "posts_count": 2985,
-      "engagement_rate": null,
-      "bio": "Journey to Holistic Beauty",
-      "is_verified": true,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-23",
+      "country": "JP"
     },
     {
       "id": "yt_UCYfAankzCbhjIV4EsU4Vzdw",
@@ -1008,7 +560,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCh_bUw4SxJ0tLKzyLpJxxkQ",
@@ -1052,7 +605,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_luna.humor",
@@ -1072,7 +626,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCV5Q_31yEqkV15Q-AHZWE5A",
@@ -1140,7 +695,8 @@
         "beauty"
       ],
       "tier": "macro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_iamjiyookim",
@@ -1160,7 +716,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_gaeddorrai",
@@ -1180,7 +737,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCaH0qTQwlqUZ6O54m0s04EA",
@@ -1224,7 +782,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_appleuser7685322",
@@ -1244,7 +803,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_4047khk1",
@@ -1264,7 +824,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_chae._.ullet",
@@ -1284,7 +845,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCCuXPHou1JQfRKM40q5tG8w",
@@ -1328,7 +890,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UCpSa5CzQedAxXFGfmeeFdIw",
@@ -1372,27 +935,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_gaps.__",
-      "platform": "tiktok",
-      "handle": "gaps.__",
-      "name": "gaps",
-      "profile_url": "https://www.tiktok.com/@gaps.__",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/761bab703abdf4bfc036800e1d632c6f~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=87ccf180&x-expires=1772636400&x-signature=F3FIc6ksSQHOzSDQYIdwA95urac%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 76900,
-      "following": 241,
-      "total_likes": 2800000,
-      "video_count": 612,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mid",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_yul0428",
@@ -1412,27 +956,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_swan_mensbeauty",
-      "platform": "tiktok",
-      "handle": "swan_mensbeauty",
-      "name": "swan_mensbeauty",
-      "profile_url": "https://www.tiktok.com/@swan_mensbeauty",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/27cbbd6979175f17f3548538f6ce6bf6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=dc12b449&x-expires=1772031600&x-signature=vn05MonBEkM20kmpRYKKU7Kyq%2FE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 74100,
-      "following": 71,
-      "total_likes": 3400000,
-      "video_count": 512,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_daisolife",
@@ -1452,7 +977,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_luna.daily__",
@@ -1472,27 +998,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_dear_diarlee",
-      "platform": "tiktok",
-      "handle": "dear_diarlee",
-      "name": "aleeza 𓍢ִ໋🌷͙֒",
-      "profile_url": "https://www.tiktok.com/@dear_diarlee",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/1964b65b893de7d895d265ca7c6f5291~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=fc438ca2&x-expires=1771851600&x-signature=IeiPRXlCvV4Zb9GNm8rU94l8xcA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 63300,
-      "following": 588,
-      "total_likes": 1100000,
-      "video_count": 409,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_ssua_son",
@@ -1512,27 +1019,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_summercooljinny",
-      "platform": "tiktok",
-      "handle": "summercooljinny",
-      "name": "Jinny | Kbeauty",
-      "profile_url": "https://www.tiktok.com/@summercooljinny",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/130e311e4bba1e02cffbefd5d09f2f18~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d8745275&x-expires=1771851600&x-signature=bjXEqHFdzsK8y9GU4sIQ9qTFSmc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 59000,
-      "following": 98,
-      "total_likes": 1300000,
-      "video_count": 318,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_bangkey._",
@@ -1552,7 +1040,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_calus.0",
@@ -1572,27 +1061,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "ig_sasahk_official",
-      "platform": "instagram",
-      "handle": "sasahk_official",
-      "name": "SASA",
-      "profile_url": "https://www.instagram.com/sasahk_official/",
-      "profile_image": "https://instagram.ffxe1-1.fna.fbcdn.net/v/t51.2885-19/590404090_18513685372068213_5729852480878973616_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby40MDAuYzIifQ&_nc_ht=instagram.ffxe1-1.fna.fbcdn.net&_nc_cat=109&_nc_oc=Q6cZ2QEYm7tkoatDMl63bvQ9KTdx6WX4eGnWRsXYHp0ZJi29BXRpG187XpTgSz9Bu4NvifM&_nc_ohc=ljccH6U_NQEQ7kNvwE-m3wG&_nc_gid=eADjQ22lGdfdmGx6x1qqHA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfsVFYensUJ7lpO4rzK9LhxMDeXxjc2h8pIwbrJ_Sea8tg&oe=699F0FDF&_nc_sid=8b3546",
-      "followers": 54856,
-      "following": 57,
-      "posts_count": 2744,
-      "engagement_rate": null,
-      "bio": "Making Life Beautiful.\n#sasahk_official #sasahk",
-      "is_verified": true,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_hayoonson_",
@@ -1612,7 +1082,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_review_mimizzang",
@@ -1632,7 +1103,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_jamzzang",
@@ -1652,7 +1124,8 @@
         "beauty"
       ],
       "tier": "mid",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UCT3XCWBiNy-mnS0awYq_trw",
@@ -1696,7 +1169,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "yt_UCehSxRApNbh93SbHSR9PNmg",
@@ -1723,26 +1197,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "ig_jini__0511",
-      "platform": "instagram",
-      "handle": "jini__0511",
-      "name": "ᴊɪɴɪ",
-      "profile_url": "https://www.instagram.com/jini__0511/",
-      "profile_image": "data/images/ig_jini__0511.jpg",
-      "followers": 45140,
-      "following": 486,
-      "posts_count": 765,
-      "engagement_rate": null,
-      "bio": "🌹DJ JINI👑",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-23"
-    },
-    {
       "id": "tt__mingdc",
       "platform": "tiktok",
       "handle": "_mingdc",
@@ -1760,7 +1214,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "yt_UCd7icqUv7f8k2E6n4WOCIQg",
@@ -1828,7 +1283,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_dermatory.kr",
@@ -1848,27 +1304,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_leelee_s2",
-      "platform": "tiktok",
-      "handle": "leelee_s2",
-      "name": "LEELEE",
-      "profile_url": "https://www.tiktok.com/@leelee_s2",
-      "profile_image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c437468ac325578581d1f8ea864d4b29~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=deb6a07b&x-expires=1772636400&x-signature=LR0C0qw6gKyClBcREZS8Skbd%2BTs%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 37600,
-      "following": 188,
-      "total_likes": 162700,
-      "video_count": 41,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UCMM4I6JxqssS1f2soG6wwfA",
@@ -1912,27 +1349,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_health.essentials33",
-      "platform": "tiktok",
-      "handle": "health.essentials33",
-      "name": "Health Essentials",
-      "profile_url": "https://www.tiktok.com/@health.essentials33",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-maliva-avt-0068/7eac8e7c26d301a5a8eee481ab469078~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=95739363&x-expires=1772031600&x-signature=PZrbu8w2NBKmdyNZiiVb9isowUw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 35600,
-      "following": 0,
-      "total_likes": 286500,
-      "video_count": 255,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UC_xVzJW2DD6aIYxa_cGXCOA",
@@ -1976,7 +1394,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "JP"
     },
     {
       "id": "ig_daehan__choi_",
@@ -1996,27 +1415,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_jiu.skin_care",
-      "platform": "tiktok",
-      "handle": "jiu.skin_care",
-      "name": "JIUJIU",
-      "profile_url": "https://www.tiktok.com/@jiu.skin_care",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/0637e7102ffe58b66a5f35e2723e2682~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=23d07933&x-expires=1771826400&x-signature=tDq7r5A0SGz9oxdlv0YUFXzpvck%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 34000,
-      "following": 44,
-      "total_likes": 577800,
-      "video_count": 90,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_sense_mama_",
@@ -2036,7 +1436,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_nato.iove",
@@ -2056,7 +1457,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UCED7YKsAzQ2qi2e-cJ7yTEg",
@@ -2100,7 +1502,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_22y22un",
@@ -2120,7 +1523,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_livehealthy64",
@@ -2140,27 +1544,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_rubyrubyrune",
-      "platform": "tiktok",
-      "handle": "rubyrubyrune",
-      "name": "rubyrubyrune",
-      "profile_url": "https://www.tiktok.com/@rubyrubyrune",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/9909e0d698b6f4caa8bc5f1d08ce40ac~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=d52c9c81&x-expires=1771826400&x-signature=v2Q04HZTne4Df63NfV%2FaQOHUrkA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 29800,
-      "following": 53,
-      "total_likes": 969400,
-      "video_count": 331,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_museaura__official",
@@ -2180,27 +1565,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_kimcassironway",
-      "platform": "tiktok",
-      "handle": "kimcassironway",
-      "name": "Kimcassie",
-      "profile_url": "https://www.tiktok.com/@kimcassironway",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/2ecf1b8a55d474460d15d92a534cb1a6~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3e9b427b&x-expires=1771826400&x-signature=MgQOD0j6gbFYD4kDkT6KmMegwOk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 28800,
-      "following": 26,
-      "total_likes": 372000,
-      "video_count": 29,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_cmai0227",
@@ -2220,7 +1586,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_byecom_cosmetic",
@@ -2240,47 +1607,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_aeiezo.pdf",
-      "platform": "tiktok",
-      "handle": "aeiezo.pdf",
-      "name": "zoeeᶻ 𝗓 𐰁",
-      "profile_url": "https://www.tiktok.com/@aeiezo.pdf",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/af6f047c41dc4bebce8949836641d67c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=03fa5e65&x-expires=1771826400&x-signature=WfdQY%2BFwyYikq%2FPWZ0SSvwJgG2I%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 25400,
-      "following": 166,
-      "total_likes": 513000,
-      "video_count": 76,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_jane2.lee",
-      "platform": "tiktok",
-      "handle": "jane2.lee",
-      "name": "Jane",
-      "profile_url": "https://www.tiktok.com/@jane2.lee",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a82b379d8024730920e9833dfcefcec1~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=1b64a07e&x-expires=1771826400&x-signature=HCDa7c63m90%2BF7hwrYJbnKSsji4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 25100,
-      "following": 296,
-      "total_likes": 1100000,
-      "video_count": 199,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_palcon_dmi7",
@@ -2300,27 +1628,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_kalei_sg",
-      "platform": "tiktok",
-      "handle": "kalei_sg",
-      "name": "kalei SG",
-      "profile_url": "https://www.tiktok.com/@kalei_sg",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/be4fdfb60be6edad5bb413312b9e3274~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=c99d5c1e&x-expires=1771826400&x-signature=vrwrUP3e91jd9J2moRWJM%2FnrUuw%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 24600,
-      "following": 111,
-      "total_likes": 559400,
-      "video_count": 161,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt__yerendipity",
@@ -2340,7 +1649,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig__nagi_729",
@@ -2360,7 +1670,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_mybeauty_7",
@@ -2380,27 +1691,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_xee.yux",
-      "platform": "tiktok",
-      "handle": "xee.yux",
-      "name": "률",
-      "profile_url": "https://www.tiktok.com/@xee.yux",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b10d6466f23999ab176b2feca1b38704~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=aa1ac8c2&x-expires=1772031600&x-signature=sNQa%2Fk%2FZ8fH1%2FYppzcGFof8FQmA%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 22200,
-      "following": 9,
-      "total_likes": 1200000,
-      "video_count": 320,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_koreanmegastorebelle",
@@ -2420,27 +1712,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_k1zxaw",
-      "platform": "tiktok",
-      "handle": "k1zxaw",
-      "name": "𝑲",
-      "profile_url": "https://www.tiktok.com/@k1zxaw",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d087729edc31f4c8a52e00c86fae4213~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=557e6498&x-expires=1771851600&x-signature=gkmvvKqfqnnri%2Bvg9n43XU14MpQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 20800,
-      "following": 1,
-      "total_likes": 241700,
-      "video_count": 12,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_babysoula91",
@@ -2460,7 +1733,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_wellage.official",
@@ -2480,7 +1754,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_u_hara_3",
@@ -2500,7 +1775,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "yt_UCEQoaBLdg6tZQVMFxVlleIw",
@@ -2568,7 +1844,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_beyond_the_end200",
@@ -2588,7 +1865,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_hemeko.o",
@@ -2608,7 +1886,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_like__kit",
@@ -2628,7 +1907,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UC6Z_wsj0tNT40IlEo1n0YNw",
@@ -2655,26 +1935,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_leeonkim",
-      "platform": "tiktok",
-      "handle": "leeonkim",
-      "name": "leeoncherish",
-      "profile_url": "https://www.tiktok.com/@leeonkim",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/d6a29b7bfb7cda176e7de9082575fd26~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=e90e75a7&x-expires=1771851600&x-signature=1GOasWFfKOI8vhZdqB%2B0vy7JN2U%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 14000,
-      "following": 31,
-      "total_likes": 175400,
-      "video_count": 20,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "tt_pielre",
       "platform": "tiktok",
       "handle": "pielre",
@@ -2692,7 +1952,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_user77667626069781",
@@ -2712,7 +1973,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_hyoblyne",
@@ -2732,7 +1994,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_user27502363879694",
@@ -2752,7 +2015,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_bingbing010103",
@@ -2772,7 +2036,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_h_unny",
@@ -2792,7 +2057,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_b_xxni",
@@ -2812,7 +2078,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_tentencouple",
@@ -2832,7 +2099,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_elena__ceo",
@@ -2852,7 +2120,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_daybyday_item",
@@ -2872,27 +2141,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "ig_ohvelyjoo_eng",
-      "platform": "instagram",
-      "handle": "ohvelyjoo_eng",
-      "name": "OHVELYJOO CLINIC ɢʟᴏʙᴀʟ (ex Three Wishes Hongdae)",
-      "profile_url": "https://www.instagram.com/ohvelyjoo_eng/",
-      "profile_image": "https://scontent-msp1-1.cdninstagram.com/v/t51.2885-19/467531738_1069862624604888_6455102208427520793_n.jpg?stp=dst-jpg_e0_s150x150_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby44ODEuYzIifQ&_nc_ht=scontent-msp1-1.cdninstagram.com&_nc_cat=100&_nc_oc=Q6cZ2QEGuPwoyJiuqcEES4g9OjQ3MtTXCIuTx8K1qKJC8WfTJ3_7z7hcSa8gnYfan4JV7zg&_nc_ohc=XqrbGBJLRbYQ7kNvwE4xIeM&_nc_gid=vpBRPCr8ns1gZJLh0-FcsA&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfuS-nbQYji0toEuttGLuYwyiUNgR--iosoSU63KPZBTew&oe=699F2EB8&_nc_sid=8b3546",
-      "followers": 11291,
-      "following": 6,
-      "posts_count": 555,
-      "engagement_rate": null,
-      "bio": "📍 Hongik Station(exit 2)\n✨ FREE English Consultation \n🩷 Beauty & Dermatology service\n💌 Booking/Consu",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_uxzic_",
@@ -2912,7 +2162,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_mukpresident",
@@ -2932,7 +2183,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_amoment.studio",
@@ -2952,7 +2204,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_merci.hu",
@@ -2972,7 +2225,8 @@
         "beauty"
       ],
       "tier": "micro",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_b.roche_official",
@@ -2992,7 +2246,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_chichi_e_u",
@@ -3012,7 +2267,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_bomddoong",
@@ -3032,7 +2288,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_yjdiary_86",
@@ -3052,7 +2309,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_le.xez_0",
@@ -3072,7 +2330,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_review_hee_",
@@ -3092,7 +2351,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_bbb_utter",
@@ -3112,7 +2372,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_imsunni__",
@@ -3132,27 +2393,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "ig_firstpharmacy_ug",
-      "platform": "instagram",
-      "handle": "firstpharmacy_ug",
-      "name": "First Pharmacy Uganda",
-      "profile_url": "https://www.instagram.com/firstpharmacy_ug/",
-      "profile_image": "data/images/ig_firstpharmacy_ug.jpg",
-      "followers": 7570,
-      "following": 52,
-      "posts_count": 1461,
-      "engagement_rate": null,
-      "bio": "Need baby products,health & wellness supplements or cosmetics💄\nWe Deliver Countrywide🚚\n📞 Airtel 0200",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_drcosmo12",
@@ -3172,7 +2414,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_igoso7777",
@@ -3192,7 +2435,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_hanseoinkorea",
@@ -3212,27 +2456,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_v856198",
-      "platform": "tiktok",
-      "handle": "v856198",
-      "name": "V",
-      "profile_url": "https://www.tiktok.com/@v856198",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a86fc5f043f7ef6aa51c945184a32c2c~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=5da9b921&x-expires=1772031600&x-signature=%2FJC9%2FS%2F%2Bazu55JjxeFzWc00NRGU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 6904,
-      "following": 18,
-      "total_likes": 718800,
-      "video_count": 222,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_beautysoom",
@@ -3252,27 +2477,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_dr.polina_andreevna",
-      "platform": "tiktok",
-      "handle": "dr.polina_andreevna",
-      "name": "dr.polina_andreevna",
-      "profile_url": "https://www.tiktok.com/@dr.polina_andreevna",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/839fb497d27ac9bfd46f8ca3657f68aa~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=e2bd2940&x-expires=1771851600&x-signature=%2FvNKqOPWVDN%2F7Mer2YI03a3AuPU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 6692,
-      "following": 1,
-      "total_likes": 155700,
-      "video_count": 144,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_blau_ha_2",
@@ -3292,7 +2498,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_dh_hm0919",
@@ -3312,27 +2519,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_sasim_hj",
-      "platform": "tiktok",
-      "handle": "sasim_hj",
-      "name": "Hailey",
-      "profile_url": "https://www.tiktok.com/@sasim_hj",
-      "profile_image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/54c2442b9bbd1087255b0ba69776361d~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=60eaaa03&x-expires=1772636400&x-signature=Jtu%2Bt6jc%2Fo95KeQ2A71WbkG9kcE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 6016,
-      "following": 19,
-      "total_likes": 262300,
-      "video_count": 44,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_shunierose",
@@ -3352,7 +2540,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_castle._.story",
@@ -3372,27 +2561,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_ilavmiffy",
-      "platform": "tiktok",
-      "handle": "ilavmiffy",
-      "name": "julie 🪽",
-      "profile_url": "https://www.tiktok.com/@ilavmiffy",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-useast5-avt-0068-tx/c842a0fc419f2bd24c7fb6635d769d11~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=b7fa6313&x-expires=1772031600&x-signature=qYHgjDAfOiuiXs%2FEN%2BJ1oAC1QYE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 5827,
-      "following": 60,
-      "total_likes": 88900,
-      "video_count": 65,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_rattou_beauty",
@@ -3412,7 +2582,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig__with.seoa_",
@@ -3432,7 +2603,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_thaominaaah",
@@ -3452,7 +2624,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_j_j_i_n_y",
@@ -3472,7 +2645,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "yt_UCpbpvctDUj24BdLUw1EQLeA",
@@ -3499,26 +2673,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "ig_krepubliq",
-      "platform": "instagram",
-      "handle": "krepubliq",
-      "name": "K Republiq",
-      "profile_url": "https://www.instagram.com/krepubliq/",
-      "profile_image": "data/images/ig_krepubliq.jpg",
-      "followers": 5146,
-      "following": 69,
-      "posts_count": 277,
-      "engagement_rate": null,
-      "bio": "Introducing 'Glass Skin by K Republiq' – The TikTok beauty trend taking the world by storm.",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "tt_smart.jubu",
       "platform": "tiktok",
       "handle": "smart.jubu",
@@ -3536,7 +2690,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_livingmans",
@@ -3556,7 +2711,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_derma_kim",
@@ -3576,27 +2732,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_minsumarket",
-      "platform": "tiktok",
-      "handle": "minsumarket",
-      "name": "minsumarket",
-      "profile_url": "https://www.tiktok.com/@minsumarket",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/7a92c94b5ae62476fabf9095d338459b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=43d21601&x-expires=1771851600&x-signature=3BV69m%2BTS2ltc%2B2haJjlTY6oRGE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 4589,
-      "following": 43,
-      "total_likes": 29600,
-      "video_count": 340,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_youleecom",
@@ -3616,7 +2753,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCBpPKxbaUtEFHOYlKD7bfHA",
@@ -3643,26 +2781,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_hey.blair2",
-      "platform": "tiktok",
-      "handle": "hey.blair2",
-      "name": "hey, blair",
-      "profile_url": "https://www.tiktok.com/@hey.blair2",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/704731acb0c46bb006b081ed76c913bc~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=092c0526&x-expires=1772636400&x-signature=evohfDNxmrPtVcuP6DJ%2BxivZEhQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 4317,
-      "following": 137,
-      "total_likes": 280300,
-      "video_count": 93,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
       "id": "ig_byryzn_cosmetics",
       "platform": "instagram",
       "handle": "byryzn_cosmetics",
@@ -3680,7 +2798,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_jjeong6392",
@@ -3700,27 +2819,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "ig_arin.harin_twins",
-      "platform": "instagram",
-      "handle": "arin.harin_twins",
-      "name": "𝑨𝒓𝒊𝒏ෆ 𝑯𝒂𝒓𝒊𝒏ෆ",
-      "profile_url": "https://www.instagram.com/arin.harin_twins/",
-      "profile_image": "data/images/ig_arin.harin_twins.jpg",
-      "followers": 3958,
-      "following": 4041,
-      "posts_count": 212,
-      "engagement_rate": null,
-      "bio": "ᴀᴄᴄᴏᴜɴᴛ ʀᴜɴ ʙʏ ᴍᴏᴍ @_nayoon___ \n👶🏻👶🏻➋⓿➋➍.➊➊.➊➑",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_peach_.dew",
@@ -3740,7 +2840,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_dermabellofficial",
@@ -3760,7 +2861,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_inyoe_official",
@@ -3780,7 +2882,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_celpick",
@@ -3800,27 +2903,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "ig_abx.official",
-      "platform": "instagram",
-      "handle": "abx.official",
-      "name": "Asian Beauty X",
-      "profile_url": "https://www.instagram.com/abx.official/",
-      "profile_image": "data/images/ig_abx.official.jpg",
-      "followers": 3681,
-      "following": 2737,
-      "posts_count": 1379,
-      "engagement_rate": null,
-      "bio": "Discover, Shop and Connect with worldwide indie beauty brands and products curated for Asian skin an",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_bman19836",
@@ -3840,7 +2924,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_knjiyn",
@@ -3860,7 +2945,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_anni_nakano",
@@ -3880,7 +2966,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "JP"
     },
     {
       "id": "tt_u__girin",
@@ -3900,7 +2987,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_aquaque.official",
@@ -3920,7 +3008,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_stayuth_official",
@@ -3940,7 +3029,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "yt_UCYQ-i8qGil3T3AqJkU269Eg",
@@ -3967,26 +3057,6 @@
       "last_updated": "2026-03-02"
     },
     {
-      "id": "tt_hyovelyya",
-      "platform": "tiktok",
-      "handle": "hyovelyya",
-      "name": "hyovelyya",
-      "profile_url": "https://www.tiktok.com/@hyovelyya",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/ab78b17878447c0b0250e9707f8f18c8~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=36da389c&x-expires=1771826400&x-signature=q5F7Qhovl%2B7p62gwfwNFehtGv38%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 3215,
-      "following": 64,
-      "total_likes": 204900,
-      "video_count": 79,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
       "id": "tt_egmz8",
       "platform": "tiktok",
       "handle": "egmz8",
@@ -4004,7 +3074,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_it_pick_5s",
@@ -4024,7 +3095,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_shoppingtip777",
@@ -4044,27 +3116,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_roslynkim_",
-      "platform": "tiktok",
-      "handle": "roslynkim_",
-      "name": "ro",
-      "profile_url": "https://www.tiktok.com/@roslynkim_",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/965b7ac69a039dd31c56c7bca85f0426~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3a192476&x-expires=1771826400&x-signature=UotRwaJ4oH6wgFhODXHzNOXEPdU%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 3130,
-      "following": 128,
-      "total_likes": 33400,
-      "video_count": 56,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_dr.park1126",
@@ -4084,7 +3137,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_sssseobom",
@@ -4104,27 +3158,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "ig_kinjabeauty",
-      "platform": "instagram",
-      "handle": "kinjabeauty",
-      "name": "K-INDO-JA BEAUTY RITUALS 🌸",
-      "profile_url": "https://www.instagram.com/kinjabeauty/",
-      "profile_image": "data/images/ig_kinjabeauty.jpg",
-      "followers": 2912,
-      "following": 32,
-      "posts_count": 28,
-      "engagement_rate": null,
-      "bio": "Your skin’s soulmate for glow ✨ \nDaily skincare tips • Glow ritual ⛅\nK-Beauty 🇰🇷 | Indo-Ayurveda 🌿 |",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_bae_jita0404",
@@ -4144,7 +3179,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_riha.home_",
@@ -4164,7 +3200,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_baby._krong",
@@ -4184,7 +3221,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCdLwMtqz0GwDXRPO_bgKwbw",
@@ -4228,7 +3266,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "yt_UCkSAUglMtJFG7YZuElAsQNg",
@@ -4253,26 +3292,6 @@
         "beauty"
       ],
       "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_vanessarotondi",
-      "platform": "tiktok",
-      "handle": "vanessarotondi",
-      "name": "Vanessa Rotondi",
-      "profile_url": "https://www.tiktok.com/@vanessarotondi",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/06d33c9d155d4b836d44ba09b2e21877~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=283c74f2&x-expires=1771826400&x-signature=Jxw33mRIeiDy2FNK2Fucj9gN1pQ%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 2451,
-      "following": 76,
-      "total_likes": 189200,
-      "video_count": 578,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
     },
     {
       "id": "yt_UCqt1ri48VA36lgKTd4kC4SA",
@@ -4316,47 +3335,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_gwonhaul",
-      "platform": "tiktok",
-      "handle": "gwonhaul",
-      "name": "gwonhaul",
-      "profile_url": "https://www.tiktok.com/@gwonhaul",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a528b1298d7188c2f2c8cac1cdaaf89b~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7a7f3b09&x-expires=1771826400&x-signature=OAc6aq9oBDl5S0Jy6fiFZzGLXgk%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 2272,
-      "following": 33,
-      "total_likes": 148500,
-      "video_count": 43,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "ig_madeyoung_th",
-      "platform": "instagram",
-      "handle": "madeyoung_th",
-      "name": "โรงพยาบาลเมดยัง - Made Young Thailand",
-      "profile_url": "https://www.instagram.com/madeyoung_th/",
-      "profile_image": "data/images/ig_madeyoung_th.jpg",
-      "followers": 2186,
-      "following": 9,
-      "posts_count": 443,
-      "engagement_rate": null,
-      "bio": "Made Young Plastic Surgery\nโรงพยาบาลศัลยกรรมเมดยัง สถานีกังนัม ทางออก 9\n⭐️ ดูแลโดยแพทย์ผู้เชี่ยวชาญ\n",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_salt.yarchive",
@@ -4376,7 +3356,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_godhong_official",
@@ -4396,7 +3377,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_wtherapy",
@@ -4416,7 +3398,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig__apple_uuu",
@@ -4436,7 +3419,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_jiyou123_",
@@ -4456,7 +3440,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig___been09",
@@ -4476,7 +3461,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_zh_posil",
@@ -4496,7 +3482,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_xaoj_v",
@@ -4516,27 +3503,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_sakiwez",
-      "platform": "tiktok",
-      "handle": "sakiwez",
-      "name": "‘`malyaavv`‘",
-      "profile_url": "https://www.tiktok.com/@sakiwez",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/68b3524d67b0b109d8c8cb6a50d09cd5~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=efb4d834&x-expires=1772636400&x-signature=RlX0WkdthmSCzfRS2jrOOwDIvNE%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 1746,
-      "following": 244,
-      "total_likes": 379300,
-      "video_count": 140,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-21",
+      "country": "JP"
     },
     {
       "id": "tt_ny.ux6",
@@ -4556,7 +3524,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_cx_.eun",
@@ -4576,7 +3545,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_ji_eu.n",
@@ -4596,27 +3566,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_mung.0501",
-      "platform": "tiktok",
-      "handle": "mung.0501",
-      "name": "뭉",
-      "profile_url": "https://www.tiktok.com/@mung.0501",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/b044207969d08a0d11e9dbd99ea32d13~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=8cde66ec&x-expires=1771826400&x-signature=7uaMJNKiMJfEzLL%2Bc347k%2BzMaA8%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 1624,
-      "following": 42,
-      "total_likes": 99000,
-      "video_count": 56,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_sooooaivix",
@@ -4636,7 +3587,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_00_haneul",
@@ -4656,7 +3608,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_sanayaksa",
@@ -4676,7 +3629,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_oneul.min",
@@ -4696,7 +3650,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig___buuc",
@@ -4716,7 +3671,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_hanmood_y",
@@ -4736,7 +3692,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_mo_mo_td",
@@ -4756,7 +3713,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig__140416_remember",
@@ -4776,7 +3734,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_ihanutta",
@@ -4796,7 +3755,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_imelgg_",
@@ -4816,7 +3776,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_actuallycomfy",
@@ -4836,27 +3797,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "tt_pandachoice0",
-      "platform": "tiktok",
-      "handle": "pandachoice0",
-      "name": "pandachoice0",
-      "profile_url": "https://www.tiktok.com/@pandachoice0",
-      "profile_image": "https://p16-sign-sg.tiktokcdn.com/tos-alisg-avt-0068/c3d914c40fe3a018d5629ff0b872043a~tplv-tiktokx-cropcenter:720:720.jpeg?dr=14579&refresh_token=85ffea8c&x-expires=1772636400&x-signature=TyoEyLJru9QukE9GYRIGtgd5Fl4%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=my",
-      "followers": 1430,
-      "following": 7,
-      "total_likes": 12900,
-      "video_count": 169,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_letsgo10km",
@@ -4876,7 +3818,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_dr.offshore.official",
@@ -4896,7 +3839,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_feura_official",
@@ -4916,7 +3860,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_myo__o",
@@ -4936,27 +3881,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
-    },
-    {
-      "id": "tt_potatojo_a",
-      "platform": "tiktok",
-      "handle": "potatojo_a",
-      "name": "potatojo_a",
-      "profile_url": "https://www.tiktok.com/@potatojo_a",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/c3684bfde03e1ff07f369e65acb652a3~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=7fc17cb4&x-expires=1771826400&x-signature=OkGmLBjXssu8nl2gcDmUiAzyT0s%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 1233,
-      "following": 0,
-      "total_likes": 29000,
-      "video_count": 21,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_gotit_tems",
@@ -4976,7 +3902,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_yeribuu",
@@ -4996,7 +3923,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_hxx_official",
@@ -5016,7 +3944,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_jujuboxlzlq",
@@ -5036,27 +3965,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "ig_danie_daze",
-      "platform": "instagram",
-      "handle": "danie_daze",
-      "name": "☁️ Daniela ☁️",
-      "profile_url": "https://www.instagram.com/danie_daze/",
-      "profile_image": "data/images/ig_danie_daze.jpg",
-      "followers": 1174,
-      "following": 1461,
-      "posts_count": 190,
-      "engagement_rate": null,
-      "bio": "✨Embracing my most authentic, whimsical, nerdy self 😌🔮✨🌙\n📚Current book read: Acotar \n✨LA based",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_moonis10",
@@ -5076,7 +3986,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "ig_whygg03",
@@ -5096,7 +4007,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_nabi_koreanbeauty",
@@ -5116,7 +4028,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_beaujjokee",
@@ -5136,7 +4049,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_byong.1020_",
@@ -5156,7 +4070,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_seul._.h710",
@@ -5176,7 +4091,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_ggultem_mate",
@@ -5196,7 +4112,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_amelie_styling",
@@ -5216,27 +4133,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_inyaaacos",
-      "platform": "tiktok",
-      "handle": "inyaaacos",
-      "name": "inyaaacos",
-      "profile_url": "https://www.tiktok.com/@inyaaacos",
-      "profile_image": "https://p16-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/119750e03d1e342950aa1bd8ccc91601~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=3abb04e8&x-expires=1771851600&x-signature=lTQ3wE8IoaLwnQHHRu3so7wmhXc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast5",
-      "followers": 1116,
-      "following": 1,
-      "total_likes": 41300,
-      "video_count": 34,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "ig_allkind_effy",
@@ -5256,7 +4154,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_siriya_oo",
@@ -5276,7 +4175,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "tt_himechandesu3u",
@@ -5296,7 +4196,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     },
     {
       "id": "ig_she.her.sho",
@@ -5316,27 +4217,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-23"
-    },
-    {
-      "id": "ig_tsprsglobal",
-      "platform": "instagram",
-      "handle": "tsprsglobal",
-      "name": "TS Plastic Surgery",
-      "profile_url": "https://www.instagram.com/tsprsglobal/",
-      "profile_image": "data/images/ig_tsprsglobal.jpg",
-      "followers": 1028,
-      "following": 305,
-      "posts_count": 654,
-      "engagement_rate": null,
-      "bio": "Whatsapp: +82 10 8377 7580\nKakao: tsprsglobal\nYoutube: @tsprsen\nLine : trprsen",
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-23",
+      "country": "KR"
     },
     {
       "id": "tt_k_jaeshin",
@@ -5356,27 +4238,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
-    },
-    {
-      "id": "tt_i0donut1022",
-      "platform": "tiktok",
-      "handle": "i0donut1022",
-      "name": "donut",
-      "profile_url": "https://www.tiktok.com/@i0donut1022",
-      "profile_image": "https://p19-common-sign.tiktokcdn-us.com/tos-alisg-avt-0068/a3dbc6a93d294adb678c2a1f579d2cc2~tplv-tiktokx-cropcenter:720:720.jpeg?dr=9640&refresh_token=688967aa&x-expires=1772031600&x-signature=DLlYWyOqOrktFcD9ii90wOtlSIc%3D&t=4d5b0474&ps=13740610&shp=a5d48078&shcp=81f88b70&idc=useast8",
-      "followers": 1013,
-      "following": 0,
-      "total_likes": 19200,
-      "video_count": 1,
-      "engagement_rate": null,
-      "is_verified": false,
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "tier": "nano",
-      "last_updated": "2026-02-23"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_simuyeon43",
@@ -5396,7 +4259,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-02-21"
+      "last_updated": "2026-02-21",
+      "country": "KR"
     },
     {
       "id": "tt_senior_health100",
@@ -5416,7 +4280,8 @@
         "beauty"
       ],
       "tier": "nano",
-      "last_updated": "2026-03-02"
+      "last_updated": "2026-03-02",
+      "country": "KR"
     }
   ]
 }

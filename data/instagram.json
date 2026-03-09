@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-04T14:36:32.364650+00:00",
-  "count": 79,
+  "generated_at": "2026-03-09T15:59:18.470662+00:00",
+  "count": 99,
   "influencers": [
     {
       "id": "ig_share_tip",
@@ -150,6 +150,27 @@
       "country": "KR"
     },
     {
+      "id": "ig__luvsae",
+      "platform": "instagram",
+      "handle": "_luvsae",
+      "name": "서내",
+      "profile_url": "https://www.instagram.com/_luvsae/",
+      "profile_image": "data/images/ig__luvsae.jpg",
+      "followers": 83028,
+      "following": 1071,
+      "posts_count": 2893,
+      "engagement_rate": null,
+      "bio": "Happy things happen every day 🧚‍♀️\n다 소장하고 싶은 나의 취향 나눔 🌠",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_beautyus_mag",
       "platform": "instagram",
       "handle": "beautyus_mag",
@@ -190,6 +211,27 @@
       "tier": "mid",
       "last_updated": "2026-02-23",
       "country": "KR"
+    },
+    {
+      "id": "ig_mongdies_official",
+      "platform": "instagram",
+      "handle": "mongdies_official",
+      "name": "몽디에스 공식 인스타그램",
+      "profile_url": "https://www.instagram.com/mongdies_official/",
+      "profile_image": "data/images/ig_mongdies_official.jpg",
+      "followers": 54988,
+      "following": 5,
+      "posts_count": 972,
+      "engagement_rate": null,
+      "bio": "𝐅𝐚𝐦𝐢𝐥𝐲 𝐋𝐢𝐟𝐞𝐬𝐭𝐲𝐥𝐞 𝐁𝐫𝐚𝐧𝐝\n🌿아기화장품 '최초' EWG 그린등급 도입\n🥇100만 엄마들의 선택 3,000만개 누적 판매\n👼0세부터 믿고쓰는 몽디에스",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_hayoonson_",
@@ -253,6 +295,27 @@
       "tier": "micro",
       "last_updated": "2026-03-02",
       "country": "KR"
+    },
+    {
+      "id": "ig_hwahae_official",
+      "platform": "instagram",
+      "handle": "hwahae_official",
+      "name": "대한민국 1등 뷰티앱 화해",
+      "profile_url": "https://www.instagram.com/hwahae_official/",
+      "profile_image": "data/images/ig_hwahae_official.jpg",
+      "followers": 45076,
+      "following": 7,
+      "posts_count": 1140,
+      "engagement_rate": null,
+      "bio": "내가 찾는 모든 뷰티",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_studio_imissyou",
@@ -423,6 +486,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_analog_park_",
+      "platform": "instagram",
+      "handle": "analog_park_",
+      "name": "박배찌",
+      "profile_url": "https://www.instagram.com/analog_park_/",
+      "profile_image": "data/images/ig_analog_park_.jpg",
+      "followers": 23147,
+      "following": 1478,
+      "posts_count": 1402,
+      "engagement_rate": null,
+      "bio": "𝐍𝐚𝐯𝐞𝐫 𝐟𝐚𝐬𝐡𝐢𝐨𝐧 𝐢𝐧𝐟𝐥𝐮𝐞𝐧𝐜𝐞𝐫🌷\n𝘴𝘫𝘦𝘫𝘭𝘰𝘷𝘦04@𝘯𝘢𝘷𝘦𝘳.𝘤𝘰𝘮📨",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig__nagi_729",
       "platform": "instagram",
       "handle": "_nagi_729",
@@ -507,6 +591,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_youjjung",
+      "platform": "instagram",
+      "handle": "youjjung",
+      "name": "유정",
+      "profile_url": "https://www.instagram.com/youjjung/",
+      "profile_image": "data/images/ig_youjjung.jpg",
+      "followers": 12575,
+      "following": 951,
+      "posts_count": 360,
+      "engagement_rate": null,
+      "bio": "",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_h_unny",
       "platform": "instagram",
       "handle": "h_unny",
@@ -547,6 +652,48 @@
       "tier": "micro",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_nayeon__mom",
+      "platform": "instagram",
+      "handle": "nayeon__mom",
+      "name": "Bell_Sweethome",
+      "profile_url": "https://www.instagram.com/nayeon__mom/",
+      "profile_image": "data/images/ig_nayeon__mom.jpg",
+      "followers": 11531,
+      "following": 6154,
+      "posts_count": 3671,
+      "engagement_rate": null,
+      "bio": "하루하루 최선을 다하는 마음으로\n소소한 집꾸미기 도전 🏡 \n나만알기 아쉬운 정보나눔 나눔✨️",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_jgawon",
+      "platform": "instagram",
+      "handle": "jgawon",
+      "name": "마미주",
+      "profile_url": "https://www.instagram.com/jgawon/",
+      "profile_image": "data/images/ig_jgawon.jpg",
+      "followers": 11224,
+      "following": 7496,
+      "posts_count": 8123,
+      "engagement_rate": null,
+      "bio": "재미진 부부일상:낭만줌마:J취향가득\n책육아&스토리맛집&리뷰 :: 친구하자!\n생활속틈새힐링 자주봐요 감사합니다💓\n🪩확실하게 리뷰쓰는Blog 프로쪼렙마미🫶\n Bravo !\n::🐩🐟🦎🦎",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_amoment.studio",
@@ -822,6 +969,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_l_yh_0502",
+      "platform": "instagram",
+      "handle": "l_yh_0502",
+      "name": "윤 형",
+      "profile_url": "https://www.instagram.com/l_yh_0502/",
+      "profile_image": "data/images/ig_l_yh_0502.jpg",
+      "followers": 5527,
+      "following": 522,
+      "posts_count": 92,
+      "engagement_rate": null,
+      "bio": "",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_youleecom",
       "platform": "instagram",
       "handle": "youleecom",
@@ -883,6 +1051,27 @@
       "tier": "nano",
       "last_updated": "2026-03-02",
       "country": "KR"
+    },
+    {
+      "id": "ig_thisisyihyun",
+      "platform": "instagram",
+      "handle": "thisisyihyun",
+      "name": "신이현 | Pilates instructor",
+      "profile_url": "https://www.instagram.com/thisisyihyun/",
+      "profile_image": "data/images/ig_thisisyihyun.jpg",
+      "followers": 3948,
+      "following": 376,
+      "posts_count": 141,
+      "engagement_rate": null,
+      "bio": "ᴿᴼᴹᴬᴺᴬ ᴾᴿᴱ ᴬᴾᴾᴿᴱᴺᵀᴵᶜᴱ \n📩 𝔻𝕄 𝕗𝕠𝕣 𝕃𝕖𝕤𝕤𝕠𝕟 𝕣𝕖𝕢𝕦𝕖𝕤𝕥𝕤 !\n❤️ @its_hyunz",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_dermabellofficial",
@@ -969,6 +1158,27 @@
       "country": "JP"
     },
     {
+      "id": "ig_pinkrera3",
+      "platform": "instagram",
+      "handle": "pinkrera3",
+      "name": "핑크골드",
+      "profile_url": "https://www.instagram.com/pinkrera3/",
+      "profile_image": "data/images/ig_pinkrera3.jpg",
+      "followers": 3381,
+      "following": 2477,
+      "posts_count": 1038,
+      "engagement_rate": null,
+      "bio": "#소소한일상#디저트#볼거리#예쁜사진#구경오세요 ~",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_aquaque.official",
       "platform": "instagram",
       "handle": "aquaque.official",
@@ -1053,6 +1263,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_seozzang._.jp",
+      "platform": "instagram",
+      "handle": "seozzang._.jp",
+      "name": "서짱",
+      "profile_url": "https://www.instagram.com/seozzang._.jp/",
+      "profile_image": "data/images/ig_seozzang._.jp.jpg",
+      "followers": 2612,
+      "following": 216,
+      "posts_count": 4,
+      "engagement_rate": null,
+      "bio": "저를 팔로우하시면 후회하지 않..ㄱ..✨\n-현 ) 인플루언서마케팅인턴\n📨 leseye0202@gmail.com",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_baby._krong",
       "platform": "instagram",
       "handle": "baby._krong",
@@ -1093,6 +1324,27 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_zzrb_iz",
+      "platform": "instagram",
+      "handle": "zzrb_iz",
+      "name": "짧비즈",
+      "profile_url": "https://www.instagram.com/zzrb_iz/",
+      "profile_image": "data/images/ig_zzrb_iz.jpg",
+      "followers": 2370,
+      "following": 60,
+      "posts_count": 481,
+      "engagement_rate": null,
+      "bio": "ヅ\n⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀ ⠀",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_salt.yarchive",
@@ -1200,6 +1452,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_yulbi_00",
+      "platform": "instagram",
+      "handle": "yulbi_00",
+      "name": "이율비",
+      "profile_url": "https://www.instagram.com/yulbi_00/",
+      "profile_image": "data/images/ig_yulbi_00.jpg",
+      "followers": 2061,
+      "following": 3021,
+      "posts_count": 205,
+      "engagement_rate": null,
+      "bio": "-RSI500 인증 싱잉볼전문가\n-싱잉볼명상지도자, 싱잉볼힐링지도자\n-사운드힐링 프랙티셔너 티처\n-아뜨마부띠 사운드 힐링티쳐\n-공배스힐러",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig___been09",
       "platform": "instagram",
       "handle": "__been09",
@@ -1221,6 +1494,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_lunalash_skin",
+      "platform": "instagram",
+      "handle": "lunalash_skin",
+      "name": "운동하는 뷰티샵ceo 도봉 쌍문 수유 노원 스킨케어 속눈썹연장펌",
+      "profile_url": "https://www.instagram.com/lunalash_skin/",
+      "profile_image": "data/images/ig_lunalash_skin.jpg",
+      "followers": 1894,
+      "following": 1042,
+      "posts_count": 313,
+      "engagement_rate": null,
+      "bio": "∘ 속눈썹 30분 스피드연장\n∘ 원데이수강 만족도 1위 \n∘ 1인체제로 운영되는 맞춤디자인 전문샵\n　\n🏆 국제 미용기능경기대회 속눈썹 스피드부문 대상 그외 다수 수상경력\n　\n∘ 예",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
       "id": "ig_xaoj_v",
       "platform": "instagram",
       "handle": "xaoj_v",
@@ -1240,6 +1534,48 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "JP"
+    },
+    {
+      "id": "ig_chae_chae12_",
+      "platform": "instagram",
+      "handle": "chae_chae12_",
+      "name": "채영 , 패션 뷰티 💄",
+      "profile_url": "https://www.instagram.com/chae_chae12_/",
+      "profile_image": "data/images/ig_chae_chae12_.jpg",
+      "followers": 1619,
+      "following": 1110,
+      "posts_count": 124,
+      "engagement_rate": null,
+      "bio": "📨 Contact DM\n📬 codud678@kakao.com\n✨ 패션 • 뷰티 계정 맞팔\n👇🏻♡꙳ 추천템 모음zip ♡꙳👇🏻",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_thedrawing_yh",
+      "platform": "instagram",
+      "handle": "thedrawing_yh",
+      "name": "원흥슈가링 원흥왁싱 원흥토탈뷰티 원흥스킨케어",
+      "profile_url": "https://www.instagram.com/thedrawing_yh/",
+      "profile_image": "data/images/ig_thedrawing_yh.jpg",
+      "followers": 1579,
+      "following": 2340,
+      "posts_count": 490,
+      "engagement_rate": null,
+      "bio": "✨더드로잉뷰티원흥점✨\nෆ‍ᝰ토탈뷰티샵 ᝰෆ‍\nᨻopen 11:00-22:00\nᨻ무료주차2시간\nෆ̇슈가링왁싱 | 피부•바디케어 | 패디플래닝 | 속눈썹 \n| 네일ෆ̇\n⠀\nᨻ예약문의\n",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_oneul.min",
@@ -1282,6 +1618,27 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig__kim_.sunghyun_",
+      "platform": "instagram",
+      "handle": "_kim_.sunghyun_",
+      "name": "김성현",
+      "profile_url": "https://www.instagram.com/_kim_.sunghyun_/",
+      "profile_image": "data/images/ig__kim_.sunghyun_.jpg",
+      "followers": 1520,
+      "following": 5,
+      "posts_count": 427,
+      "engagement_rate": null,
+      "bio": "🤍🌫",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_mo_mo_td",
@@ -1429,6 +1786,48 @@
       "tier": "nano",
       "last_updated": "2026-02-23",
       "country": "KR"
+    },
+    {
+      "id": "ig_pretty_yangji",
+      "platform": "instagram",
+      "handle": "pretty_yangji",
+      "name": "리뷰하는 이쁜양지",
+      "profile_url": "https://www.instagram.com/pretty_yangji/",
+      "profile_image": "data/images/ig_pretty_yangji.jpg",
+      "followers": 1350,
+      "following": 1253,
+      "posts_count": 3496,
+      "engagement_rate": null,
+      "bio": "",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_ming.lovely_",
+      "platform": "instagram",
+      "handle": "ming.lovely_",
+      "name": "밍",
+      "profile_url": "https://www.instagram.com/ming.lovely_/",
+      "profile_image": "data/images/ig_ming.lovely_.jpg",
+      "followers": 1288,
+      "following": 7490,
+      "posts_count": 45,
+      "engagement_rate": null,
+      "bio": "럽스타그램이 많은 밍의 Happy story~*",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_myo__o",
@@ -1639,6 +2038,27 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_jei.lui",
+      "platform": "instagram",
+      "handle": "jei.lui",
+      "name": "제ol_루oI",
+      "profile_url": "https://www.instagram.com/jei.lui/",
+      "profile_image": "data/images/ig_jei.lui.jpg",
+      "followers": 1069,
+      "following": 797,
+      "posts_count": 102,
+      "engagement_rate": null,
+      "bio": "커ㅍl_♪\n#dessert #coffee #cafe #delicious #food",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-09"
     },
     {
       "id": "ig_she.her.sho",

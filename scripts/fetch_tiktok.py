@@ -3,8 +3,8 @@ fetch_tiktok.py
 
 역할:
   1. data/config.json 에서 TikTok 해시태그 목록과 필터 조건을 읽는다.
-  2. Apify TikTok Hashtag Scraper로 해시태그별 영상 수집 → username 추출
-  3. Apify TikTok Profile Scraper로 신규 계정 상세 정보 + avatar URL 수집
+  2. Apify TikTok Hashtag Scraper로 해시태그별 영상 수집
+  3. authorMeta에서 계정 정보 + avatar URL 추출 (Profile Scraper 불필요)
   4. 프로필 이미지 다운로드
   5. 필터 적용 후 기존 + 신규 병합해서 tiktok.json 저장
 
@@ -18,6 +18,7 @@ fetch_tiktok.py
 import json
 import os
 import sys
+import sys as _sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -25,6 +26,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+_sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.utils import detect_language, download_image_via_apify
 
 load_dotenv()
@@ -179,6 +181,9 @@ def main() -> None:
         sys.exit(1)
 
     existing = load_existing(OUTPUT_PATH)
+    # 기존 계정의 profile_image_url 잔재 필드 정리
+    for acc in existing.values():
+        acc.pop("profile_image_url", None)
     print(f"📂 기존 계정 {len(existing)}개 로드됨\n")
 
     # Step 1: 해시태그 → 신규 계정 정보 수집 (avatar URL 포함)

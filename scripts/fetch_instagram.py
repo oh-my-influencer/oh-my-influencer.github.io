@@ -18,6 +18,7 @@ fetch_instagram.py
 import json
 import os
 import sys
+import sys as _sys
 import time
 from datetime import datetime, timezone
 from pathlib import Path
@@ -25,6 +26,7 @@ from pathlib import Path
 import requests
 from dotenv import load_dotenv
 
+_sys.path.insert(0, str(Path(__file__).parent.parent))
 from scripts.utils import detect_language, download_image_via_apify
 
 load_dotenv()
@@ -100,9 +102,6 @@ def run_actor(
     )
     items.raise_for_status()
     return items.json()
-
-
-# ── 이미지 다운로드 ────────────────────────────────────────
 
 
 # ── Step 1: 해시태그 → username 목록 수집 ─────────────────

@@ -29,7 +29,10 @@ CONFIG_PATH = ROOT / "data" / "config.json"
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 
 
-from utils import detect_language
+import sys as _sys
+
+_sys.path.insert(0, str(Path(__file__).parent.parent))
+from scripts.utils import detect_language
 
 
 # ── country 필드 채우기 ────────────────────────────────────

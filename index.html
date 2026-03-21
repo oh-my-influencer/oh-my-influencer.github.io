@@ -423,7 +423,6 @@
     <!-- 플랫폼 탭 -->
     <label>플랫폼</label>
     <div class="tab-group" id="platform-tabs">
-      <button class="tab-btn active" data-platform="all">전체</button>
       <button class="tab-btn" data-platform="youtube">🎬 YouTube</button>
       <button class="tab-btn" data-platform="instagram">📸 Instagram</button>
       <button class="tab-btn" data-platform="tiktok">🎵 TikTok</button>
@@ -550,13 +549,13 @@ function showState(icon, msg) {
 let allData = [];
 
 // 필터 상태
-let filters = { platform: 'all', tier: 'all', sort: 'followers_desc', query: '' };
+let filters = { platforms: new Set(), tier: 'all', sort: 'followers_desc', query: '' };
 
 function applyFilters() {
   let list = [...allData];
 
-  if (filters.platform !== 'all')
-    list = list.filter(i => i.platform === filters.platform);
+  if (filters.platforms.size > 0)
+    list = list.filter(i => filters.platforms.has(i.platform));
   if (filters.tier !== 'all')
     list = list.filter(i => i.tier === filters.tier);
   if (filters.query)
@@ -623,34 +622,47 @@ async function init() {
 }
 
 // ── 이벤트 바인딩 ─────────────────────────────────────────
+
+// 플랫폼 토글 (다중 선택, 모두 해제 시 전체)
 document.getElementById('platform-tabs').addEventListener('click', e => {
   const btn = e.target.closest('.tab-btn');
-  if (!btn) return;
-  document.querySelectorAll('.tab-btn').forEach(b => b.classList.remove('active'));
-  btn.classList.add('active');
+  if (!btn || !btn.dataset.platform) return;
 
   const platform = btn.dataset.platform;
-  filters.platform = platform;
 
-  // 선택한 플랫폼 데이터가 아예 없으면 준비 중 안내
-  const hasData = platform === 'all' || allData.some(i => i.platform === platform);
-  if (!hasData) {
-    const PLATFORM_KO = { instagram: '인스타그램', tiktok: '틱톡', youtube: '유튜브' };
+  // 토글
+  if (filters.platforms.has(platform)) {
+    filters.platforms.delete(platform);
+    btn.classList.remove('active');
+  } else {
+    filters.platforms.add(platform);
+    btn.classList.add('active');
+  }
+
+  // 모든 버튼 해제 시 → 전체로 자동 복귀
+  if (filters.platforms.size === 0) {
+    applyFilters();
+    return;
+  }
+
+  // 선택된 플랫폼 중 데이터 없는 것만 있으면 안내
+  const PLATFORM_KO = { instagram: '인스타그램', tiktok: '틱톡', youtube: '유튜브' };
+  const selectedArr = [...filters.platforms];
+  const hasAnyData = selectedArr.some(p => allData.some(i => i.platform === p));
+  if (!hasAnyData) {
+    const names = selectedArr.map(p => PLATFORM_KO[p] ?? p).join(', ');
     document.getElementById('result-count').innerHTML = '';
-    showState('🚧', `${PLATFORM_KO[platform] ?? platform} 데이터는 준비 중이에요!<br><small style="font-weight:500;color:#b0b7c3">곧 업데이트될 예정이에요 🌸</small>`);
+    showState('🚧', `${names} 데이터는 준비 중이에요!<br><small style="font-weight:500;color:#b0b7c3">곧 업데이트될 예정이에요 🌸</small>`);
     return;
   }
 
   applyFilters();
 });
 
+
 document.getElementById('tier-filter').addEventListener('change', e => {
   filters.tier = e.target.value;
   applyFilters();
-  // 칩 active 상태 동기화
-  document.querySelectorAll('.stat-chip').forEach(c => {
-    c.classList.toggle('active', c.dataset.tier === filters.tier);
-  });
 });
 
 document.getElementById('sort-filter').addEventListener('change', e => {
@@ -670,27 +682,25 @@ document.getElementById('search-input').addEventListener('input', e => {
 // ── 통계 칩 클릭 → tier 필터 연동 ──────────────────────────
 document.getElementById('stats-bar').addEventListener('click', e => {
   const chip = e.target.closest('.stat-chip');
-  if (!chip) return;
+  if (!chip || !chip.dataset.tier) return;
 
   const tier = chip.dataset.tier;
 
-  // 칩 active 상태 토글
+  // 같은 칩 다시 클릭하면 전체로 복귀
+  if (chip.classList.contains('active') && tier !== 'all') {
+    document.querySelectorAll('.stat-chip').forEach(c => c.classList.remove('active'));
+    document.querySelector('.stat-chip[data-tier="all"]').classList.add('active');
+    document.getElementById('tier-filter').value = 'all';
+    filters.tier = 'all';
+    applyFilters();
+    return;
+  }
+
   document.querySelectorAll('.stat-chip').forEach(c => c.classList.remove('active'));
   chip.classList.add('active');
-
-  // tier 드롭다운 동기화
-  const select = document.getElementById('tier-filter');
-  select.value = tier;
+  document.getElementById('tier-filter').value = tier;
   filters.tier = tier;
   applyFilters();
-});
-
-// tier 드롭다운 변경 시 칩 active 상태도 동기화
-document.getElementById('tier-filter').addEventListener('change', e => {
-  const tier = e.target.value;
-  document.querySelectorAll('.stat-chip').forEach(c => {
-    c.classList.toggle('active', c.dataset.tier === tier);
-  });
 });
 
 init();

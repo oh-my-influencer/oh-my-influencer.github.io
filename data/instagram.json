@@ -1,7 +1,28 @@
 {
-  "generated_at": "2026-03-09T15:59:18.470662+00:00",
-  "count": 99,
+  "generated_at": "2026-03-21T15:51:21.148363+00:00",
+  "count": 140,
   "influencers": [
+    {
+      "id": "ig_drjart_kr",
+      "platform": "instagram",
+      "handle": "drjart_kr",
+      "name": "Dr.Jart+ Korea Market",
+      "profile_url": "https://www.instagram.com/drjart_kr/",
+      "profile_image": "data/images/ig_drjart_kr.jpg",
+      "followers": 215683,
+      "following": 6,
+      "posts_count": 2098,
+      "engagement_rate": null,
+      "bio": "Skincare powered by science, inspired by art.\n닥터자르트 한국 공식 인스타그램",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-03-21"
+    },
     {
       "id": "ig_share_tip",
       "platform": "instagram",
@@ -64,6 +85,27 @@
       "tier": "macro",
       "last_updated": "2026-02-23",
       "country": "JP"
+    },
+    {
+      "id": "ig_bioheal.boh_official",
+      "platform": "instagram",
+      "handle": "bioheal.boh_official",
+      "name": "바이오힐 보 공식 인스타그램",
+      "profile_url": "https://www.instagram.com/bioheal.boh_official/",
+      "profile_image": "data/images/ig_bioheal.boh_official.jpg",
+      "followers": 122385,
+      "following": 3,
+      "posts_count": 1351,
+      "engagement_rate": null,
+      "bio": "High-Performance Biotech Skincare,\nBIOHEAL BOH",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_leebkum",
@@ -465,6 +507,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_peau_jungmin5709",
+      "platform": "instagram",
+      "handle": "peau_jungmin5709",
+      "name": "박정민/여드름/문제성피부전문가",
+      "profile_url": "https://www.instagram.com/peau_jungmin5709/",
+      "profile_image": "data/images/ig_peau_jungmin5709.jpg",
+      "followers": 29352,
+      "following": 4064,
+      "posts_count": 5165,
+      "engagement_rate": null,
+      "bio": "화장품제조법인대표\n제니스뷰티벅스 원장\n여드름주제논문 한국미용학회등재(국립도서관보관중)\n현)부산 보건대학교 피부전공 겸임교수\n전)대동대학교 피부전공 외래교수\n전)영산대학교 피부전공 ",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_byecom_cosmetic",
       "platform": "instagram",
       "handle": "byecom_cosmetic",
@@ -570,6 +633,48 @@
       "country": "KR"
     },
     {
+      "id": "ig_yootrue_info",
+      "platform": "instagram",
+      "handle": "yootrue_info",
+      "name": "유트루",
+      "profile_url": "https://www.instagram.com/yootrue_info/",
+      "profile_image": "data/images/ig_yootrue_info.jpg",
+      "followers": 16021,
+      "following": 1,
+      "posts_count": 45,
+      "engagement_rate": null,
+      "bio": "유트루가 사용하고 착용하는 제품들 공유할게욤 :)\n채널 No.1 유트루뷰티\n채널 No.2 유블로그\n채널 No.3 유트루온에어",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_begins_official_",
+      "platform": "instagram",
+      "handle": "begins_official_",
+      "name": "비긴스 바이 정샘물 Be you, BeginS",
+      "profile_url": "https://www.instagram.com/begins_official_/",
+      "profile_image": "data/images/ig_begins_official_.jpg",
+      "followers": 15680,
+      "following": 10,
+      "posts_count": 194,
+      "engagement_rate": null,
+      "bio": "BeginS by JUNGSAEMMOOL @jsmbeauty_",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_like__kit",
       "platform": "instagram",
       "handle": "like__kit",
@@ -589,6 +694,90 @@
       "tier": "micro",
       "last_updated": "2026-02-23",
       "country": "KR"
+    },
+    {
+      "id": "ig_malgeum.cosmetician",
+      "platform": "instagram",
+      "handle": "malgeum.cosmetician",
+      "name": "이귀정 | 여드름전문가 | 압출없는 전문관리",
+      "profile_url": "https://www.instagram.com/malgeum.cosmetician/",
+      "profile_image": "data/images/ig_malgeum.cosmetician.jpg",
+      "followers": 14019,
+      "following": 392,
+      "posts_count": 3141,
+      "engagement_rate": null,
+      "bio": "맑음그리고빛 \n1:1 맞춤형피부상담∙화장품처방∙스킨컨설팅\n■ 끊임없이 재발하는 여드름의 체질 변화 \n■ 압출없이 근본적으로 관리하는 여드름 \n■ 내 피부를 이해하는 주도적인 전문 ",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_hanappyii",
+      "platform": "instagram",
+      "handle": "hanappyii",
+      "name": "HANAKA",
+      "profile_url": "https://www.instagram.com/hanappyii/",
+      "profile_image": "data/images/ig_hanappyii.jpg",
+      "followers": 13317,
+      "following": 297,
+      "posts_count": 96,
+      "engagement_rate": null,
+      "bio": "🇯🇵𝚒𝚗🇰🇷2017-\n｡*⑅୨୧┈┈┈┈┈┈┈┈┈୨୧⑅*｡\n@midonal.s2 元練習生",
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_from.me_skin_bd",
+      "platform": "instagram",
+      "handle": "from.me_skin_bd",
+      "name": "분당피부관리 분당에스테틱 분당웨딩관리 분당여드름 분당다이어트  프롬미분당점",
+      "profile_url": "https://www.instagram.com/from.me_skin_bd/",
+      "profile_image": "data/images/ig_from.me_skin_bd.jpg",
+      "followers": 12977,
+      "following": 1298,
+      "posts_count": 1870,
+      "engagement_rate": null,
+      "bio": "대한민국 NO.1 에스테틱 프롬미분당점🏅\n@from.me_official_ \n⠀ \n⬇️문의하기⬇️\n‣스킨 퍼스널 컨설팅 원조 (여드름,블랙헤드,모공,리프팅 관리)\n‣승무원, 연예인",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_showing.creative",
+      "platform": "instagram",
+      "handle": "showing.creative",
+      "name": "쇼잉 크리에이티브",
+      "profile_url": "https://www.instagram.com/showing.creative/",
+      "profile_image": "data/images/ig_showing.creative.jpg",
+      "followers": 12789,
+      "following": 272,
+      "posts_count": 1869,
+      "engagement_rate": null,
+      "bio": "너무 예뻐서 충격! 🔆 새로운 뷰티 트랜드 ❤️쇼.크❤️\n😍결과를 보여주는 퍼스널 브랜드 SHOW\n📍고유한 매력과 감각적인 뷰티 센스를 더한 나만의 아름다움을 찾는 1:1 뷰티 S",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_youjjung",
@@ -675,6 +864,27 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "ig_from.me_skin_anyangbg",
+      "platform": "instagram",
+      "handle": "from.me_skin_anyangbg",
+      "name": "🏅no.1  안양피부관리 범계피부관리 안양 웨딩관리 범계 웨딩관리 연예인 피부관리 프롬미안양범계점",
+      "profile_url": "https://www.instagram.com/from.me_skin_anyangbg/",
+      "profile_image": "data/images/ig_from.me_skin_anyangbg.jpg",
+      "followers": 11377,
+      "following": 1038,
+      "posts_count": 775,
+      "engagement_rate": null,
+      "bio": "✨프리미엄 에스테틱 프롬미✨\n⠀\n✴︎2024 대한민국 브랜드 파워 1위\n✴︎자체개발 문제성 피부 비건 코스메틱 사용\n✴︎뷰티전공 전문 테라피스트 케어\n✴︎프라이빗한 1인실/2인실 ",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_jgawon",
       "platform": "instagram",
       "handle": "jgawon",
@@ -694,6 +904,27 @@
       ],
       "tier": "micro",
       "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_happyhappy_up",
+      "platform": "instagram",
+      "handle": "happyhappy_up",
+      "name": "해피업ㅣ유머ㅣ이슈ㅣ정보",
+      "profile_url": "https://www.instagram.com/happyhappy_up/",
+      "profile_image": "data/images/ig_happyhappy_up.jpg",
+      "followers": 11003,
+      "following": 4543,
+      "posts_count": 1246,
+      "engagement_rate": null,
+      "bio": "해피를 업시키는 유머&정보 모음🐯\n매일 업로드 합니다✨️\n소소한 행복을 고르는 계정\n광고 기획,제작 문의는 DM주세요📮",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_amoment.studio",
@@ -801,6 +1032,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_gagguda_official",
+      "platform": "instagram",
+      "handle": "gagguda_official",
+      "name": "대구피부관리 동성로피부관리 대구여드름 대구흉터ㅣ가꾸다뷰티살롱",
+      "profile_url": "https://www.instagram.com/gagguda_official/",
+      "profile_image": "data/images/ig_gagguda_official.jpg",
+      "followers": 8058,
+      "following": 2759,
+      "posts_count": 3798,
+      "engagement_rate": null,
+      "bio": "𝐒𝐢𝐧𝐜𝐞 𝟐𝟎𝟏𝟕\n대구 최초 및 최대 규모 단독 문제성피부전문\n⠀\n여드름 • 흉터 • 색소침착 • 수부지 • 피부장벽 • 모공\n등가슴여드름 • 팔다리흉터 • 모공각화증 • 리프팅",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_bbb_utter",
       "platform": "instagram",
       "handle": "bbb_utter",
@@ -841,6 +1093,27 @@
       "tier": "nano",
       "last_updated": "2026-03-02",
       "country": "KR"
+    },
+    {
+      "id": "ig__._i__git_yzin",
+      "platform": "instagram",
+      "handle": "_._i__git_yzin",
+      "name": "정근 팬 페이지",
+      "profile_url": "https://www.instagram.com/_._i__git_yzin/",
+      "profile_image": "data/images/ig__._i__git_yzin.jpg",
+      "followers": 6356,
+      "following": 0,
+      "posts_count": 671,
+      "engagement_rate": null,
+      "bio": "❤️🧡💛💚💙정근을 위한",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_blau_ha_2",
@@ -990,6 +1263,90 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "ig_ggultip_collection",
+      "platform": "instagram",
+      "handle": "ggultip_collection",
+      "name": "내가모은꿀팁",
+      "profile_url": "https://www.instagram.com/ggultip_collection/",
+      "profile_image": "data/images/ig_ggultip_collection.jpg",
+      "followers": 4663,
+      "following": 4250,
+      "posts_count": 474,
+      "engagement_rate": null,
+      "bio": "차곡차곡 모은 꿀팁💾",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig__sweet_lemon.tea",
+      "platform": "instagram",
+      "handle": "_sweet_lemon.tea",
+      "name": "레몬티",
+      "profile_url": "https://www.instagram.com/_sweet_lemon.tea/",
+      "profile_image": "data/images/ig__sweet_lemon.tea.jpg",
+      "followers": 4574,
+      "following": 692,
+      "posts_count": 1483,
+      "engagement_rate": null,
+      "bio": "reviewer\n📨lim07766@naver.com",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_momhoilove",
+      "platform": "instagram",
+      "handle": "momhoilove",
+      "name": "𝕂𝕚𝕞 𝕁𝕚𝕟 𝔸",
+      "profile_url": "https://www.instagram.com/momhoilove/",
+      "profile_image": "data/images/ig_momhoilove.jpg",
+      "followers": 4525,
+      "following": 2299,
+      "posts_count": 2135,
+      "engagement_rate": null,
+      "bio": "๓\nᵃᶜᶜᵒᵘⁿᵗ ʳᵘⁿ ᵇʸ ᵐᵒᵐ☺︎  •*¨*•.¸¸♬\n❤️엘림코리아 서포터즈3기 활동\n📚 미몽지기 7기 활동\n🛁 버블데이5기 서포터즈 🧼\n🍐요미즈3기 서포터즈",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_bo_hyeon_1004",
+      "platform": "instagram",
+      "handle": "bo_hyeon_1004",
+      "name": "🌸bo_hyeon. ɪɴsᴛᴀʀ🌸",
+      "profile_url": "https://www.instagram.com/bo_hyeon_1004/",
+      "profile_image": "data/images/ig_bo_hyeon_1004.jpg",
+      "followers": 4520,
+      "following": 2154,
+      "posts_count": 88,
+      "engagement_rate": null,
+      "bio": "뷰티 • 맛집 • 일상 리뷰\n📩 협찬 & 문의 DM",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_youleecom",
       "platform": "instagram",
       "handle": "youleecom",
@@ -1009,6 +1366,48 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_ddi.diring",
+      "platform": "instagram",
+      "handle": "ddi.diring",
+      "name": "수향",
+      "profile_url": "https://www.instagram.com/ddi.diring/",
+      "profile_image": "data/images/ig_ddi.diring.jpg",
+      "followers": 4482,
+      "following": 700,
+      "posts_count": 177,
+      "engagement_rate": null,
+      "bio": "PNU MED Lv.3 🩺\n하고싶은거 다 하는 하고잽이 의대생 \nBeauty, Fashion & Healthy routine 🐥\n事必歸正 | Becoming who you want",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_dia.r___",
+      "platform": "instagram",
+      "handle": "dia.r___",
+      "name": "디아르🩰🫧 | 여드름 | 홈케어 꿀팁요정 |   ⠀⠀부천피부관리 | 에스테틱교육",
+      "profile_url": "https://www.instagram.com/dia.r___/",
+      "profile_image": "data/images/ig_dia.r___.jpg",
+      "followers": 4267,
+      "following": 619,
+      "posts_count": 824,
+      "engagement_rate": null,
+      "bio": "여드름 관리 고수 문원장의 공간 .⋆⁺·ˈ♡🩰🫧\n⠀⠀ \n💖피지분비 많고 예민한 여드름 피부는 집중\n💉압출도 잘하고 홈케어에 진심\n👩🏻‍⚕️문제성피부 전문 대표원장이 꿀팁 알려주는곳",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_byryzn_cosmetics",
@@ -1074,6 +1473,27 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "ig_onya.mag",
+      "platform": "instagram",
+      "handle": "onya.mag",
+      "name": "온야 매거진",
+      "profile_url": "https://www.instagram.com/onya.mag/",
+      "profile_image": "data/images/ig_onya.mag.jpg",
+      "followers": 3907,
+      "following": 654,
+      "posts_count": 198,
+      "engagement_rate": null,
+      "bio": "예뻐지고 싶은 여자들의\n나만 알고싶은 뷰티 정보🎀\n.\n.\n⬇️ 더 자세한 내용은 링크",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_dermabellofficial",
       "platform": "instagram",
       "handle": "dermabellofficial",
@@ -1114,6 +1534,27 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_lovblovb_official",
+      "platform": "instagram",
+      "handle": "lovblovb_official",
+      "name": "럽럽 LOVB LOVB",
+      "profile_url": "https://www.instagram.com/lovblovb_official/",
+      "profile_image": "data/images/ig_lovblovb_official.jpg",
+      "followers": 3574,
+      "following": 3,
+      "posts_count": 633,
+      "engagement_rate": null,
+      "bio": "𝐿𝑜𝑣𝑒 𝐵𝑜𝑟𝑛, 𝐿𝑜𝑣𝑒 𝐵𝑟𝑖𝑔ℎ𝑡𝑒𝑛\n차분한 색감으로 돌아온 밀키푸딩 🥛🍫\n푸딩 글로우 틴트🍮",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_knjiyn",
@@ -1221,6 +1662,69 @@
       "country": "KR"
     },
     {
+      "id": "ig_zzip_ssa",
+      "platform": "instagram",
+      "handle": "zzip_ssa",
+      "name": "여우집사 | 만화그리는 육아맘",
+      "profile_url": "https://www.instagram.com/zzip_ssa/",
+      "profile_image": "data/images/ig_zzip_ssa.jpg",
+      "followers": 3248,
+      "following": 1273,
+      "posts_count": 309,
+      "engagement_rate": null,
+      "bio": "🤱🏻결코 쉽지않은 세아들 육아썰\n♥✍ #인스타툰 #육아툰 #추억툰 그립니다.\n#여우집사툰_엄마어렸을적에 연재중\n빵집썰도 종종🤭\n💌작업/협업 관련 문의는 foxzipssa@gmail",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_cosy_a_",
+      "platform": "instagram",
+      "handle": "cosy_a_",
+      "name": "ϲօsყ | 코덕 | 대외활동",
+      "profile_url": "https://www.instagram.com/cosy_a_/",
+      "profile_image": "data/images/ig_cosy_a_.jpg",
+      "followers": 3235,
+      "following": 2932,
+      "posts_count": 48,
+      "engagement_rate": null,
+      "bio": "🔜믹순 서포터즈 믹순둥이 1기\n🔛신세계백화점 커뮤니티 서포터즈 5기\n🔚웰라쥬X소윤 서포터즈\n🔚벨르랑코 서포터즈 6기\n#대외활동 #서포터즈 #코덕 #맞팔해요",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_poeobi_skin",
+      "platform": "instagram",
+      "handle": "poeobi_skin",
+      "name": "모공을 비우는 포어비 스킨 | 뽀원장",
+      "profile_url": "https://www.instagram.com/poeobi_skin/",
+      "profile_image": "data/images/ig_poeobi_skin.jpg",
+      "followers": 3213,
+      "following": 513,
+      "posts_count": 31,
+      "engagement_rate": null,
+      "bio": "피부전문가가 고른 예뻐지는 꿀템 모음 🍯\n👩🏻‍⚕️ 여드름 압출 · 문제성 피부 전문 \n🏡 1:1 프라이빗 홈케어 스킨 솔루션\n🗂️ 29년차 여드름 피부의 관리법 공개 👇🏻",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_sssseobom",
       "platform": "instagram",
       "handle": "sssseobom",
@@ -1261,6 +1765,48 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_hkhgg4602",
+      "platform": "instagram",
+      "handle": "hkhgg4602",
+      "name": "한경화",
+      "profile_url": "https://www.instagram.com/hkhgg4602/",
+      "profile_image": "data/images/ig_hkhgg4602.jpg",
+      "followers": 2672,
+      "following": 4210,
+      "posts_count": 6878,
+      "engagement_rate": null,
+      "bio": "2019.03.23🤵❤️👰\n2019.07.02❤️👨‍👩‍👦❤️\n2021.12.10 ❤️👨‍👩‍👦‍👦❤️\n#코덕 #화장품 #뷰티 #육아 #코덕소통 #육아소통 #육아스타그램 #코덕스타",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_yuuuni.boy",
+      "platform": "instagram",
+      "handle": "yuuuni.boy",
+      "name": "내 세상이 바뀌는 시간들",
+      "profile_url": "https://www.instagram.com/yuuuni.boy/",
+      "profile_image": "data/images/ig_yuuuni.boy.jpg",
+      "followers": 2650,
+      "following": 2542,
+      "posts_count": 50,
+      "engagement_rate": null,
+      "bio": "유니뽀이👶🏻\n🔽 유투브에도 일상 기록 중🤍\n🔽 블로그 서이웃 소통도 환영해요 •́‿•̀",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_seozzang._.jp",
@@ -1345,6 +1891,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_hwan._hooe",
+      "platform": "instagram",
+      "handle": "hwan._hooe",
+      "name": "환흐 ㅣ",
+      "profile_url": "https://www.instagram.com/hwan._hooe/",
+      "profile_image": "data/images/ig_hwan._hooe.jpg",
+      "followers": 2282,
+      "following": 7492,
+      "posts_count": 31,
+      "engagement_rate": null,
+      "bio": "주중엔 회사원👨‍💼\n주말엔 자연인⛺\n커피는 드립보다 모닥불이 먼저🔥",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_salt.yarchive",
@@ -1494,6 +2061,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_binblley",
+      "platform": "instagram",
+      "handle": "binblley",
+      "name": "이수빈",
+      "profile_url": "https://www.instagram.com/binblley/",
+      "profile_image": "data/images/ig_binblley.jpg",
+      "followers": 1942,
+      "following": 250,
+      "posts_count": 37,
+      "engagement_rate": null,
+      "bio": "☁️💐🍃☕️🎧🤍 ••",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_lunalash_skin",
       "platform": "instagram",
       "handle": "lunalash_skin",
@@ -1513,6 +2101,69 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig___dddo.yoummm",
+      "platform": "instagram",
+      "handle": "__dddo.yoummm",
+      "name": "또염",
+      "profile_url": "https://www.instagram.com/__dddo.yoummm/",
+      "profile_image": "data/images/ig___dddo.yoummm.jpg",
+      "followers": 1882,
+      "following": 7492,
+      "posts_count": 41,
+      "engagement_rate": null,
+      "bio": "🖤👀💙",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_beautyblossom_clinic",
+      "platform": "instagram",
+      "handle": "beautyblossom_clinic",
+      "name": "뷰티블라썸의원 | 합정피부과 홍대피부과",
+      "profile_url": "https://www.instagram.com/beautyblossom_clinic/",
+      "profile_image": "data/images/ig_beautyblossom_clinic.jpg",
+      "followers": 1768,
+      "following": 8,
+      "posts_count": 199,
+      "engagement_rate": null,
+      "bio": "「필러 보톡스 리프팅 레이저 스킨부스터 윤곽」⠀\n⠀\n📱TEL : 02-336-7511⠀\n서울특별시 마포구 양화로66 메디원 메디컬센터 5,6층\n[접수 6층]\n💬Kakao : 뷰티블",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_drwellmadeone_clinic",
+      "platform": "instagram",
+      "handle": "drwellmadeone_clinic",
+      "name": "닥터웰메이드원피부과의원",
+      "profile_url": "https://www.instagram.com/drwellmadeone_clinic/",
+      "profile_image": "data/images/ig_drwellmadeone_clinic.jpg",
+      "followers": 1762,
+      "following": 471,
+      "posts_count": 528,
+      "engagement_rate": null,
+      "bio": "압구정피부과 / 압구정리프팅 / 주름•여드름치료\n🧡진료안내🧡\n📞 02-511-0079\n📧플러스친구 :  닥터웰메이드원피부과의원\n◾️월~금 : 10:00 - 20:00 / 토 : 1",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_xaoj_v",
@@ -1725,6 +2376,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_bbuni_sol",
+      "platform": "instagram",
+      "handle": "bbuni_sol",
+      "name": "❣️쀼니솔 | 재미난 신혼 일상❣️",
+      "profile_url": "https://www.instagram.com/bbuni_sol/",
+      "profile_image": "data/images/ig_bbuni_sol.jpg",
+      "followers": 1447,
+      "following": 1411,
+      "posts_count": 78,
+      "engagement_rate": null,
+      "bio": "꾸미기 전•후가 다른 쀼🤵🏻💓👰🏻‍♀️\n맞팔=최신 피드 댓글\n협찬, 광고는 DM 💌",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_letsgo10km",
       "platform": "instagram",
       "handle": "letsgo10km",
@@ -1744,6 +2416,27 @@
       "tier": "nano",
       "last_updated": "2026-03-02",
       "country": "KR"
+    },
+    {
+      "id": "ig_hyedingontheground",
+      "platform": "instagram",
+      "handle": "hyedingontheground",
+      "name": "혜딩 l 대학생 l life.zip",
+      "profile_url": "https://www.instagram.com/hyedingontheground/",
+      "profile_image": "data/images/ig_hyedingontheground.jpg",
+      "followers": 1382,
+      "following": 320,
+      "posts_count": 72,
+      "engagement_rate": null,
+      "bio": "협업 문의 DM 💌\n패션 I 코덕 I 대학생\n‼️리포스팅 대학생활 꿀팁 아카이빙‼️",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_dr.offshore.official",
@@ -1809,6 +2502,27 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "ig_hi._.yoon",
+      "platform": "instagram",
+      "handle": "hi._.yoon",
+      "name": "윤",
+      "profile_url": "https://www.instagram.com/hi._.yoon/",
+      "profile_image": "data/images/ig_hi._.yoon.jpg",
+      "followers": 1313,
+      "following": 7489,
+      "posts_count": 48,
+      "engagement_rate": null,
+      "bio": "사소한 일상의 이야기 🤎🤍\n베이킹을 취미로 해요 👩‍🍳",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_ming.lovely_",
       "platform": "instagram",
       "handle": "ming.lovely_",
@@ -1851,6 +2565,90 @@
       "country": "KR"
     },
     {
+      "id": "ig_mymybeauty0",
+      "platform": "instagram",
+      "handle": "mymybeauty0",
+      "name": "마이",
+      "profile_url": "https://www.instagram.com/mymybeauty0/",
+      "profile_image": "data/images/ig_mymybeauty0.jpg",
+      "followers": 1280,
+      "following": 952,
+      "posts_count": 111,
+      "engagement_rate": null,
+      "bio": "데일리 메이크업 일기\nෆ  예쁜 색을 찾아서 ₊⁺♡̶₊⁺\nෆ 📩 DM / rad1159@naver.com\n#코덕 #코덕맞팔",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_beuti._.lamp",
+      "platform": "instagram",
+      "handle": "beuti._.lamp",
+      "name": "지나",
+      "profile_url": "https://www.instagram.com/beuti._.lamp/",
+      "profile_image": "data/images/ig_beuti._.lamp.jpg",
+      "followers": 1273,
+      "following": 1208,
+      "posts_count": 209,
+      "engagement_rate": null,
+      "bio": "🎀 데일리 뷰티템 모아모아\n📧 wlsk4128@naver.com",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_haeyul.ic",
+      "platform": "instagram",
+      "handle": "haeyul.ic",
+      "name": "해율한의원 인천점",
+      "profile_url": "https://www.instagram.com/haeyul.ic/",
+      "profile_image": "data/images/ig_haeyul.ic.jpg",
+      "followers": 1193,
+      "following": 1912,
+      "posts_count": 559,
+      "engagement_rate": null,
+      "bio": "자연주의 여드름 중점치료의 메카!\n🔽진료과목\n#여드름 #등여드름 #가슴여드름\n#여드름흉터 #여드름자국 \n#함몰흉터 #모공각화증\n#한방피부케어 \n🔽오시는길\n인천시 남동구 인하로 49",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig__ccchaeee",
+      "platform": "instagram",
+      "handle": "_ccchaeee",
+      "name": "동탄메이크업 아른아른 채린부원장 |  동탄웨딩 동탄돌잔치 수원메이크업 오산메이크업 용인메이크업",
+      "profile_url": "https://www.instagram.com/_ccchaeee/",
+      "profile_image": "data/images/ig__ccchaeee.jpg",
+      "followers": 1189,
+      "following": 578,
+      "posts_count": 260,
+      "engagement_rate": null,
+      "bio": "areunareun | 아른아른 : 자꾸 생각나는 솜씨\n전)뷰티진동희 청담 채린실장\n데일리 • 웨딩 • 메이크업레슨 • 프로필 • 돌잔치\n💌 예약 / 문의 하단링크",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_jujuboxlzlq",
       "platform": "instagram",
       "handle": "jujuboxlzlq",
@@ -1870,6 +2668,27 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_bebe__seonho",
+      "platform": "instagram",
+      "handle": "bebe__seonho",
+      "name": "bebe__seonho",
+      "profile_url": "https://www.instagram.com/bebe__seonho/",
+      "profile_image": "data/images/ig_bebe__seonho.jpg",
+      "followers": 1169,
+      "following": 1285,
+      "posts_count": 36,
+      "engagement_rate": null,
+      "bio": "👶🏻서노 24.12.06💕\n𝑨𝒄𝒄𝒐𝒖𝒏𝒕 𝒓𝒖𝒏 𝒃𝒚 𝒎𝒐𝒎",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_moonis10",
@@ -1956,6 +2775,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_158.26cm",
+      "platform": "instagram",
+      "handle": "158.26cm",
+      "name": "은진",
+      "profile_url": "https://www.instagram.com/158.26cm/",
+      "profile_image": "data/images/ig_158.26cm.jpg",
+      "followers": 1134,
+      "following": 339,
+      "posts_count": 45,
+      "engagement_rate": null,
+      "bio": "",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
+    },
+    {
       "id": "ig_byong.1020_",
       "platform": "instagram",
       "handle": "byong.1020_",
@@ -1975,6 +2815,27 @@
       "tier": "nano",
       "last_updated": "2026-03-02",
       "country": "KR"
+    },
+    {
+      "id": "ig_ae_na._",
+      "platform": "instagram",
+      "handle": "ae_na._",
+      "name": "𝐴𝐸𝑁𝐴.ఌ",
+      "profile_url": "https://www.instagram.com/ae_na._/",
+      "profile_image": "data/images/ig_ae_na._.jpg",
+      "followers": 1128,
+      "following": 1121,
+      "posts_count": 64,
+      "engagement_rate": null,
+      "bio": "⠀:¨·.·¨:\n   `·. 𝘾𝙊𝙉𝙏𝘼𝘾𝙏 : 𝘿𝙈\n🎀 #코덕 #코덕맞팔 #좋아요반사 #소통 #서로이웃 \n🎀 https://m.blog.naver.com/skdo6",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-03-21"
     },
     {
       "id": "ig_seul._.h710",

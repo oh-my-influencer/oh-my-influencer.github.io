@@ -2,10 +2,11 @@
 utils.py
 
 공통 유틸리티 모듈.
-언어/국가 감지 로직을 한 곳에서 관리한다.
+언어/국가 감지 및 이미지 다운로드 로직을 한 곳에서 관리한다.
 """
 
 import re
+from pathlib import Path
 
 # ── 한국어 관련 패턴 ───────────────────────────────────────
 _KR_HASHTAGS = re.compile(
@@ -70,3 +71,52 @@ def detect_language(text: str, handle: str = "") -> str:
         return "JP"
 
     return ""
+
+
+# ── 이미지 다운로드 ────────────────────────────────────────
+def download_image_via_apify(
+    token: str,
+    pic_url: str,
+    handle: str,
+    prefix: str,  # "ig" 또는 "tt"
+    images_dir: Path,
+) -> str:
+    """
+    프로필 이미지를 직접 다운로드해 data/images/{prefix}_{handle}.jpg 로 저장한다.
+    이미 파일이 있으면 스킵. 잘못된 JSON 파일(KV Store 잔재)은 재다운로드.
+    실패 시 "" 반환.
+    """
+    import requests
+
+    if not pic_url:
+        return ""
+
+    images_dir.mkdir(parents=True, exist_ok=True)
+    dest = images_dir / f"{prefix}_{handle}.jpg"
+
+    if dest.exists():
+        # KV Store 잔재 감지 (JSON 텍스트가 저장된 경우) → 삭제 후 재다운로드
+        try:
+            if dest.read_bytes()[:1] == b"{":
+                dest.unlink()
+            else:
+                return f"data/images/{prefix}_{handle}.jpg"
+        except Exception:
+            return f"data/images/{prefix}_{handle}.jpg"
+
+    try:
+        resp = requests.get(
+            pic_url,
+            timeout=15,
+            headers={"User-Agent": "Mozilla/5.0"},
+        )
+        resp.raise_for_status()
+        ct = resp.headers.get("Content-Type", "")
+        if "image" not in ct and resp.content[:1] == b"{":
+            print(f"   ⚠️ 이미지가 아닌 응답 ({handle}): {ct}")
+            return ""
+        dest.write_bytes(resp.content)
+        return f"data/images/{prefix}_{handle}.jpg"
+    except Exception as e:
+        print(f"   ⚠️ 이미지 다운로드 실패 ({handle}): {e}")
+        return ""

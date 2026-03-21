@@ -3,17 +3,13 @@ fetch_tiktok.py
 
 역할:
   1. data/config.json 에서 TikTok 해시태그 목록과 필터 조건을 읽는다.
-  2. Apify TikTok Hashtag Scraper로 해시태그별 영상 + 작성자 정보를 수집한다.
-     (Instagram과 달리 1단계로 팔로워 수까지 바로 가져올 수 있음)
-  3. 신규 계정만 처리 (기존 tiktok.json 에 있는 핸들은 스킵)
-  4. 필터 적용 후 기존 + 신규 병합해서 tiktok.json 저장
+  2. Apify TikTok Hashtag Scraper로 해시태그별 영상 수집 → username 추출
+  3. Apify TikTok Profile Scraper로 신규 계정 상세 정보 + avatar URL 수집
+  4. 프로필 이미지 다운로드
+  5. 필터 적용 후 기존 + 신규 병합해서 tiktok.json 저장
 
 환경변수:
   APIFY_API_TOKEN : Apify API 토큰 (GitHub Secret으로 주입)
-
-Apify Actor:
-  clockworks/tiktok-hashtag-scraper
-  https://apify.com/clockworks/tiktok-hashtag-scraper
 
 실행:
   APIFY_API_TOKEN=xxx uv run python scripts/fetch_tiktok.py
@@ -28,13 +24,15 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from utils import detect_language
+
+from scripts.utils import detect_language, download_image_via_apify
 
 load_dotenv()
 
 ROOT = Path(__file__).parent.parent
 CONFIG_PATH = ROOT / "data" / "config.json"
 OUTPUT_PATH = ROOT / "data" / "tiktok.json"
+IMAGES_DIR = ROOT / "data" / "images"
 
 APIFY_BASE = "https://api.apify.com/v2"
 HASHTAG_ACTOR = "clockworks~tiktok-hashtag-scraper"
@@ -62,16 +60,14 @@ def load_existing(path: Path) -> dict[str, dict]:
     return {acc["handle"]: acc for acc in data.get("influencers", [])}
 
 
-# ── Apify Actor 실행 ───────────────────────────────────────
-def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
+# ── Apify Actor 실행 공통 함수 ─────────────────────────────
+def run_actor(
+    token: str, actor_id: str, input_data: dict, timeout_sec: int = 300
+) -> list[dict]:
     run_resp = requests.post(
-        f"{APIFY_BASE}/acts/{HASHTAG_ACTOR}/runs",
+        f"{APIFY_BASE}/acts/{actor_id}/runs",
         params={"token": token},
-        json={
-            "hashtags": [hashtag],
-            "resultsPerPage": max_results,
-            "maxRequestRetries": 3,
-        },
+        json=input_data,
         timeout=30,
     )
     run_resp.raise_for_status()
@@ -80,8 +76,7 @@ def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
     dataset_id = run_data["defaultDatasetId"]
     print(f"   Actor 실행됨 (run_id: {run_id})")
 
-    # 완료 대기 (최대 5분)
-    for _ in range(60):
+    for _ in range(timeout_sec // 5):
         time.sleep(5)
         status = requests.get(
             f"{APIFY_BASE}/actor-runs/{run_id}",
@@ -94,7 +89,7 @@ def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
             print(f"   ⚠️ Actor 실패: {status}", file=sys.stderr)
             return []
     else:
-        print("   ⚠️ 타임아웃 (5분)", file=sys.stderr)
+        print(f"   ⚠️ 타임아웃 ({timeout_sec}초)", file=sys.stderr)
         return []
 
     items = requests.get(
@@ -106,11 +101,11 @@ def run_actor(token: str, hashtag: str, max_results: int) -> list[dict]:
     return items.json()
 
 
-# ── 영상 → 작성자 계정 추출 ───────────────────────────────
+# ── Step 1: 해시태그 → 계정 정보 추출 (avatar 포함) ───────
 def extract_accounts(videos: list[dict]) -> dict[str, dict]:
     """
-    TikTok Hashtag Scraper 응답에서 작성자 계정 정보를 추출한다.
-    핸들 기준으로 중복 제거.
+    Hashtag Scraper 응답의 authorMeta에서 계정 정보를 추출한다.
+    핸들 기준으로 중복 제거. Profile Scraper 불필요.
     """
     accounts: dict[str, dict] = {}
     for v in videos:
@@ -125,20 +120,20 @@ def extract_accounts(videos: list[dict]) -> dict[str, dict]:
             or author.get("followersCount")
             or 0
         )
-        following = author.get("following") or author.get("followingCount") or 0
-        heart = author.get("heart") or author.get("digg") or 0
-        video_cnt = author.get("video") or author.get("videoCount") or 0
+        avatar = (
+            author.get("avatar")
+            or author.get("avatarLarger")
+            or author.get("avatarMedium")
+            or ""
+        )
         nick = author.get("nickName") or author.get("nickname") or handle
-        avatar = author.get("avatar") or author.get("avatarLarger") or ""
-        verified = author.get("verified") or False
-
-        # region 코드 → country (KR/JP 매핑, 없으면 언어 감지로 보완)
+        sig = author.get("signature") or ""
         region = (author.get("region") or "").upper()
-        if region in ("KR", "JP"):
-            country = region
-        else:
-            sig = (author.get("signature") or "") + " " + nick
-            country = detect_language(sig, handle=handle)
+        country = (
+            region
+            if region in ("KR", "JP")
+            else detect_language(sig + " " + nick, handle=handle)
+        )
 
         accounts[handle] = {
             "id": f"tt_{handle}",
@@ -146,14 +141,15 @@ def extract_accounts(videos: list[dict]) -> dict[str, dict]:
             "handle": handle,
             "name": nick,
             "profile_url": f"https://www.tiktok.com/@{handle}",
-            "profile_image": avatar,
+            "profile_image": "",
+            "profile_image_url": avatar,
             "followers": followers,
-            "following": following,
-            "total_likes": heart,
-            "video_count": video_cnt,
+            "following": author.get("following") or author.get("followingCount") or 0,
+            "total_likes": author.get("heart") or author.get("digg") or 0,
+            "video_count": author.get("video") or author.get("videoCount") or 0,
             "engagement_rate": None,
             "country": country,
-            "is_verified": verified,
+            "is_verified": author.get("verified") or False,
             "category": ["skincare", "beauty"],
             "tier": get_tier(followers),
             "last_updated": datetime.now(timezone.utc).strftime("%Y-%m-%d"),
@@ -176,6 +172,7 @@ def main() -> None:
     max_results = tt_config.get("max_results_per_hashtag", 30)
     filters = config.get("filters", {})
     min_f = filters.get("min_followers", 1_000)
+    allowed = [c.upper() for c in filters.get("allowed_countries", [])]
 
     if not hashtags:
         print("⚠️ config.json에 tiktok.hashtags 가 없습니다.", file=sys.stderr)
@@ -184,11 +181,19 @@ def main() -> None:
     existing = load_existing(OUTPUT_PATH)
     print(f"📂 기존 계정 {len(existing)}개 로드됨\n")
 
+    # Step 1: 해시태그 → 신규 계정 정보 수집 (avatar URL 포함)
     newly_found: dict[str, dict] = {}
-
     for tag in hashtags:
         print(f"🔍 #{tag} 크롤링 중... (최대 {max_results}개 영상)")
-        videos = run_actor(token, tag, max_results)
+        videos = run_actor(
+            token,
+            HASHTAG_ACTOR,
+            {
+                "hashtags": [tag],
+                "resultsPerPage": max_results,
+                "maxRequestRetries": 3,
+            },
+        )
         accounts = extract_accounts(videos)
         new_in_tag = {
             h: a
@@ -196,14 +201,24 @@ def main() -> None:
             if h not in existing and h not in newly_found
         }
         newly_found.update(new_in_tag)
-        skipped = len(accounts) - len(new_in_tag)
-        print(f"   → 신규 {len(new_in_tag)}개 발굴 / {skipped}개 중복 스킵\n")
+        print(
+            f"   → 신규 {len(new_in_tag)}개 / 중복 {len(accounts) - len(new_in_tag)}개 스킵\n"
+        )
 
     print(f"📊 이번 실행 신규 발굴: {len(newly_found)}개")
 
+    # Step 2: 이미지 다운로드
+    if newly_found:
+        print(f"\n📸 프로필 이미지 다운로드 중 ({len(newly_found)}개)...")
+        for acc in newly_found.values():
+            url = acc.pop("profile_image_url", "")
+            acc["profile_image"] = download_image_via_apify(
+                token, url, acc["handle"], "tt", IMAGES_DIR
+            )
+    new_accounts = list(newly_found.values())
+
     # 병합 + 필터
-    merged = {**existing, **newly_found}
-    allowed = [c.upper() for c in filters.get("allowed_countries", [])]
+    merged = {**existing, **{acc["handle"]: acc for acc in new_accounts}}
     filtered = [
         acc
         for acc in merged.values()
@@ -212,7 +227,7 @@ def main() -> None:
     ]
     filtered.sort(key=lambda x: x["followers"], reverse=True)
 
-    print(f"✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,})")
+    print(f"\n✅ 필터 통과: {len(filtered)}개 (팔로워 {min_f:,})")
 
     OUTPUT_PATH.parent.mkdir(parents=True, exist_ok=True)
     with open(OUTPUT_PATH, "w", encoding="utf-8") as f:

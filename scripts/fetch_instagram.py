@@ -24,7 +24,8 @@ from pathlib import Path
 
 import requests
 from dotenv import load_dotenv
-from utils import detect_language
+
+from scripts.utils import detect_language, download_image_via_apify
 
 load_dotenv()
 
@@ -102,30 +103,6 @@ def run_actor(
 
 
 # ── 이미지 다운로드 ────────────────────────────────────────
-def download_image(url: str, handle: str) -> str:
-    """
-    프로필 이미지를 data/images/ig_{handle}.jpg 로 저장하고
-    HTML에서 참조할 상대 경로를 반환한다.
-    이미 존재하면 다운로드 스킵.
-    """
-    if not url:
-        return ""
-
-    IMAGES_DIR.mkdir(parents=True, exist_ok=True)
-    dest = IMAGES_DIR / f"ig_{handle}.jpg"
-
-    # 이미 있으면 스킵
-    if dest.exists():
-        return f"data/images/ig_{handle}.jpg"
-
-    try:
-        resp = requests.get(url, timeout=15, headers={"User-Agent": "Mozilla/5.0"})
-        resp.raise_for_status()
-        dest.write_bytes(resp.content)
-        return f"data/images/ig_{handle}.jpg"
-    except Exception as e:
-        print(f"   ⚠️ 이미지 다운로드 실패 ({handle}): {e}", file=sys.stderr)
-        return ""
 
 
 # ── Step 1: 해시태그 → username 목록 수집 ─────────────────
@@ -162,7 +139,9 @@ def fetch_profiles(token: str, usernames: list[str]) -> list[dict]:
             # 이미지 다운로드 (HD 우선)
             pic_url = p.get("profilePicUrlHD") or p.get("profilePicUrl") or ""
             print(f"   📸 이미지 다운로드: @{handle}")
-            local_image = download_image(pic_url, handle)
+            local_image = download_image_via_apify(
+                token, pic_url, handle, "ig", IMAGES_DIR
+            )
 
             bio = (p.get("biography") or "")[:100]
             country = detect_language(

@@ -19,6 +19,7 @@ from pathlib import Path
 ROOT = Path(__file__).parent.parent
 IMAGES_DIR = ROOT / "data" / "images"
 IG_PATH = ROOT / "data" / "instagram.json"
+TT_PATH = ROOT / "data" / "tiktok.json"
 
 DRY_RUN = os.environ.get("DRY_RUN", "0") == "1"
 
@@ -28,18 +29,19 @@ def main() -> None:
         print("⚠️  data/images/ 디렉토리가 없습니다.")
         return
 
-    # instagram.json에서 유효한 로컬 이미지 경로 수집
+    # instagram.json + tiktok.json에서 유효한 로컬 이미지 경로 수집
     valid_files: set[str] = set()
-    if IG_PATH.exists():
-        with open(IG_PATH, encoding="utf-8") as f:
-            data = json.load(f)
-        for acc in data.get("influencers", []):
-            img = acc.get("profile_image", "")
-            if img:
-                valid_files.add(Path(img).name)
+    for json_path in [IG_PATH, TT_PATH]:
+        if json_path.exists():
+            with open(json_path, encoding="utf-8") as f:
+                data = json.load(f)
+            for acc in data.get("influencers", []):
+                img = acc.get("profile_image", "")
+                if img:
+                    valid_files.add(Path(img).name)
 
-    # data/images/ 의 실제 파일 목록
-    all_files = list(IMAGES_DIR.glob("ig_*.jpg"))
+    # data/images/ 의 실제 파일 목록 (ig_ + tt_ 모두)
+    all_files = list(IMAGES_DIR.glob("ig_*.jpg")) + list(IMAGES_DIR.glob("tt_*.jpg"))
 
     dangling = [f for f in all_files if f.name not in valid_files]
     kept = len(all_files) - len(dangling)

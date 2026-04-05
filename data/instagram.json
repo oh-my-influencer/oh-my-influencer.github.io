@@ -1,7 +1,49 @@
 {
-  "generated_at": "2026-03-29T15:25:54.815337+00:00",
-  "count": 204,
+  "generated_at": "2026-04-05T15:26:29.891092+00:00",
+  "count": 224,
   "influencers": [
+    {
+      "id": "ig_un_ni_tip",
+      "platform": "instagram",
+      "handle": "un_ni_tip",
+      "name": "언니의 꿀팁",
+      "profile_url": "https://www.instagram.com/un_ni_tip/",
+      "profile_image": "data/images/ig_un_ni_tip.jpg",
+      "followers": 446354,
+      "following": 0,
+      "posts_count": 18325,
+      "engagement_rate": null,
+      "bio": "언니가 알려주는 유용한 꿀팁 A-Z까지💕\n트렌디한 여자들의 대표 커뮤니티\n.\n✉️Contact mail\nad@feedkorea.kr",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-05"
+    },
+    {
+      "id": "ig_beautiful_yuri",
+      "platform": "instagram",
+      "handle": "beautiful_yuri",
+      "name": "뷰티율",
+      "profile_url": "https://www.instagram.com/beautiful_yuri/",
+      "profile_image": "data/images/ig_beautiful_yuri.jpg",
+      "followers": 241993,
+      "following": 3283,
+      "posts_count": 5610,
+      "engagement_rate": null,
+      "bio": "뷰티인플루언서 뷰티율\ndbfl8103@naver.com\n🤎 ~4/6 오레나 콜라겐\n💜4/5~4/7 바이오힐보",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-05"
+    },
     {
       "id": "ig_drjart_kr",
       "platform": "instagram",
@@ -127,6 +169,27 @@
       "tier": "macro",
       "last_updated": "2026-02-23",
       "country": "JP"
+    },
+    {
+      "id": "ig_yaksamom",
+      "platform": "instagram",
+      "handle": "yaksamom",
+      "name": "약사맘 👩🏻‍⚕️프롬파이토 기능의학약사",
+      "profile_url": "https://www.instagram.com/yaksamom/",
+      "profile_image": "data/images/ig_yaksamom.jpg",
+      "followers": 126318,
+      "following": 496,
+      "posts_count": 5322,
+      "engagement_rate": null,
+      "bio": "엄마이자 약사👩🏻‍⚕️\n기능의학으로 키·건강·뷰티 고민을 풀어갑니다\n프롬파이토｜건강 변화\n파이브텍스쳐｜피부 변화\n과학적인 루틴 설계🧬\n.\n🔜6일 멜라토닌\n🔜9일 푸푸+베베\n🔜16일",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_mio_o.re",
@@ -360,6 +423,27 @@
       "country": "KR"
     },
     {
+      "id": "ig_ground_plan",
+      "platform": "instagram",
+      "handle": "ground_plan",
+      "name": "그라운드플랜 Founder & CEO",
+      "profile_url": "https://www.instagram.com/ground_plan/",
+      "profile_image": "data/images/ig_ground_plan.jpg",
+      "followers": 69982,
+      "following": 161,
+      "posts_count": 2222,
+      "engagement_rate": null,
+      "bio": "▪️4/15 저녁 7:30 단90분동안 생필품 ~73%OFF🔥\n▪️🪞겔마스크팩 완판🪞6월 재입고 예정\n▪️500만명의 선택! #원조미스트 #여배우미스트\n▪️#피부고민해결사 여드름,",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_luna.daily__",
       "platform": "instagram",
       "handle": "luna.daily__",
@@ -400,6 +484,27 @@
       ],
       "tier": "mid",
       "last_updated": "2026-03-22"
+    },
+    {
+      "id": "ig_yj_____07.08",
+      "platform": "instagram",
+      "handle": "yj_____07.08",
+      "name": "예지 YEJI",
+      "profile_url": "https://www.instagram.com/yj_____07.08/",
+      "profile_image": "data/images/ig_yj_____07.08.jpg",
+      "followers": 62655,
+      "following": 615,
+      "posts_count": 991,
+      "engagement_rate": null,
+      "bio": "🍯뷰티꿀팁 | 메이크업 | 꿀템추천🍯\n🇯🇵4/12~후쿠오카\n🇻🇳8/31~푸꾸옥\n⠀\n📩𝐄𝐦𝐚𝐢𝐥 | 𝐲𝐞𝐚𝐣𝐢𝟎𝟕𝟎𝟖@𝐧𝐚𝐯𝐞𝐫.𝐜𝐨𝐦",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_fuuuuu215",
@@ -904,6 +1009,27 @@
       "tier": "micro",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "ig_recipenco_rang",
+      "platform": "instagram",
+      "handle": "recipenco_rang",
+      "name": "레시피앤코 대표, 혜랑",
+      "profile_url": "https://www.instagram.com/recipenco_rang/",
+      "profile_image": "data/images/ig_recipenco_rang.jpg",
+      "followers": 19794,
+      "following": 426,
+      "posts_count": 474,
+      "engagement_rate": null,
+      "bio": "recipe&co. CEO\n👶🏻 45살 어른이\n👩‍🔬  전)영양사 ᰔ 현)레시피앤코 대표\n🍯 내가 평생 쓸 ‘바르는 바른 먹거리’ 를 만듭니다\n🏷️ 와디즈 1위 탄팩이 시리즈,화잘",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_oha.aesthetic_bin",
@@ -1599,6 +1725,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "ig_amourming_",
+      "platform": "instagram",
+      "handle": "amourming_",
+      "name": "아모르밍 | 강아지와 자취 일상🏠",
+      "profile_url": "https://www.instagram.com/amourming_/",
+      "profile_image": "data/images/ig_amourming_.jpg",
+      "followers": 6374,
+      "following": 433,
+      "posts_count": 846,
+      "engagement_rate": null,
+      "bio": "사람1 개1 복작복작 일상 기록 중🐾",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig__._i__git_yzin",
       "platform": "instagram",
       "handle": "_._i__git_yzin",
@@ -1809,6 +1956,27 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "ig__ginnyfit_",
+      "platform": "instagram",
+      "handle": "_ginnyfit_",
+      "name": "수지니",
+      "profile_url": "https://www.instagram.com/_ginnyfit_/",
+      "profile_image": "data/images/ig__ginnyfit_.jpg",
+      "followers": 5496,
+      "following": 1039,
+      "posts_count": 577,
+      "engagement_rate": null,
+      "bio": "✨️행복해지니\n- Ginny's daily life \n- 협찬&문의 Dm\n#운동하는여자 #일상 #ootd #fitgirl",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_sarnai_beauty",
       "platform": "instagram",
       "handle": "sarnai_beauty",
@@ -1830,6 +1998,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "ig_mukkoddomukko_030",
+      "platform": "instagram",
+      "handle": "mukkoddomukko_030",
+      "name": "ღ여행다니는 먹림이ღ",
+      "profile_url": "https://www.instagram.com/mukkoddomukko_030/",
+      "profile_image": "data/images/ig_mukkoddomukko_030.jpg",
+      "followers": 4878,
+      "following": 4982,
+      "posts_count": 555,
+      "engagement_rate": null,
+      "bio": "‘잘 먹고 잘 노는 솔직 후기🫶‘\n🌼서울 경기 대구 부산 외국 어디든‼️\n🌸전국맛집 / 호텔•숙박 여행\n협찬광고체험단 문의dm💌",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_jeongseonmi21",
       "platform": "instagram",
       "handle": "jeongseonmi21",
@@ -1849,6 +2038,48 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-29"
+    },
+    {
+      "id": "ig_l.719___",
+      "platform": "instagram",
+      "handle": "l.719___",
+      "name": "𝑳𝒆𝒏𝒂 .⋆",
+      "profile_url": "https://www.instagram.com/l.719___/",
+      "profile_image": "data/images/ig_l.719___.jpg",
+      "followers": 4849,
+      "following": 393,
+      "posts_count": 130,
+      "engagement_rate": null,
+      "bio": "🫧ナンバーズイン第5期公式アンバサダー\n💄Laka第2期公式アンバサダー\n🎗VT公式ピクセラーズ1期\n🔮BOHセンプロ",
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
+      "id": "ig_nanare.view",
+      "platform": "instagram",
+      "handle": "nanare.view",
+      "name": "나나리뷰",
+      "profile_url": "https://www.instagram.com/nanare.view/",
+      "profile_image": "data/images/ig_nanare.view.jpg",
+      "followers": 4805,
+      "following": 1846,
+      "posts_count": 160,
+      "engagement_rate": null,
+      "bio": "✧ 나나리뷰 | #스킨케어 #이너뷰티 ﾟ･✧ 🌿\n✦ 스킨케어에 진심💓 •나나• ･｡ 🧖🏻‍♀️ ✧\n🐾대왕티즈 출근견 감댜 @gdya_roda 🤍✨",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_ggultip_collection",
@@ -2080,6 +2311,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-29"
+    },
+    {
+      "id": "ig_yoon_skin_bodycare",
+      "platform": "instagram",
+      "handle": "yoon_skin_bodycare",
+      "name": "슈퍼젝션홈|부산서면|아픈피부,모공, 트러블 홈코칭 전문 파메스테틱 전문 파모라센터",
+      "profile_url": "https://www.instagram.com/yoon_skin_bodycare/",
+      "profile_image": "data/images/ig_yoon_skin_bodycare.jpg",
+      "followers": 4047,
+      "following": 1278,
+      "posts_count": 1524,
+      "engagement_rate": null,
+      "bio": "⛳️파모라센터 부산서면\n✨️25년 경력 성형윤곽 전문가\n🏆파메스테틱 입점 전문 컨설턴트\n💎NSND 부산진구 지부장\n📦제품&상담 링크⬇️\n🔗https://link.inpock.co.",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_thisisyihyun",
@@ -2481,6 +2733,27 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "ig_beautyillo",
+      "platform": "instagram",
+      "handle": "beautyillo",
+      "name": "대구 에스테틱 뷰티일로 l 여드름 창업&스킬업 교육",
+      "profile_url": "https://www.instagram.com/beautyillo/",
+      "profile_image": "data/images/ig_beautyillo.jpg",
+      "followers": 2935,
+      "following": 1204,
+      "posts_count": 1056,
+      "engagement_rate": null,
+      "bio": "🌿 12년 차, 1만 건 압출 데이터 기반\n💰 골목 1인샵 티켓팅❌ '월 1,500만 원' 매출 복제\n🚫 무작정 짜지 않는 '정밀 압출 시스템'\n⬇️ 예약 & [Acne Maste",
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_lu_mion_ne",
       "platform": "instagram",
       "handle": "lu_mion_ne",
@@ -2542,6 +2815,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-29"
+    },
+    {
+      "id": "ig_lalaskinclinic00",
+      "platform": "instagram",
+      "handle": "lalaskinclinic00",
+      "name": "센텀 라라피부과의원ㅣ부산피부과, 센텀피부과, 해운대피부과",
+      "profile_url": "https://www.instagram.com/lalaskinclinic00/",
+      "profile_image": "data/images/ig_lalaskinclinic00.jpg",
+      "followers": 2860,
+      "following": 190,
+      "posts_count": 216,
+      "engagement_rate": null,
+      "bio": "피부의 세포 하나하나를 춤추게 하라!\n- 대학병원 교수 출신 피부과 전문의 강민철 대표원장\n- 센텀시티역 11번 출구 \n- 센텀 최대 규모 / 질환센터, 미용센터 분리 운영\n.\n.",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_riha.home_",
@@ -3069,6 +3363,48 @@
       "last_updated": "2026-03-21"
     },
     {
+      "id": "ig_charmyoon_fit",
+      "platform": "instagram",
+      "handle": "charmyoon_fit",
+      "name": "윤쓰☻",
+      "profile_url": "https://www.instagram.com/charmyoon_fit/",
+      "profile_image": "data/images/ig_charmyoon_fit.jpg",
+      "followers": 1832,
+      "following": 154,
+      "posts_count": 48,
+      "engagement_rate": null,
+      "bio": "운동 4년 차 | @y00n.ss 의 일상•취미 기록･:*+.\\(( °ω° ))/.:+\n🔄 다시 시작하는 운동 루틴\n🏊‍♀️ Swim (W2) | 🏃‍♀️ Run (W2)\n:클핏찔",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
+      "id": "ig_du_plasticsurgery",
+      "platform": "instagram",
+      "handle": "du_plasticsurgery",
+      "name": "디유성형외과의원",
+      "profile_url": "https://www.instagram.com/du_plasticsurgery/",
+      "profile_image": "data/images/ig_du_plasticsurgery.jpg",
+      "followers": 1831,
+      "following": 15,
+      "posts_count": 132,
+      "engagement_rate": null,
+      "bio": "너DU 예뻐질 수 있어!\n코성형|코재수술|안면거상|눈성형|얼굴지방흡입|리프팅\n서울특별시 강남구 테헤란로 105, A타워 13층 DU 성형외과",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_the_value_skin",
       "platform": "instagram",
       "handle": "the_value_skin",
@@ -3195,6 +3531,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "ig_fomyu_makeup",
+      "platform": "instagram",
+      "handle": "fomyu_makeup",
+      "name": "포뮤,(𝑭𝑶𝑴𝒀𝑼) I 부산 메이크업 서면 메이크업",
+      "profile_url": "https://www.instagram.com/fomyu_makeup/",
+      "profile_image": "data/images/ig_fomyu_makeup.jpg",
+      "followers": 1737,
+      "following": 137,
+      "posts_count": 68,
+      "engagement_rate": null,
+      "bio": "𝑭𝑶𝑴𝒀𝑼 𝑴𝒂𝒌𝒆 𝑼𝒑 & 𝑯𝒂𝒊𝒓\n전포대로 186번길 32 4층\n문의",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig__uoann5_",
       "platform": "instagram",
       "handle": "_uoann5_",
@@ -3277,6 +3634,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-09"
+    },
+    {
+      "id": "ig_zzi_9uma",
+      "platform": "instagram",
+      "handle": "zzi_9uma",
+      "name": "찌구마🍠",
+      "profile_url": "https://www.instagram.com/zzi_9uma/",
+      "profile_image": "data/images/ig_zzi_9uma.jpg",
+      "followers": 1566,
+      "following": 986,
+      "posts_count": 256,
+      "engagement_rate": null,
+      "bio": "·̇·̣̇̇·̣̣̇·̣̇̇·̇ •❣•୨୧┈┈┈୨୧•❣• ·̇·̣̇̇·̣̣̇·̣̇̇·̇\n🍠 가을웜 다크 | 23호 수부지\n🍠 코덕맞팔 DM 환영. · . · ♡\n🍠 더 솔직한 버전은",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_oneul.min",
@@ -3699,6 +4077,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "ig_zero_lyrical",
+      "platform": "instagram",
+      "handle": "zero_lyrical",
+      "name": "제로",
+      "profile_url": "https://www.instagram.com/zero_lyrical/",
+      "profile_image": "data/images/ig_zero_lyrical.jpg",
+      "followers": 1301,
+      "following": 937,
+      "posts_count": 317,
+      "engagement_rate": null,
+      "bio": "여름쿨톤 뮤트\n코덕 / 화장품 리뷰\n🖤 : #코덕맞팔dm , #협찬문의dm\n⬇시그닉 펩타이드 인스턴트 플럼핑 마스크팩 ️",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
+    },
+    {
       "id": "ig_ming.lovely_",
       "platform": "instagram",
       "handle": "ming.lovely_",
@@ -3781,6 +4180,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-21"
+    },
+    {
+      "id": "ig_vitnal_aesthetic",
+      "platform": "instagram",
+      "handle": "vitnal_aesthetic",
+      "name": "전주피부관리 효자동피부관리 빛날에스테틱",
+      "profile_url": "https://www.instagram.com/vitnal_aesthetic/",
+      "profile_image": "data/images/ig_vitnal_aesthetic.jpg",
+      "followers": 1275,
+      "following": 746,
+      "posts_count": 974,
+      "engagement_rate": null,
+      "bio": "여드름 흉터 압출 문제성피부관리 리프팅 바디관리 웨딩관리 \n▫ 1:1 맞춤관리 \n▫ 100% 예약제 \n🏷️ 상담 예약 문의 ⏽ 카카오채널 빛날에스테틱",
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-05"
     },
     {
       "id": "ig_beuti._.lamp",

@@ -37,7 +37,7 @@ OUTPUT_PATH = ROOT / "data" / "instagram.json"
 IMAGES_DIR = ROOT / "data" / "images"
 
 APIFY_BASE = "https://api.apify.com/v2"
-HASHTAG_ACTOR = "apify~instagram-hashtag-scraper"
+HASHTAG_ACTOR = "instaprism~instagram-hashtag-scraper"
 PROFILE_ACTOR = "apify~instagram-profile-scraper"
 
 
@@ -111,11 +111,10 @@ def collect_usernames(token: str, hashtag: str, max_results: int) -> set[str]:
         HASHTAG_ACTOR,
         {
             "hashtags": [hashtag],
-            "resultsLimit": max_results,
-            "addParentData": False,
+            "limit": max_results,
         },
     )
-    return {post["ownerUsername"] for post in posts if post.get("ownerUsername")}
+    return {post["username"] for post in posts if post.get("username")}
 
 
 # ── Step 2: username → 프로필 상세 + 이미지 다운로드 ──────

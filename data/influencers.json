@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-04-22T10:18:16.274261+00:00",
-  "count": 514,
+  "generated_at": "2026-04-26T15:48:10.616417+00:00",
+  "count": 526,
   "influencers": [
     {
       "id": "tt_a.bite",
@@ -150,30 +150,6 @@
       "last_updated": "2026-03-29"
     },
     {
-      "id": "yt_UCnFFOjljp1_sacTz7PfIIyg",
-      "platform": "youtube",
-      "channel_id": "UCnFFOjljp1_sacTz7PfIIyg",
-      "handle": "@leojmakeup",
-      "name": "LeoJ Makeup",
-      "description": "메이크업아티스트 레오제이 🖤ARTIST FOREVER 🖤\n재밌게 예쁘고 멋있어지는 방법 😆\n\n– 비지니스 문의 : leojmakeup@lefericreator.com\n– 인스타그램 : https://instagram.com/leojmakeup",
-      "profile_url": "https://www.youtube.com/channel/UCnFFOjljp1_sacTz7PfIIyg",
-      "profile_image": "https://yt3.ggpht.com/ytc/AIdro_n_prkAS2s-jB2JHHI7g0tstz6iohY_6qBqQ6lxKra2vYg=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "ko",
-      "keywords": "레오제이 LeoJ 남자뷰티크레이터 남자뷰티유튜버 \"잘생긴 남자유튜버\" \"남자 메이크업아티스트\"",
-      "followers": 1450000,
-      "view_count": 671626532,
-      "video_count": 745,
-      "avg_views_per_video": 901512,
-      "engagement_rate": null,
-      "tier": "mega",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
-    },
-    {
       "id": "tt_glowwithjabb",
       "platform": "tiktok",
       "handle": "glowwithjabb",
@@ -312,16 +288,16 @@
       "language": "",
       "keywords": "유나 뷰티클라우드 una 미백주스 뱃살주스 스킨케어 홈케어 다이어트 healthy food life skincare korea 유나뷰스터 더유나 theuna 오리지널세럼 \"original serum\" 괴물세럼",
       "followers": 808000,
-      "view_count": 75884279,
+      "view_count": 75905537,
       "video_count": 175,
-      "avg_views_per_video": 433624,
+      "avg_views_per_video": 433746,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_suana_up",
@@ -345,6 +321,27 @@
       "last_updated": "2026-03-21"
     },
     {
+      "id": "tt_tving.official",
+      "platform": "tiktok",
+      "handle": "tving.official",
+      "name": "티빙",
+      "profile_url": "https://www.tiktok.com/@tving.official",
+      "profile_image": "data/images/tt_tving.official.jpg",
+      "followers": 564900,
+      "following": 3,
+      "total_likes": 43200000,
+      "video_count": 2942,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "yt_UCrlUlicedicJ5mlibqC62Eg",
       "platform": "youtube",
       "channel_id": "UCrlUlicedicJ5mlibqC62Eg",
@@ -357,16 +354,16 @@
       "language": "",
       "keywords": "메이크업 여드름 뷰드름 뷰드름유튜버 인씨 스킨케어 makeup 모공 \"모공 피부\" \"여드름 피부\" 요철 피부결 베이스 \"베이스 리뷰\" \"쿠션 리뷰\" \"파운데이션 리뷰\" \"신상 쿠션\"",
       "followers": 564000,
-      "view_count": 389948258,
-      "video_count": 1144,
-      "avg_views_per_video": 340864,
+      "view_count": 390570643,
+      "video_count": 1146,
+      "avg_views_per_video": 340812,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_shoohee_",
@@ -423,16 +420,16 @@
       "language": "",
       "keywords": "스완 SWAN 현실남자뷰티 남자관리 남자뷰티유튜버 남자메이크업",
       "followers": 493000,
-      "view_count": 275959686,
-      "video_count": 1110,
-      "avg_views_per_video": 248612,
+      "view_count": 276680342,
+      "video_count": 1112,
+      "avg_views_per_video": 248813,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_saeroniee",
@@ -477,6 +474,30 @@
       "country": "KR"
     },
     {
+      "id": "yt_UCChdHmdkgTpk0iyuODYxJIw",
+      "platform": "youtube",
+      "channel_id": "UCChdHmdkgTpk0iyuODYxJIw",
+      "handle": "@haenibeauty",
+      "name": "해니 haeni beauty",
+      "description": "delight is yours✨\n\n",
+      "profile_url": "https://www.youtube.com/channel/UCChdHmdkgTpk0iyuODYxJIw",
+      "profile_image": "https://yt3.ggpht.com/Qvvcg7YUM3KJhElW05-AbcqvmwgTz4P4mo5hMgcaMdg71gr8CrqDLW1OYJN_-acUW6qpDZ0Iuw=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "뷰티 패션 노하우 메이크업 \"korean makeup\" \"k beauty\" makeup 메이크업아티스트",
+      "followers": 477000,
+      "view_count": 76413488,
+      "video_count": 512,
+      "avg_views_per_video": 149245,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_un_ni_tip",
       "platform": "instagram",
       "handle": "un_ni_tip",
@@ -517,6 +538,27 @@
       ],
       "tier": "macro",
       "last_updated": "2026-03-21"
+    },
+    {
+      "id": "tt_pp__8106",
+      "platform": "tiktok",
+      "handle": "pp__8106",
+      "name": "수연 すよん",
+      "profile_url": "https://www.tiktok.com/@pp__8106",
+      "profile_image": "data/images/tt_pp__8106.jpg",
+      "followers": 392900,
+      "following": 48,
+      "total_likes": 8800000,
+      "video_count": 433,
+      "engagement_rate": null,
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_lee__range",
@@ -594,16 +636,37 @@
       "language": "ko",
       "keywords": "화장품 뷰티 피부관리 \"피부 좋아지는법\" 스킨케어",
       "followers": 283000,
-      "view_count": 34273019,
+      "view_count": 34307469,
       "video_count": 198,
-      "avg_views_per_video": 173096,
+      "avg_views_per_video": 173270,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
+    },
+    {
+      "id": "tt_27chamm",
+      "platform": "tiktok",
+      "handle": "27chamm",
+      "name": "ちゃまき",
+      "profile_url": "https://www.tiktok.com/@27chamm",
+      "profile_image": "data/images/tt_27chamm.jpg",
+      "followers": 263400,
+      "following": 95,
+      "total_likes": 12100000,
+      "video_count": 480,
+      "engagement_rate": null,
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCdpGQgQ3HOucwR8Wk2wzSHQ",
@@ -618,16 +681,16 @@
       "language": "",
       "keywords": "\"korean facial skin care\" \"스킨케어 김결\" 스킨케어 피부관리 수부지피부 노화피부 건성피부 예민피부 여드름피부 트러블피부 20대피부관리 30대피부관리 40대피부관리 50대피부관리 스킨케어결 김결 \"skincare gyul\" skincare 마사지 괄사 괄사마사지 guasha 이너뷰티 셀프케어 바디케어 탈모 뷰티디바이스 기초제품추천 GRWM 뷰티 꿀팁 제품추천 \"guasha massage\" 아름다움 헤어케어 바디케어 꿀팁 자기관리 \"korean skincare\"",
       "followers": 262000,
-      "view_count": 26661015,
+      "view_count": 26671420,
       "video_count": 291,
-      "avg_views_per_video": 91619,
+      "avg_views_per_video": 91654,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_pure.d",
@@ -924,6 +987,27 @@
       "country": "KR"
     },
     {
+      "id": "tt_kend__v",
+      "platform": "tiktok",
+      "handle": "kend__v",
+      "name": "켄드 KEND",
+      "profile_url": "https://www.tiktok.com/@kend__v",
+      "profile_image": "data/images/tt_kend__v.jpg",
+      "followers": 165800,
+      "following": 37,
+      "total_likes": 4400000,
+      "video_count": 260,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_didgydid",
       "platform": "tiktok",
       "handle": "didgydid",
@@ -957,40 +1041,16 @@
       "language": "",
       "keywords": "",
       "followers": 159000,
-      "view_count": 45861774,
-      "video_count": 177,
-      "avg_views_per_video": 259106,
+      "view_count": 46373220,
+      "video_count": 179,
+      "avg_views_per_video": 259068,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
-    },
-    {
-      "id": "yt_UCT6W2AUy8If3fN1OoKIFUsg",
-      "platform": "youtube",
-      "channel_id": "UCT6W2AUy8If3fN1OoKIFUsg",
-      "handle": "@박경열의피부상담소",
-      "name": "박경열의 피부상담소",
-      "description": "피부 고민은 비슷해도 해결방법은 전부 다릅니다.\n\n“왜 나만 효과가 없을까요?”\n“예전 얼굴로 돌아갈 수 있을까요?”\n15년 동안 진료실에서 가장 많이 들은 질문들입니다.\n\n그래서 저는 \n차트를 보기 전에 '환자의 얼굴'을 보고,\n시술을 말하기 전에 '사람의 이야기'를 들었습니다.\n피부는 숫자보다 삶에 더 가까운 것이니까요.\n\n15년간 환자를 직접 상담해온",
-      "profile_url": "https://www.youtube.com/channel/UCT6W2AUy8If3fN1OoKIFUsg",
-      "profile_image": "https://yt3.ggpht.com/-rARi3BeAwrTDAWK51Ib44gZTMD_GnVYTGn92tCSX-Fiez6MSngucnrCN6kNvWnibNhwMp5tsw=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "",
-      "followers": 158000,
-      "view_count": 10929689,
-      "video_count": 73,
-      "avg_views_per_video": 149722,
-      "engagement_rate": null,
-      "tier": "macro",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_share_tip",
@@ -1278,16 +1338,16 @@
       "language": "",
       "keywords": "",
       "followers": 124000,
-      "view_count": 65010477,
-      "video_count": 834,
-      "avg_views_per_video": 77950,
+      "view_count": 65244825,
+      "video_count": 836,
+      "avg_views_per_video": 78044,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_bellajangx",
@@ -1437,30 +1497,6 @@
       "last_updated": "2026-03-09"
     },
     {
-      "id": "yt_UCvGvf3Lk0Z5reU544g_SzPg",
-      "platform": "youtube",
-      "channel_id": "UCvGvf3Lk0Z5reU544g_SzPg",
-      "handle": "@b.t.e",
-      "name": "비트 BTE",
-      "description": "⬇️ 비트 추천템 모음집 ⬇️\n\n피할 수 없는 에이징, 관리로 버텨본다\n전문가는 아니지만, 관리에 관심이 과하게 많음.\n\n비즈니스 문의\nitws8692@gmail.com\n",
-      "profile_url": "https://www.youtube.com/channel/UCvGvf3Lk0Z5reU544g_SzPg",
-      "profile_image": "https://yt3.ggpht.com/LV5UZPd9eXQ2HjtKvVONnY2IuALIIFogN9mSQ--LhtejNkVw1l_1clZilM9Dygaw1cbV02DT_A=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "남자뷰티 메이크업 \"남자 머리\" \"남자 헤어스타일링\" \"남자 화장품\" \"남자 피부\" \"남자 피부 관리\" \"남자 운동\" \"남자 관리\" 스완 티벳동생 관리는하고실자 문장군",
-      "followers": 107000,
-      "view_count": 115782429,
-      "video_count": 622,
-      "avg_views_per_video": 186145,
-      "engagement_rate": null,
-      "tier": "macro",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
-    },
-    {
       "id": "yt_UCV5Q_31yEqkV15Q-AHZWE5A",
       "platform": "youtube",
       "channel_id": "UCV5Q_31yEqkV15Q-AHZWE5A",
@@ -1473,16 +1509,16 @@
       "language": "",
       "keywords": "데일리 메이크업 일상 브이로그",
       "followers": 105000,
-      "view_count": 17892474,
-      "video_count": 324,
-      "avg_views_per_video": 55224,
+      "view_count": 17919203,
+      "video_count": 325,
+      "avg_views_per_video": 55136,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_jesty3978",
@@ -1947,6 +1983,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "tt_efocusnews",
+      "platform": "tiktok",
+      "handle": "efocusnews",
+      "name": "이포커스",
+      "profile_url": "https://www.tiktok.com/@efocusnews",
+      "profile_image": "data/images/tt_efocusnews.jpg",
+      "followers": 66000,
+      "following": 0,
+      "total_likes": 2100000,
+      "video_count": 2303,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_saki_saito",
       "platform": "tiktok",
       "handle": "saki_saito",
@@ -2022,16 +2079,16 @@
       "language": "",
       "keywords": "연세스타피부과 피부고민상담소 피부과전문의 신촌피부과 여드름흉터치료 화상흉터 수술흉터 피부레이저 피부관리법 이상주원장 피부과상담 흉터제거 레이저치료 피부질환 흉터전문병원 켈로이드 손발톱무좀 검버섯제거 안면홍조 딸기코치료 튼살제거 프락셀 핀홀법 레이저토닝 써마지 울쎄라 흉터수술 피부과추천 피부과비용 피부과부작용 여드름흉터없애는법",
       "followers": 62300,
-      "view_count": 12928578,
-      "video_count": 701,
-      "avg_views_per_video": 18443,
+      "view_count": 12952467,
+      "video_count": 704,
+      "avg_views_per_video": 18398,
       "engagement_rate": null,
       "tier": "mid",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_scarlet.sister",
@@ -2213,17 +2270,17 @@
       "country": "KR",
       "language": "",
       "keywords": "피부관리 남자피부 피부 여드름피부 여드름 모낭염 여드름없애는법 괄사 경락 자기관리 그루밍 맨즈뷰티",
-      "followers": 52900,
-      "view_count": 6356204,
-      "video_count": 127,
-      "avg_views_per_video": 50049,
+      "followers": 53100,
+      "view_count": 6398284,
+      "video_count": 128,
+      "avg_views_per_video": 49987,
       "engagement_rate": null,
       "tier": "mid",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_review_mimizzang",
@@ -2384,17 +2441,17 @@
       "country": "KR",
       "language": "",
       "keywords": "피부 피부과 피부관리 홈케어 스킨케어 모공 여드름 여드름관리 좁쌀여드름 좁쌀 요철 주름 주름관리 팔자주름 눈가주름 쥬베룩 로아큐탄 이소티논 보톡스 프락셀 블랙헤드 화이트헤드 화농성여드름 여드름자국 여드름흉터 동안얼굴 노화 노화방지 모낭염",
-      "followers": 47600,
-      "view_count": 7728651,
-      "video_count": 102,
-      "avg_views_per_video": 75771,
+      "followers": 47900,
+      "view_count": 7774416,
+      "video_count": 103,
+      "avg_views_per_video": 75480,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_yurim012",
@@ -2500,6 +2557,27 @@
       ],
       "tier": "micro",
       "last_updated": "2026-03-21"
+    },
+    {
+      "id": "tt_celebrity_05.18",
+      "platform": "tiktok",
+      "handle": "celebrity_05.18",
+      "name": "입덕저장소",
+      "profile_url": "https://www.tiktok.com/@celebrity_05.18",
+      "profile_image": "data/images/tt_celebrity_05.18.jpg",
+      "followers": 42700,
+      "following": 1,
+      "total_likes": 3400000,
+      "video_count": 3802,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_morinyeo",
@@ -3143,17 +3221,17 @@
       "country": "KR",
       "language": "",
       "keywords": "#피부관리 #화장품 #마스크팩 #오일 #올리브영 #선크림 #틴트 #립스틱 #립밤 #세럼 #에센스 #수분크림 #재생크림 #천연오일 #바디오일 #오일밤 #바이오셀룰로우스 #바디팩 #클렌저 #각질제거 #세안제 #피부과 #기미 #검버섯 #주름제거 #주름 #홈케어 #화이트닝 #미백 #미용기기 #부스터프로 #디바이스 #토너 #기초화장품 #홍조 #여드름 #보톡스 #필러 #시술 #스킨 #색소침착 #흑자 #레이저 #리쥬란 #울쎄라 #인모드 #발각질",
-      "followers": 28200,
-      "view_count": 6575171,
-      "video_count": 202,
-      "avg_views_per_video": 32550,
+      "followers": 28100,
+      "view_count": 6575491,
+      "video_count": 203,
+      "avg_views_per_video": 32392,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCGeb-NXBre_yrxHhd95W1gg",
@@ -3168,16 +3246,16 @@
       "language": "",
       "keywords": "",
       "followers": 28000,
-      "view_count": 5451949,
-      "video_count": 278,
-      "avg_views_per_video": 19611,
+      "view_count": 5456008,
+      "video_count": 280,
+      "avg_views_per_video": 19486,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_sa.rang_0",
@@ -3306,6 +3384,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "tt_hseoww",
+      "platform": "tiktok",
+      "handle": "hseoww",
+      "name": "현서",
+      "profile_url": "https://www.tiktok.com/@hseoww",
+      "profile_image": "data/images/tt_hseoww.jpg",
+      "followers": 24000,
+      "following": 63,
+      "total_likes": 876000,
+      "video_count": 252,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_ssssomin__",
       "platform": "tiktok",
       "handle": "ssssomin__",
@@ -3409,6 +3508,27 @@
       "tier": "micro",
       "last_updated": "2026-02-21",
       "country": "KR"
+    },
+    {
+      "id": "tt_tlqkfxlql",
+      "platform": "tiktok",
+      "handle": "tlqkfxlql",
+      "name": "수빈",
+      "profile_url": "https://www.tiktok.com/@tlqkfxlql",
+      "profile_image": "data/images/tt_tlqkfxlql.jpg",
+      "followers": 22500,
+      "following": 69,
+      "total_likes": 1400000,
+      "video_count": 22,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_hwane_online",
@@ -3633,16 +3753,16 @@
       "language": "",
       "keywords": "",
       "followers": 18800,
-      "view_count": 1864739,
+      "view_count": 1867317,
       "video_count": 150,
-      "avg_views_per_video": 12432,
+      "avg_views_per_video": 12449,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCbwZT-nzD2tj3mgY6hGwXeg",
@@ -3657,16 +3777,16 @@
       "language": "",
       "keywords": "피부과전문의 피부과 배병기원장 스컬트라 보톡스 레이저 필러 엘란쎄 콜라움 피부 주름 모공 화장품 홈케어 관리 쥬베룩 탄력 팔자 미간 고주파 이너뷰티 콜라겐 배스킨 배Skin 피부관리 피부정보 의사 닥터배 시술 강남피부과 피부과추천 아쿠아필 여드름 리프팅 프락셀 피부맛집 피부시술 물광주사 스킨부스터 피부과관리 피부과재생크림 피부과레이저 피부과잘하는곳 피부과앰플 피부과크림 약국템",
       "followers": 18400,
-      "view_count": 10409219,
+      "view_count": 10425552,
       "video_count": 337,
-      "avg_views_per_video": 30888,
+      "avg_views_per_video": 30936,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCvLz6NDDmx2zE3ublZoT9MQ",
@@ -3681,16 +3801,16 @@
       "language": "",
       "keywords": "",
       "followers": 17300,
-      "view_count": 18755589,
+      "view_count": 18786493,
       "video_count": 52,
-      "avg_views_per_video": 360684,
+      "avg_views_per_video": 361279,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCekEudsdDmI7R_0FelfJWaQ",
@@ -3705,16 +3825,16 @@
       "language": "",
       "keywords": "여드름 트러블피부 피부상담 진정관리 온스식피부관리 미백 홍조 민감 예민피부 마스크팩 염증성여드름 좁쌀여드름 수분크림 미백크림 각질제거 보습 피부보습 세라마이드 수부지 수분부족형지성피부 아르간오일 호호바오일 레티놀 계면활성제 우츠키식피부관리 물세안 프락셀 중간보습 오일보습 아침물세안 이중세안 아이밤 페이스밤 각질제거팩 노푸 미네랄오일 모공수축 모공축소 블랙헤드",
       "followers": 17300,
-      "view_count": 6700758,
+      "view_count": 6707141,
       "video_count": 1003,
-      "avg_views_per_video": 6681,
+      "avg_views_per_video": 6687,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_luv_nioni",
@@ -3981,16 +4101,16 @@
       "language": "",
       "keywords": "뷰티 노하우 메이크업 립스틱 \"make up\"",
       "followers": 14500,
-      "view_count": 1836744,
+      "view_count": 1837905,
       "video_count": 108,
-      "avg_views_per_video": 17007,
+      "avg_views_per_video": 17018,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_jangsu_note",
@@ -4068,16 +4188,16 @@
       "language": "ko",
       "keywords": "여드름압출 blackhead \"Acne extrusion\" ニキビ圧出 สิวไหลออกมา \"Acne extrusionem\" 피르가즘 귀르가즘 여드름 \"여드름신 리하\" 리하스킨케어 \"여드름신 leeha\" 피부관리실 좁쌀여드름 피지제거 블랙헤드 코블랙헤드 화이트헤드 피지낭종 귀여드름 прыщ прыщик 青春痘 痤疮 挤出 \"Mụn trứng cá\" Akne L'acné \"El acné\" 피부관리 스킨케어 브이로그 일상 개 멍멍이 골든두들 뚜둥이",
       "followers": 14000,
-      "view_count": 22496697,
-      "video_count": 715,
-      "avg_views_per_video": 31464,
+      "view_count": 22504686,
+      "video_count": 716,
+      "avg_views_per_video": 31431,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_yxxn22",
@@ -4185,6 +4305,30 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "yt_UCvmrt-GOa-bJt_0aCd8z1Fg",
+      "platform": "youtube",
+      "channel_id": "UCvmrt-GOa-bJt_0aCd8z1Fg",
+      "handle": "@피부참견",
+      "name": "지연쌤의 피부참견",
+      "description": "피부 고민, 이제 혼자 고민하지 마세요!⚪\n\n건강하지 못한 피부는 티가 납니다\n거울 속 내 얼굴이 예전 같지 않은 이유\n피부가 유난히 예민해진 이유\n누군가에게 “요즘 피곤해 보여”라는 말을 듣는 이유도\n대부분 피부에서 시작됩니다\n\n하지만,\n스킨 하나, 세안 습관 하나만 바꿔도\n피부는 생각보다 빠르게 반응합니다\n작은 변화가 표정과 분위기까지 바뀌는 걸\n피부과",
+      "profile_url": "https://www.youtube.com/channel/UCvmrt-GOa-bJt_0aCd8z1Fg",
+      "profile_image": "https://yt3.ggpht.com/m_Hd3oJ-n6oI8Xax66_9DkPzUCRRuddo0gIcF9D_LWJjnXNhvkehahsp2oxApj4t-dNJejTJ=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "피부과 피부관리 스킨케어",
+      "followers": 13400,
+      "view_count": 1803660,
+      "video_count": 77,
+      "avg_views_per_video": 23424,
+      "engagement_rate": null,
+      "tier": "micro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_hanappyii",
       "platform": "instagram",
       "handle": "hanappyii",
@@ -4225,30 +4369,6 @@
       "tier": "micro",
       "last_updated": "2026-02-23",
       "country": "KR"
-    },
-    {
-      "id": "yt_UCvmrt-GOa-bJt_0aCd8z1Fg",
-      "platform": "youtube",
-      "channel_id": "UCvmrt-GOa-bJt_0aCd8z1Fg",
-      "handle": "@피부참견",
-      "name": "지연쌤의 피부참견",
-      "description": "피부 고민, 이제 혼자 고민하지 마세요!⚪\n\n건강하지 못한 피부는 티가 납니다\n거울 속 내 얼굴이 예전 같지 않은 이유\n피부가 유난히 예민해진 이유\n누군가에게 “요즘 피곤해 보여”라는 말을 듣는 이유도\n대부분 피부에서 시작됩니다\n\n하지만,\n스킨 하나, 세안 습관 하나만 바꿔도\n피부는 생각보다 빠르게 반응합니다\n작은 변화가 표정과 분위기까지 바뀌는 걸\n피부과",
-      "profile_url": "https://www.youtube.com/channel/UCvmrt-GOa-bJt_0aCd8z1Fg",
-      "profile_image": "https://yt3.ggpht.com/m_Hd3oJ-n6oI8Xax66_9DkPzUCRRuddo0gIcF9D_LWJjnXNhvkehahsp2oxApj4t-dNJejTJ=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "피부과 피부관리 스킨케어",
-      "followers": 13200,
-      "view_count": 1759330,
-      "video_count": 74,
-      "avg_views_per_video": 23775,
-      "engagement_rate": null,
-      "tier": "micro",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
     },
     {
       "id": "tt_cherry.p_beauty",
@@ -4473,16 +4593,16 @@
       "language": "",
       "keywords": "피부슈타인 피부관리 여드름 경락 윤곽관리 피부 강선자 수원피부관리 에스테틱 근처피부관리 얼굴비대칭 얼굴경락 40대피부 피부관리추천 피부노화 피부좋아지는법",
       "followers": 12200,
-      "view_count": 1463853,
+      "view_count": 1464240,
       "video_count": 243,
-      "avg_views_per_video": 6024,
+      "avg_views_per_video": 6026,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "yt_UCmYFgly9rKU6VEsNT6J1DMQ",
@@ -4497,16 +4617,16 @@
       "language": "",
       "keywords": "여드름 좁쌀여드름 모낭염 홈케어 스킨케어루틴 스킨케어 메이크업 피부 피부좋아지는법 kbeauty 올리브영 수부지",
       "followers": 12100,
-      "view_count": 2413028,
-      "video_count": 100,
-      "avg_views_per_video": 24130,
+      "view_count": 2426875,
+      "video_count": 101,
+      "avg_views_per_video": 24028,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_elena__ceo",
@@ -4773,16 +4893,16 @@
       "language": "",
       "keywords": "",
       "followers": 10600,
-      "view_count": 1729995,
-      "video_count": 562,
-      "avg_views_per_video": 3078,
+      "view_count": 1734593,
+      "video_count": 563,
+      "avg_views_per_video": 3081,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_uxzic_",
@@ -5562,6 +5682,30 @@
       "country": "KR"
     },
     {
+      "id": "yt_UCome03zHlLZZfKQXGNBcgig",
+      "platform": "youtube",
+      "channel_id": "UCome03zHlLZZfKQXGNBcgig",
+      "handle": "@sooneunclinic",
+      "name": "별언니 피부상담소",
+      "description": "안녕하세요~ 별언니 피부 상담소입니다.\n\n너무 많은 피부과, 더 많은 피부시술, \n이뻐지고 싶은데, 어디를 가서 어떤 시술을 받아야할지...\n\n쉽고 친근하게 대답해드릴게요^^\n\n\n잠실새내 수앤은클리닉 이수연원장\n\n한영외고영어과 졸업\n한양대 의학과 수석입학\n11년 피부과 진료 경력\n\n꼼꼼하고 세심한 별언니의 피부고민상담소입니다. \n\n\n병원 홈페이지      ",
+      "profile_url": "https://www.youtube.com/channel/UCome03zHlLZZfKQXGNBcgig",
+      "profile_image": "https://yt3.ggpht.com/ytc/AIdro_nj5EX9mgy4lSudjtzqhcAyuFl640YoT7hOPQHK3RlMhGo=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "더이뻐지는티비 피부고민 별언니 피부과의사 뷰티채널 뷰티티비 여의사 여자원장 피부과시술 피부관리 여드름관리 리프팅 리프팅시술 리쥬란힐러 점빼기 여드름짜기 피부장벽 엑소좀 피부과레이저 피부과관리 피부과추천",
+      "followers": 6830,
+      "view_count": 3243130,
+      "video_count": 611,
+      "avg_views_per_video": 5308,
+      "engagement_rate": null,
+      "tier": "nano",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_from.makeup",
       "platform": "tiktok",
       "handle": "from.makeup",
@@ -5604,6 +5748,30 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "yt_UC777OVX_laqRC4n7OvQd9fQ",
+      "platform": "youtube",
+      "channel_id": "UC777OVX_laqRC4n7OvQd9fQ",
+      "handle": "@ihatetrouble",
+      "name": "피부고민있서영?",
+      "description": "화장품에 수억을 쓸 정도로 진심인 제가,\n직접 써보고 효과 본 찐-꿀템만 소개해드려요! 💖\n\n10년 넘게 여드름으로 고생하던 제가 시술 없이 물광 피부가 된 비결, 궁금하지 않으세요?\n✔️ 초예민·민감 피부도 살아남을 수 있는 스킨케어의 모든 것!\n✔️ 현실적이고 효과적인 솔루션!\n\n💼 화장품 회사 대표 & 에스테틱 컨설턴트 출신이 직접 알려드리는 실패 없",
+      "profile_url": "https://www.youtube.com/channel/UC777OVX_laqRC4n7OvQd9fQ",
+      "profile_image": "https://yt3.ggpht.com/diWQkmmrovS3j7KDl8ME3zMP-0QcyXFIWs58IEbjcO2Y8KzD102K5vDqucbB58NY_QWcFDkwbw=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "피부 \"물광 피부\" \"피부 관리\" 스킨케어 뷰티 \"화장품 추천\" \"보습 크림\" \"기초 화장품\" beauty skincare",
+      "followers": 6560,
+      "view_count": 1096649,
+      "video_count": 240,
+      "avg_views_per_video": 4569,
+      "engagement_rate": null,
+      "tier": "nano",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_dr.goldfiller",
       "platform": "tiktok",
       "handle": "dr.goldfiller",
@@ -5623,30 +5791,6 @@
       ],
       "tier": "nano",
       "last_updated": "2026-04-05"
-    },
-    {
-      "id": "yt_UC777OVX_laqRC4n7OvQd9fQ",
-      "platform": "youtube",
-      "channel_id": "UC777OVX_laqRC4n7OvQd9fQ",
-      "handle": "@ihatetrouble",
-      "name": "피부고민있서영?",
-      "description": "화장품에 수억을 쓸 정도로 진심인 제가,\n직접 써보고 효과 본 찐-꿀템만 소개해드려요! 💖\n\n10년 넘게 여드름으로 고생하던 제가 시술 없이 물광 피부가 된 비결, 궁금하지 않으세요?\n✔️ 초예민·민감 피부도 살아남을 수 있는 스킨케어의 모든 것!\n✔️ 현실적이고 효과적인 솔루션!\n\n💼 화장품 회사 대표 & 에스테틱 컨설턴트 출신이 직접 알려드리는 실패 없",
-      "profile_url": "https://www.youtube.com/channel/UC777OVX_laqRC4n7OvQd9fQ",
-      "profile_image": "https://yt3.ggpht.com/diWQkmmrovS3j7KDl8ME3zMP-0QcyXFIWs58IEbjcO2Y8KzD102K5vDqucbB58NY_QWcFDkwbw=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "피부 \"물광 피부\" \"피부 관리\" 스킨케어 뷰티 \"화장품 추천\" \"보습 크림\" \"기초 화장품\" beauty skincare",
-      "followers": 6530,
-      "view_count": 1087336,
-      "video_count": 240,
-      "avg_views_per_video": 4531,
-      "engagement_rate": null,
-      "tier": "nano",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
     },
     {
       "id": "ig_roro._.vely",
@@ -5859,6 +6003,27 @@
       "country": "KR"
     },
     {
+      "id": "tt_kittennnz_gutzzzzzz3",
+      "platform": "tiktok",
+      "handle": "kittennnz_gutzzzzzz3",
+      "name": "🎀 ♡ 🍭৹꒰ yumi ꒱﹏ᶻzᶻ🫧",
+      "profile_url": "https://www.tiktok.com/@kittennnz_gutzzzzzz3",
+      "profile_image": "data/images/tt_kittennnz_gutzzzzzz3.jpg",
+      "followers": 5946,
+      "following": 200,
+      "total_likes": 64400,
+      "video_count": 146,
+      "engagement_rate": null,
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_shine_miyo",
       "platform": "instagram",
       "handle": "shine_miyo",
@@ -6069,6 +6234,27 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "tt_jwin_jang",
+      "platform": "tiktok",
+      "handle": "jwin_jang",
+      "name": "쥔장 🫨",
+      "profile_url": "https://www.tiktok.com/@jwin_jang",
+      "profile_image": "data/images/tt_jwin_jang.jpg",
+      "followers": 5416,
+      "following": 2,
+      "total_likes": 423600,
+      "video_count": 179,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_k_beauty_items",
       "platform": "tiktok",
       "handle": "k_beauty_items",
@@ -6109,6 +6295,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-22"
+    },
+    {
+      "id": "tt_home.and.tem",
+      "platform": "tiktok",
+      "handle": "home.and.tem",
+      "name": "홈앤템",
+      "profile_url": "https://www.tiktok.com/@home.and.tem",
+      "profile_image": "data/images/tt_home.and.tem.jpg",
+      "followers": 5008,
+      "following": 12,
+      "total_likes": 19700,
+      "video_count": 251,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-26"
     },
     {
       "id": "tt_betterpick4u",
@@ -6416,17 +6623,17 @@
       "country": "KR",
       "language": "",
       "keywords": "피부관리 피부 여드름 민감성피부 스킨케어 스킨케어루틴 피부좋아지는법",
-      "followers": 4500,
-      "view_count": 789240,
-      "video_count": 64,
-      "avg_views_per_video": 12332,
+      "followers": 4510,
+      "view_count": 794207,
+      "video_count": 65,
+      "avg_views_per_video": 12219,
       "engagement_rate": null,
       "tier": "nano",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_youleecom",
@@ -7164,6 +7371,30 @@
       "country": "KR"
     },
     {
+      "id": "yt_UCCqJGpSTh2L7v-f64HZI-bw",
+      "platform": "youtube",
+      "channel_id": "UCCqJGpSTh2L7v-f64HZI-bw",
+      "handle": "@에즈윤asyun-w7d",
+      "name": "에즈윤 | 민감피부 케어꿀팁",
+      "description": "민감성 피부에게 희망을!",
+      "profile_url": "https://www.youtube.com/channel/UCCqJGpSTh2L7v-f64HZI-bw",
+      "profile_image": "https://yt3.ggpht.com/Cmjcgo8LMLvmMmnSjh5Mgcf8eTLnNaNSXp2c78PEpVjgefcg5jP5rCIgfyfFtQPiTHLUczxQ=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "",
+      "followers": 3250,
+      "view_count": 361407,
+      "video_count": 44,
+      "avg_views_per_video": 8214,
+      "engagement_rate": null,
+      "tier": "nano",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_zzip_ssa",
       "platform": "instagram",
       "handle": "zzip_ssa",
@@ -7204,30 +7435,6 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-29"
-    },
-    {
-      "id": "yt_UCCqJGpSTh2L7v-f64HZI-bw",
-      "platform": "youtube",
-      "channel_id": "UCCqJGpSTh2L7v-f64HZI-bw",
-      "handle": "@에즈윤asyun-w7d",
-      "name": "에즈윤 | 민감피부 케어꿀팁",
-      "description": "민감성 피부에게 희망을!",
-      "profile_url": "https://www.youtube.com/channel/UCCqJGpSTh2L7v-f64HZI-bw",
-      "profile_image": "https://yt3.ggpht.com/Cmjcgo8LMLvmMmnSjh5Mgcf8eTLnNaNSXp2c78PEpVjgefcg5jP5rCIgfyfFtQPiTHLUczxQ=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "",
-      "followers": 3240,
-      "view_count": 359181,
-      "video_count": 44,
-      "avg_views_per_video": 8163,
-      "engagement_rate": null,
-      "tier": "nano",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
     },
     {
       "id": "ig_cosy_a_",
@@ -7431,8 +7638,8 @@
       "language": "",
       "keywords": "",
       "followers": 2960,
-      "view_count": 973932,
-      "video_count": 434,
+      "view_count": 976324,
+      "video_count": 435,
       "avg_views_per_video": 2244,
       "engagement_rate": null,
       "tier": "nano",
@@ -7440,7 +7647,7 @@
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_beautyillo",
@@ -8010,6 +8217,27 @@
       "country": "KR"
     },
     {
+      "id": "tt_hean_9u",
+      "platform": "tiktok",
+      "handle": "hean_9u",
+      "name": "핸구",
+      "profile_url": "https://www.tiktok.com/@hean_9u",
+      "profile_image": "data/images/tt_hean_9u.jpg",
+      "followers": 2311,
+      "following": 17,
+      "total_likes": 95200,
+      "video_count": 26,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_hwan._hooe",
       "platform": "instagram",
       "handle": "hwan._hooe",
@@ -8094,6 +8322,30 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "yt_UCIH_Box_GnlZ-iTg6H9Y-hg",
+      "platform": "youtube",
+      "channel_id": "UCIH_Box_GnlZ-iTg6H9Y-hg",
+      "handle": "@dr.dj-tomorrowskin",
+      "name": "닥터동주의 내일피부",
+      "description": "'내일의 나'를 위한 건강한 피부가이드🔎\n안녕하세요. 내일피부의 피부과 전문의 김동주 원장입니다.\n\n대한민국 피부과 전체 의사 중 단 2%인\n'피부과 전문의'라는 자격에 걸맞는 책임감과 지식으로\n여러분의 피부 건강을 책임지겠습니다.\n\n피부 고민에 대해 궁금하신 내용이 있다면 댓글로 남겨주세요!\n피부과전문의 닥터동주가 '직접' 답변드리겠습니다. \n\n✅ 외부 ",
+      "profile_url": "https://www.youtube.com/channel/UCIH_Box_GnlZ-iTg6H9Y-hg",
+      "profile_image": "https://yt3.ggpht.com/h3xw_EKgUgL6Dkf9A3s-g-bYYhFGp9QJeddYLanUpvo1zw537D5Wi81XImFOZVaWJJrkvaIbWLk=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "피부과전문의 피부과 피부과추천 스킨부스터 콜라겐부스터 리프팅 닥터스피부과 닥터동주 동안피부 추천시술 피부과가성비 여드름흉터 흉터레이저 흉터치료 위례피부과 김동주 김동주원장 팔자주름 마리오넷주름 주름제거 기미 여드름 흑자",
+      "followers": 2190,
+      "view_count": 405174,
+      "video_count": 143,
+      "avg_views_per_video": 2833,
+      "engagement_rate": null,
+      "tier": "nano",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "ig_salt.yarchive",
       "platform": "instagram",
       "handle": "salt.yarchive",
@@ -8113,30 +8365,6 @@
       "tier": "nano",
       "last_updated": "2026-02-21",
       "country": "KR"
-    },
-    {
-      "id": "yt_UCIH_Box_GnlZ-iTg6H9Y-hg",
-      "platform": "youtube",
-      "channel_id": "UCIH_Box_GnlZ-iTg6H9Y-hg",
-      "handle": "@dr.dj-tomorrowskin",
-      "name": "닥터동주의 내일피부",
-      "description": "'내일의 나'를 위한 건강한 피부가이드🔎\n안녕하세요. 내일피부의 피부과 전문의 김동주 원장입니다.\n\n대한민국 피부과 전체 의사 중 단 2%인\n'피부과 전문의'라는 자격에 걸맞는 책임감과 지식으로\n여러분의 피부 건강을 책임지겠습니다.\n\n피부 고민에 대해 궁금하신 내용이 있다면 댓글로 남겨주세요!\n피부과전문의 닥터동주가 '직접' 답변드리겠습니다. \n\n✅ 외부 ",
-      "profile_url": "https://www.youtube.com/channel/UCIH_Box_GnlZ-iTg6H9Y-hg",
-      "profile_image": "https://yt3.ggpht.com/h3xw_EKgUgL6Dkf9A3s-g-bYYhFGp9QJeddYLanUpvo1zw537D5Wi81XImFOZVaWJJrkvaIbWLk=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "피부과전문의 피부과 피부과추천 스킨부스터 콜라겐부스터 리프팅 닥터스피부과 닥터동주 동안피부 추천시술 피부과가성비 여드름흉터 흉터레이저 흉터치료 위례피부과 김동주 김동주원장 팔자주름 마리오넷주름 주름제거 기미 여드름 흑자",
-      "followers": 2160,
-      "view_count": 395821,
-      "video_count": 142,
-      "avg_views_per_video": 2787,
-      "engagement_rate": null,
-      "tier": "nano",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
     },
     {
       "id": "tt_rumi_im_ur",
@@ -9441,6 +9669,27 @@
       "country": "KR"
     },
     {
+      "id": "tt_yeahriinn",
+      "platform": "tiktok",
+      "handle": "yeahriinn",
+      "name": "예아린",
+      "profile_url": "https://www.tiktok.com/@yeahriinn",
+      "profile_image": "data/images/tt_yeahriinn.jpg",
+      "followers": 1418,
+      "following": 257,
+      "total_likes": 6643,
+      "video_count": 122,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_skin_training_jw",
       "platform": "tiktok",
       "handle": "skin_training_jw",
@@ -9693,6 +9942,30 @@
       "last_updated": "2026-04-05"
     },
     {
+      "id": "yt_UC09t8FuhpsebTldz-vp6cgg",
+      "platform": "youtube",
+      "channel_id": "UC09t8FuhpsebTldz-vp6cgg",
+      "handle": "@skincarehailey",
+      "name": "스킨케어멘토 헤일리",
+      "description": "솔직하고 깊이있는 스킨케어 이야기를 나눠요❤️\n\n10년간 국내외에서 여러 브랜드의 수출과 마케팅을 담당해 오며, \n다양한 뷰티 시장에서 깊이 있는 경험을 쌓아왔습니다.\n\n이제 그동안의 전문성과 경험을 바탕으로, \n스킨케어와 화장품에 관한 유익한 정보를 나누고자 합니다.\n현장에서 얻은 인사이트와 트렌드 분석, \n제품 선택 팁까지 실용적인 정보를 전해드리며, ",
+      "profile_url": "https://www.youtube.com/channel/UC09t8FuhpsebTldz-vp6cgg",
+      "profile_image": "https://yt3.ggpht.com/lYRD0udTm_KRHhO9ptKnLciHRG1gAVJyqN3oLullIZ7fzUPwrH81fKH0SdXCXWKulRdu7RGjKg=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "스킨케어 \"스킨케어 추천\" \"스킨케어 루틴\" \"스킨케어 하는법\" \"화장품 추천\" 홈케어 \"홈케어 피부관리\" \"홈케어 루틴\" 피부관리 피부관리법 \"피부관리 루틴\" \"선크림 추천\" \"화장품 성분\"",
+      "followers": 1300,
+      "view_count": 888030,
+      "video_count": 21,
+      "avg_views_per_video": 42287,
+      "engagement_rate": null,
+      "tier": "nano",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-04-26"
+    },
+    {
       "id": "tt_cozrinx",
       "platform": "tiktok",
       "handle": "cozrinx",
@@ -9712,30 +9985,6 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-21"
-    },
-    {
-      "id": "yt_UC09t8FuhpsebTldz-vp6cgg",
-      "platform": "youtube",
-      "channel_id": "UC09t8FuhpsebTldz-vp6cgg",
-      "handle": "@skincarehailey",
-      "name": "스킨케어멘토 헤일리",
-      "description": "솔직하고 깊이있는 스킨케어 이야기를 나눠요❤️\n\n10년간 국내외에서 여러 브랜드의 수출과 마케팅을 담당해 오며, \n다양한 뷰티 시장에서 깊이 있는 경험을 쌓아왔습니다.\n\n이제 그동안의 전문성과 경험을 바탕으로, \n스킨케어와 화장품에 관한 유익한 정보를 나누고자 합니다.\n현장에서 얻은 인사이트와 트렌드 분석, \n제품 선택 팁까지 실용적인 정보를 전해드리며, ",
-      "profile_url": "https://www.youtube.com/channel/UC09t8FuhpsebTldz-vp6cgg",
-      "profile_image": "https://yt3.ggpht.com/lYRD0udTm_KRHhO9ptKnLciHRG1gAVJyqN3oLullIZ7fzUPwrH81fKH0SdXCXWKulRdu7RGjKg=s800-c-k-c0x00ffffff-no-rj",
-      "country": "KR",
-      "language": "",
-      "keywords": "스킨케어 \"스킨케어 추천\" \"스킨케어 루틴\" \"스킨케어 하는법\" \"화장품 추천\" 홈케어 \"홈케어 피부관리\" \"홈케어 루틴\" 피부관리 피부관리법 \"피부관리 루틴\" \"선크림 추천\" \"화장품 성분\"",
-      "followers": 1290,
-      "view_count": 880086,
-      "video_count": 21,
-      "avg_views_per_video": 41909,
-      "engagement_rate": null,
-      "tier": "nano",
-      "category": [
-        "skincare",
-        "beauty"
-      ],
-      "last_updated": "2026-04-22"
     },
     {
       "id": "ig_ming.lovely_",
@@ -10254,16 +10503,16 @@
       "language": "",
       "keywords": "피부과전문의 피부병원 피부트러블 홍조 써마지 울쎄라 평촌수피부과 오가나",
       "followers": 1150,
-      "view_count": 310502,
+      "view_count": 312652,
       "video_count": 348,
-      "avg_views_per_video": 892,
+      "avg_views_per_video": 898,
       "engagement_rate": null,
       "tier": "nano",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-04-22"
+      "last_updated": "2026-04-26"
     },
     {
       "id": "ig_whygg03",

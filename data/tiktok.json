@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-05-17T15:53:56.213298+00:00",
-  "count": 313,
+  "generated_at": "2026-05-24T15:58:00.719263+00:00",
+  "count": 319,
   "influencers": [
     {
       "id": "tt_a.bite",
@@ -1009,6 +1009,27 @@
       ],
       "tier": "macro",
       "last_updated": "2026-04-05"
+    },
+    {
+      "id": "tt_shozikiebi",
+      "platform": "tiktok",
+      "handle": "shozikiebi",
+      "name": "正直レビ子",
+      "profile_url": "https://www.tiktok.com/@shozikiebi",
+      "profile_image": "data/images/tt_shozikiebi.jpg",
+      "followers": 129300,
+      "following": 0,
+      "total_likes": 2600000,
+      "video_count": 148,
+      "engagement_rate": null,
+      "country": "JP",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-05-24"
     },
     {
       "id": "tt_maishimakoto",
@@ -2733,6 +2754,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "tt_tem.duck",
+      "platform": "tiktok",
+      "handle": "tem.duck",
+      "name": "템덕",
+      "profile_url": "https://www.tiktok.com/@tem.duck",
+      "profile_image": "data/images/tt_tem.duck.jpg",
+      "followers": 19300,
+      "following": 7,
+      "total_likes": 101600,
+      "video_count": 438,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-05-24"
+    },
+    {
       "id": "tt_rei.tyo",
       "platform": "tiktok",
       "handle": "rei.tyo",
@@ -3741,6 +3783,27 @@
       "country": "KR"
     },
     {
+      "id": "tt___honey.laura",
+      "platform": "tiktok",
+      "handle": "__honey.laura",
+      "name": "🍯꿀로라🍯",
+      "profile_url": "https://www.tiktok.com/@__honey.laura",
+      "profile_image": "data/images/tt___honey.laura.jpg",
+      "followers": 8431,
+      "following": 41,
+      "total_likes": 350600,
+      "video_count": 197,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-05-24"
+    },
+    {
       "id": "tt_w.w_young_2",
       "platform": "tiktok",
       "handle": "w.w_young_2",
@@ -3823,6 +3886,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-21"
+    },
+    {
+      "id": "tt_lilyshome2",
+      "platform": "tiktok",
+      "handle": "lilyshome2",
+      "name": "릴리홈",
+      "profile_url": "https://www.tiktok.com/@lilyshome2",
+      "profile_image": "data/images/tt_lilyshome2.jpg",
+      "followers": 7654,
+      "following": 31,
+      "total_likes": 38600,
+      "video_count": 220,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-05-24"
     },
     {
       "id": "tt_dasik.yaksa",
@@ -4117,6 +4201,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-04-22"
+    },
+    {
+      "id": "tt_shinaenaenae",
+      "platform": "tiktok",
+      "handle": "shinaenaenae",
+      "name": "안신애 (An Shinae)",
+      "profile_url": "https://www.tiktok.com/@shinaenaenae",
+      "profile_image": "data/images/tt_shinaenaenae.jpg",
+      "followers": 6206,
+      "following": 16,
+      "total_likes": 51700,
+      "video_count": 122,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-05-24"
     },
     {
       "id": "tt_startempick",
@@ -5440,6 +5545,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-05-17"
+    },
+    {
+      "id": "tt_.dani4003",
+      "platform": "tiktok",
+      "handle": ".dani4003",
+      "name": "단이 DANI",
+      "profile_url": "https://www.tiktok.com/@.dani4003",
+      "profile_image": "data/images/tt_.dani4003.jpg",
+      "followers": 1850,
+      "following": 0,
+      "total_likes": 22500,
+      "video_count": 173,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-05-24"
     },
     {
       "id": "tt_zh_posil",

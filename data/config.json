@@ -1,19 +1,17 @@
 {
   "youtube": {
     "keywords": [
-      "스킨케어",
-      "피부고민",
-      "에스네이처",
-      "S.NATURE"
+      "올영추천템",
+      "올리브영",
+      "뷰티",
     ],
     "max_results_per_keyword": 20
   },
   "instagram": {
     "hashtags": [
-      "스킨케어",
-      "피부고민",
-      "에스네이처",
-      "S.NATURE"
+      "올영추천템",
+      "올리브영",
+      "뷰티",
     ],
     "max_results_per_hashtag": 30
   },
@@ -28,10 +26,9 @@
   },
   "tiktok": {
     "hashtags": [
-      "스킨케어",
-      "피부관리",
-      "에스네이처",
-      "S.NATURE"
+      "올영추천템",
+      "올리브영",
+      "뷰티",
     ],
     "max_results_per_hashtag": 30
   }

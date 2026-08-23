@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T15:14:54.784571+00:00",
-  "count": 502,
+  "generated_at": "2026-08-23T15:15:20.820749+00:00",
+  "count": 515,
   "influencers": [
     {
       "id": "tt_a.bite",
@@ -654,6 +654,27 @@
       "last_updated": "2026-07-19"
     },
     {
+      "id": "tt_cool_siwon516",
+      "platform": "tiktok",
+      "handle": "cool_siwon516",
+      "name": "강시원siwon",
+      "profile_url": "https://www.tiktok.com/@cool_siwon516",
+      "profile_image": "data/images/tt_cool_siwon516.jpg",
+      "followers": 575300,
+      "following": 1243,
+      "total_likes": 7200000,
+      "video_count": 615,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_lumi_glorin",
       "platform": "tiktok",
       "handle": "lumi_glorin",
@@ -862,6 +883,27 @@
       ],
       "tier": "macro",
       "last_updated": "2026-07-12"
+    },
+    {
+      "id": "tt_seohiii",
+      "platform": "tiktok",
+      "handle": "seohiii",
+      "name": "프롬서희",
+      "profile_url": "https://www.tiktok.com/@seohiii",
+      "profile_image": "data/images/tt_seohiii.jpg",
+      "followers": 356100,
+      "following": 102,
+      "total_likes": 12300000,
+      "video_count": 1312,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "macro",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_lee__range",
@@ -1956,6 +1998,27 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "tt_bingchilling1647",
+      "platform": "tiktok",
+      "handle": "bingchilling1647",
+      "name": "bingchilling1647",
+      "profile_url": "https://www.tiktok.com/@bingchilling1647",
+      "profile_image": "data/images/tt_bingchilling1647.jpg",
+      "followers": 84100,
+      "following": 22,
+      "total_likes": 680400,
+      "video_count": 599,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_binibeen_",
       "platform": "tiktok",
       "handle": "binibeen_",
@@ -2164,6 +2227,27 @@
       ],
       "tier": "mid",
       "last_updated": "2026-06-28"
+    },
+    {
+      "id": "tt_iamssinnim",
+      "platform": "tiktok",
+      "handle": "iamssinnim",
+      "name": "ssin 씬님",
+      "profile_url": "https://www.tiktok.com/@iamssinnim",
+      "profile_image": "data/images/tt_iamssinnim.jpg",
+      "followers": 70500,
+      "following": 22,
+      "total_likes": 535800,
+      "video_count": 245,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": true,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "mid",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_efocusnews",
@@ -4665,6 +4749,27 @@
       "last_updated": "2026-03-29"
     },
     {
+      "id": "tt_jihyeonida",
+      "platform": "tiktok",
+      "handle": "jihyeonida",
+      "name": "jihyeonida",
+      "profile_url": "https://www.tiktok.com/@jihyeonida",
+      "profile_image": "data/images/tt_jihyeonida.jpg",
+      "followers": 13700,
+      "following": 1,
+      "total_likes": 153400,
+      "video_count": 62,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_user77667626069781",
       "platform": "tiktok",
       "handle": "user77667626069781",
@@ -4726,6 +4831,27 @@
       ],
       "tier": "micro",
       "last_updated": "2026-07-19"
+    },
+    {
+      "id": "tt__p1ease__",
+      "platform": "tiktok",
+      "handle": "_p1ease__",
+      "name": "플리즈",
+      "profile_url": "https://www.tiktok.com/@_p1ease__",
+      "profile_image": "data/images/tt__p1ease__.jpg",
+      "followers": 13400,
+      "following": 11,
+      "total_likes": 493800,
+      "video_count": 166,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_hyoblyne",
@@ -5419,6 +5545,27 @@
       ],
       "tier": "micro",
       "last_updated": "2026-07-05"
+    },
+    {
+      "id": "tt_sakion39",
+      "platform": "tiktok",
+      "handle": "sakion39",
+      "name": "콱씨",
+      "profile_url": "https://www.tiktok.com/@sakion39",
+      "profile_image": "data/images/tt_sakion39.jpg",
+      "followers": 10000,
+      "following": 10,
+      "total_likes": 791100,
+      "video_count": 56,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "micro",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_yooauau",
@@ -6723,6 +6870,27 @@
       "last_updated": "2026-04-05"
     },
     {
+      "id": "tt_love.thang6",
+      "platform": "tiktok",
+      "handle": "love.thang6",
+      "name": "멀바임마 ✨",
+      "profile_url": "https://www.tiktok.com/@love.thang6",
+      "profile_image": "data/images/tt_love.thang6.jpg",
+      "followers": 5482,
+      "following": 25,
+      "total_likes": 456400,
+      "video_count": 128,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_ceci_yaksa",
       "platform": "tiktok",
       "handle": "ceci_yaksa",
@@ -6805,6 +6973,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-04-05"
+    },
+    {
+      "id": "tt_centellian24_kr",
+      "platform": "tiktok",
+      "handle": "centellian24_kr",
+      "name": "센텔리안24 (centellian24)",
+      "profile_url": "https://www.tiktok.com/@centellian24_kr",
+      "profile_image": "data/images/tt_centellian24_kr.jpg",
+      "followers": 5369,
+      "following": 2,
+      "total_likes": 32700,
+      "video_count": 242,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_yumin.0_",
@@ -7666,6 +7855,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-29"
+    },
+    {
+      "id": "tt_shakii.zip",
+      "platform": "tiktok",
+      "handle": "shakii.zip",
+      "name": "샤키",
+      "profile_url": "https://www.tiktok.com/@shakii.zip",
+      "profile_image": "data/images/tt_shakii.zip.jpg",
+      "followers": 3286,
+      "following": 37,
+      "total_likes": 270300,
+      "video_count": 298,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_injourney_2",
@@ -8634,6 +8844,27 @@
       "last_updated": "2026-03-22"
     },
     {
+      "id": "tt_k_beauty_womenitem",
+      "platform": "tiktok",
+      "handle": "k_beauty_womenitem",
+      "name": "여자템",
+      "profile_url": "https://www.tiktok.com/@k_beauty_womenitem",
+      "profile_image": "data/images/tt_k_beauty_womenitem.jpg",
+      "followers": 2120,
+      "following": 34,
+      "total_likes": 150200,
+      "video_count": 320,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_yeonible1206",
       "platform": "tiktok",
       "handle": "yeonible1206",
@@ -9558,6 +9789,27 @@
       "last_updated": "2026-03-09"
     },
     {
+      "id": "tt_anew6114",
+      "platform": "tiktok",
+      "handle": "anew6114",
+      "name": "동안의사 시보경",
+      "profile_url": "https://www.tiktok.com/@anew6114",
+      "profile_image": "data/images/tt_anew6114.jpg",
+      "followers": 1474,
+      "following": 9,
+      "total_likes": 31700,
+      "video_count": 102,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
+    },
+    {
       "id": "tt_actuallycomfy",
       "platform": "tiktok",
       "handle": "actuallycomfy",
@@ -10312,6 +10564,27 @@
       ],
       "tier": "nano",
       "last_updated": "2026-03-22"
+    },
+    {
+      "id": "tt_star.___.o",
+      "platform": "tiktok",
+      "handle": "star.___.o",
+      "name": "안뇽하새유",
+      "profile_url": "https://www.tiktok.com/@star.___.o",
+      "profile_image": "data/images/tt_star.___.o.jpg",
+      "followers": 1054,
+      "following": 14,
+      "total_likes": 197500,
+      "video_count": 206,
+      "engagement_rate": null,
+      "country": "KR",
+      "is_verified": false,
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "tier": "nano",
+      "last_updated": "2026-08-23"
     },
     {
       "id": "tt_vioihome_",

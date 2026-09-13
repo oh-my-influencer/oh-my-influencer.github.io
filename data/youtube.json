@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-06T17:26:08.195183+00:00",
-  "count": 23,
+  "generated_at": "2026-09-13T17:48:18.761280+00:00",
+  "count": 29,
   "influencers": [
     {
       "id": "yt_UC5tFmE4Z5X2sAtp4tNkjOfA",
@@ -15,16 +15,16 @@
       "language": "ko",
       "keywords": "아모레퍼시픽 amorepacific ASMR \"Oddly Satisfying\" beauty 코덕 힐링타임즈 화장품 cosmetic 귀르가즘 뷰르가즘",
       "followers": 1200000,
-      "view_count": 201765829,
-      "video_count": 709,
-      "avg_views_per_video": 284578,
+      "view_count": 201895502,
+      "video_count": 713,
+      "avg_views_per_video": 283163,
       "engagement_rate": null,
       "tier": "mega",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCIBp7eB3u-3h1exkj5y4loA",
@@ -38,17 +38,17 @@
       "country": "KR",
       "language": "",
       "keywords": "coreana \"한국여자 뷰티\" \"coreana beauty\" \"cuidados com a pele\" k-beauty \"피부 팁\" \"연예인 피부관리\" \"k beauty\" skincare 한국여자 \"피부가 좋아지는 팁\" \"뷰티 유튜브\" 뷰티 피부관리 \"cuidados com a pele\" \"피부 루틴\" \"skincare routines korea\" \"skin care routine\"",
-      "followers": 866000,
-      "view_count": 49220486,
-      "video_count": 309,
-      "avg_views_per_video": 159290,
+      "followers": 865000,
+      "view_count": 49241487,
+      "video_count": 308,
+      "avg_views_per_video": 159875,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCAUbDYDwV34yk6pYiZg_CzA",
@@ -62,17 +62,65 @@
       "country": "KR",
       "language": "",
       "keywords": "연두콩 yeondukong 뷰티 패션 fashion 뷰티유튜버 메이크업 올리브영 \"화장품 추천\"",
-      "followers": 711000,
-      "view_count": 112153722,
-      "video_count": 663,
-      "avg_views_per_video": 169161,
+      "followers": 712000,
+      "view_count": 113901650,
+      "video_count": 669,
+      "avg_views_per_video": 170257,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UCrlUlicedicJ5mlibqC62Eg",
+      "platform": "youtube",
+      "channel_id": "UCrlUlicedicJ5mlibqC62Eg",
+      "handle": "@beautyacne_inssi",
+      "name": "뷰드름 유튜버 인씨",
+      "description": "트러블+모공+요철, 현실적인 피부 고민을 갖고 있어요🤍\n유튜브에서 못다한 얘기는 인스타그램에서~~~~\n\n🥨비즈니스 문의 : inssi.biz@samehere.co.kr\n",
+      "profile_url": "https://www.youtube.com/channel/UCrlUlicedicJ5mlibqC62Eg",
+      "profile_image": "https://yt3.ggpht.com/oKy1i_TqOsdpsf0fBgoPhkw3R2g98PFM_b75evkYOp7WxDdfYLgrSzEnH50bE6lF_De4CvBQEA=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "메이크업 여드름 뷰드름 뷰드름유튜버 인씨 스킨케어 makeup 모공 \"모공 피부\" \"여드름 피부\" 요철 피부결 베이스 \"베이스 리뷰\" \"쿠션 리뷰\" \"파운데이션 리뷰\" \"신상 쿠션\"",
+      "followers": 568000,
+      "view_count": 409121044,
+      "video_count": 1232,
+      "avg_views_per_video": 332079,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UC0-yyrDjTJ1YFzmV12vEp0Q",
+      "platform": "youtube",
+      "channel_id": "UC0-yyrDjTJ1YFzmV12vEp0Q",
+      "handle": "@ssinxxi123",
+      "name": "시네 si-ne",
+      "description": "💚 닥터지 그린딥 클밤 2차 앵콜 마켓 🥑\n📅 9/14(월) 19:00 ~ 9/20(일) 23:59 까지\n💌 business: sine@shortt.kr\n\n‼️본 채널의 콘텐츠는 저작권 및 초상권의 보호를 받으며, 사전 협의 없는 복제·가공·배포·상업적 사용을 금합니다.",
+      "profile_url": "https://www.youtube.com/channel/UC0-yyrDjTJ1YFzmV12vEp0Q",
+      "profile_image": "https://yt3.ggpht.com/SXdSzdVxP5O0q5Ymbi_fty7Pc8YGOHsRP9CmFtACHCkL8ZQeSc_w-NYknuVVplDJZV5YQfYB=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "",
+      "followers": 540000,
+      "view_count": 415141243,
+      "video_count": 545,
+      "avg_views_per_video": 761727,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UChaTUCM7bPBTJaIZQ83PNwQ",
@@ -86,17 +134,17 @@
       "country": "KR",
       "language": "",
       "keywords": "스완 SWAN 현실남자뷰티 남자관리 남자뷰티유튜버 남자메이크업",
-      "followers": 509000,
-      "view_count": 307001809,
-      "video_count": 1189,
-      "avg_views_per_video": 258202,
+      "followers": 510000,
+      "view_count": 309761978,
+      "video_count": 1193,
+      "avg_views_per_video": 259650,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCXuzhVKNO9ZLm1q7edeipIw",
@@ -111,16 +159,40 @@
       "language": "",
       "keywords": "kbeauty 뷰티 skincare kbeauty \"acne skin\" \"acne prone skin\" Korea seoul 스킨케어 \"여드름 피부\" 여드름 \"여드름 케어\" \"treat acne\"",
       "followers": 424000,
-      "view_count": 62558366,
-      "video_count": 1279,
-      "avg_views_per_video": 48912,
+      "view_count": 62812629,
+      "video_count": 1284,
+      "avg_views_per_video": 48919,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UClJNgnMWzvEzJuLcpH7m4vQ",
+      "platform": "youtube",
+      "channel_id": "UClJNgnMWzvEzJuLcpH7m4vQ",
+      "handle": "@jaymeeforyou",
+      "name": "제이미포유 Jaymeeforyou",
+      "description": "너네를 웃게하는 난 뷰티유튜버계의 요정",
+      "profile_url": "https://www.youtube.com/channel/UClJNgnMWzvEzJuLcpH7m4vQ",
+      "profile_image": "https://yt3.ggpht.com/46ybCxWFd4D-h_ZjhHPiKusM7DOJxAfovsUIj8u0IEAIEvRfpr3NtV7sVKYDNBkcSDsN29X1=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "제이미 화장 메이크업 Makeup Cosmetic 뷰티 Beauty 크리에이터 Creator",
+      "followers": 415000,
+      "view_count": 120444998,
+      "video_count": 646,
+      "avg_views_per_video": 186447,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCE7q5DzYcRYWObUNIpdO70A",
@@ -134,17 +206,17 @@
       "country": "KR",
       "language": "",
       "keywords": "",
-      "followers": 383000,
-      "view_count": 94371741,
-      "video_count": 357,
-      "avg_views_per_video": 264347,
+      "followers": 384000,
+      "view_count": 95667627,
+      "video_count": 359,
+      "avg_views_per_video": 266484,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCRiIf6rt91BVfZVtURRXlOw",
@@ -158,17 +230,17 @@
       "country": "KR",
       "language": "",
       "keywords": "",
-      "followers": 368000,
-      "view_count": 299925434,
-      "video_count": 551,
-      "avg_views_per_video": 544329,
+      "followers": 369000,
+      "view_count": 301988107,
+      "video_count": 552,
+      "avg_views_per_video": 547080,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCLyq1gz11P-IYFmP093JaAw",
@@ -183,16 +255,16 @@
       "language": "",
       "keywords": "뷰티숨;숨;beautysoom;beauty_soom;뷰티유튜버;뷰티블로거숨;뷰티유튜버숨;",
       "followers": 349000,
-      "view_count": 140002861,
-      "video_count": 352,
-      "avg_views_per_video": 397735,
+      "view_count": 140491631,
+      "video_count": 354,
+      "avg_views_per_video": 396869,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCMWjW6pofWn1f988jGd4-xw",
@@ -206,17 +278,17 @@
       "country": "KR",
       "language": "ko",
       "keywords": "딩고 뷰티 미용 패션 화장품 화장 꿀팁 여자 여성 공감 하는법 블라인드 1위 dingo \"dingo beauty\" \"k beauty\" beauty \"beauty tip\" \"how to\" makeup moments",
-      "followers": 346000,
-      "view_count": 187183631,
+      "followers": 345000,
+      "view_count": 187191368,
       "video_count": 487,
-      "avg_views_per_video": 384361,
+      "avg_views_per_video": 384377,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCqwur42zcSwaGzfLpnEjHIA",
@@ -230,17 +302,17 @@
       "country": "KR",
       "language": "",
       "keywords": "뷰티 퍼스널컬러 메이크업 여자연예인 \"여자 사복\" 헤어스타일 \"헤어 추천\" 얼굴형 땅콩형 하트형 사각턱 중안부 셜록뷰티중안부 육각형 일자눈썹 \"긴 중안부\" \"얼굴형 헤어\" 패션 체형",
-      "followers": 345000,
-      "view_count": 106954947,
+      "followers": 344000,
+      "view_count": 107031411,
       "video_count": 139,
-      "avg_views_per_video": 769460,
+      "avg_views_per_video": 770010,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UC7ThrNGPoJLuaicyKJ4350w",
@@ -254,17 +326,65 @@
       "country": "KR",
       "language": "",
       "keywords": "화장품 코스메틱 뷰티 리뷰 화장 메이크업 cosmetic",
-      "followers": 272000,
-      "view_count": 9912293,
-      "video_count": 415,
-      "avg_views_per_video": 23885,
+      "followers": 275000,
+      "view_count": 10323849,
+      "video_count": 414,
+      "avg_views_per_video": 24937,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UCmPkZXhVfyLLWyHQM-l_KqA",
+      "platform": "youtube",
+      "channel_id": "UCmPkZXhVfyLLWyHQM-l_KqA",
+      "handle": "@bbomni",
+      "name": "bbomni 뽐니",
+      "description": "샵 시리즈의 시조새🕊️ \n숨은 꿀템 발굴 전문 뷰티유튜버\n\n\n‣ 뽐니 인스타그램: www.instagram.com/bbomni\n‣ 뽐니 비즈니스 메일: bbomni@goldenwhales.co.kr\n\n\n제품제공(시딩) 받지 않습니다. \n마음만 감사히 받겠습니다🙇🏻‍♀️\n\n\n🚫채널 내 모든 영상 무단 재배포 및 재가공을 금지합니다.\n(사전에 협의되지 않은 상",
+      "profile_url": "https://www.youtube.com/channel/UCmPkZXhVfyLLWyHQM-l_KqA",
+      "profile_image": "https://yt3.ggpht.com/mjvpumrsinqrFUWLhmKnzGlRebuQ2qq0G3rv02XADhBA-PgwTZqzGae6oizjOhWvst_tRfuMAw=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "메이크업 일상 \"겟 레디 윗 미\" 파운데이션 makeup \"get ready with me\" \"grwm korea\" \"korea makeup\" メイクアップ コスメ",
+      "followers": 232000,
+      "view_count": 64329519,
+      "video_count": 1022,
+      "avg_views_per_video": 62945,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UC57_jVZTM427hTqYMXf7utA",
+      "platform": "youtube",
+      "channel_id": "UC57_jVZTM427hTqYMXf7utA",
+      "handle": "@you_needn",
+      "name": "You need 윤이든",
+      "description": "안녕하세요. 뷰티 크리에이터 윤이든입니다 : )\n\nE-mail : youneedn@lefericreator.com\n\ninstagram : you_needn_",
+      "profile_url": "https://www.youtube.com/channel/UC57_jVZTM427hTqYMXf7utA",
+      "profile_image": "https://yt3.ggpht.com/HL5fWvLmtqaKskzurEP-WcSWjixBBwbuxwzOv2C53wn403V_uZHUrawJpZfw6DW04mOSHlo5FA=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "",
+      "keywords": "윤이든 좁쌀여드름 메이크업 진정스킨케어",
+      "followers": 215000,
+      "view_count": 52684664,
+      "video_count": 727,
+      "avg_views_per_video": 72469,
+      "engagement_rate": null,
+      "tier": "macro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCxlZPJcEqN0Z0fSVy8B2Qjg",
@@ -278,17 +398,17 @@
       "country": "KR",
       "language": "ko",
       "keywords": "마사지 두피마사지 massage 에스테틱 facemassage asthetic asmr facialmassage scalp 림프순환마사지 얼굴리프팅 리프팅 경락 안면비대칭 맛사지 얼굴마사지 바버샵 여성바버 바버 barber femalebarber",
-      "followers": 184000,
-      "view_count": 93222562,
-      "video_count": 358,
-      "avg_views_per_video": 260398,
+      "followers": 185000,
+      "view_count": 93912404,
+      "video_count": 361,
+      "avg_views_per_video": 260145,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCnHpEWXz2Ehirkc3wuFfUfw",
@@ -303,16 +423,16 @@
       "language": "",
       "keywords": "메이크업 셀럽메이크업 makeup makeupartist kpop kbeauty kpopbeauty \"메이크업 트렌드\" 청담샵 위위 메이크업샵 \"메이크업 레슨\" \"메이크업 컨설팅\" 서옥 \"위위 아뜰리에\" \"kpop idol makeup\" 고윤정 아이유 장원영 옥쌤 \"여배우 메이크업\"",
       "followers": 170000,
-      "view_count": 17728553,
+      "view_count": 17732151,
       "video_count": 106,
-      "avg_views_per_video": 167250,
+      "avg_views_per_video": 167284,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCO39RtFb8lh2r1THMeXBsZg",
@@ -326,17 +446,17 @@
       "country": "KR",
       "language": "",
       "keywords": "숑스뷰티 syongsbeauty 숑스 숑숑 숑스메이크업 숑",
-      "followers": 131000,
-      "view_count": 61237632,
+      "followers": 130000,
+      "view_count": 61292853,
       "video_count": 636,
-      "avg_views_per_video": 96286,
+      "avg_views_per_video": 96372,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCJtAFDmVo5_9dnobfV-rl1g",
@@ -351,16 +471,16 @@
       "language": "ko",
       "keywords": "올리브영 올영tv 올영TV 올영티비 올령티비 oliveyoung",
       "followers": 101000,
-      "view_count": 84363647,
-      "video_count": 835,
-      "avg_views_per_video": 101034,
+      "view_count": 84594126,
+      "video_count": 837,
+      "avg_views_per_video": 101068,
       "engagement_rate": null,
       "tier": "macro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCLvk76DFmbHIveAvYUDajUg",
@@ -374,17 +494,17 @@
       "country": "KR",
       "language": "",
       "keywords": "",
-      "followers": 69400,
-      "view_count": 12802306,
-      "video_count": 404,
-      "avg_views_per_video": 31689,
+      "followers": 69900,
+      "view_count": 12964906,
+      "video_count": 410,
+      "avg_views_per_video": 31622,
       "engagement_rate": null,
       "tier": "mid",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCJf_CZp5YjzW4GM6G2uZC6w",
@@ -399,40 +519,40 @@
       "language": "",
       "keywords": "뷰티 헤어 메이크업",
       "followers": 55900,
-      "view_count": 22873853,
-      "video_count": 492,
-      "avg_views_per_video": 46492,
+      "view_count": 22970849,
+      "video_count": 493,
+      "avg_views_per_video": 46594,
       "engagement_rate": null,
       "tier": "mid",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
-      "id": "yt_UC53ZbBCHU_N49ykaxeCcAGg",
+      "id": "yt_UCaDtzT6rIkrE6n6zGQ832rA",
       "platform": "youtube",
-      "channel_id": "UC53ZbBCHU_N49ykaxeCcAGg",
-      "handle": "@gosoosdailydaily",
-      "name": "고수뷰티 GOSOO BEAUTY",
-      "description": "유튜버 고수의 뷰티채널\n인스타그램: jwpark90500",
-      "profile_url": "https://www.youtube.com/channel/UC53ZbBCHU_N49ykaxeCcAGg",
-      "profile_image": "https://yt3.ggpht.com/ytc/AIdro_ksALBM73I2bHcmVYHcncAX8ml74rrsS3vvwYsrRxwK6WQ=s800-c-k-c0x00ffffff-no-rj",
+      "channel_id": "UCaDtzT6rIkrE6n6zGQ832rA",
+      "handle": "@yoolmo0ng_252",
+      "name": "Yoolmo0ng_2 유리",
+      "description": "My memories🐳\nContact : dbfl4613@naver.com",
+      "profile_url": "https://www.youtube.com/channel/UCaDtzT6rIkrE6n6zGQ832rA",
+      "profile_image": "https://yt3.ggpht.com/lviW5VXcfGwvpDnyMd-WDVab28q2IxUhxTdZVjZmIV-m1qiJTujpYclox2hgtYjDSbwa-4Kekw=s800-c-k-c0x00ffffff-no-rj",
       "country": "KR",
       "language": "",
-      "keywords": "유튜버 고수의 메이크업과 뷰티로 놀기",
-      "followers": 51200,
-      "view_count": 10530367,
-      "video_count": 323,
-      "avg_views_per_video": 32602,
+      "keywords": "",
+      "followers": 17800,
+      "view_count": 504861,
+      "video_count": 120,
+      "avg_views_per_video": 4207,
       "engagement_rate": null,
-      "tier": "mid",
+      "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCmV6YFTsQZ9_TK7kzrguFpA",
@@ -447,16 +567,16 @@
       "language": "",
       "keywords": "브이로그 vlog 자기관리 피부관리 집순이 집돌이 혼자놀기 요리 화장 메이크업 makeup 여자 여성 심심할때 네일 스킨케어 skincare cooking korea korean healing 힐링 일상 daylife daytime sleep 잔잔 asmr 올리브영 올영세일 올영 틴트추천 틴트 얼터너티브 여쿨 여쿨블러셔 여름쿨톤 세일 오버립",
       "followers": 16800,
-      "view_count": 11522572,
-      "video_count": 466,
-      "avg_views_per_video": 24727,
+      "view_count": 11562196,
+      "video_count": 470,
+      "avg_views_per_video": 24600,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCTD9TfBzmHnxTjfUoo2Decg",
@@ -471,16 +591,16 @@
       "language": "",
       "keywords": "길뷰티 오길주 알루 알루청담 ALUU 청담메이크업샵 청담동 메이크업 커버메이크업 CoverMakeup Makeup Cheongdam-dong Cheongdam 길뷰팁 초보메이크업 데일리메이크업 데일리 브이로그 메이크업아티스트브이로그 메이크업브이로그 뷰티템 추천뷰티템 에일리 \"에일리 메이크업\" kbeauty kpop 화보메이크업 에일리언 aileean aileeonline 길뷰템 이하이 이하이메이크업 이하이메이크업담당쌤 leehi leehimakeup ailee stayc staycmakeup bts newjeans",
       "followers": 13700,
-      "view_count": 1925381,
+      "view_count": 1930732,
       "video_count": 260,
-      "avg_views_per_video": 7405,
+      "avg_views_per_video": 7426,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCzB4SMiJegcyFlnFvosUVcg",
@@ -495,16 +615,40 @@
       "language": "ko",
       "keywords": "피부 \"피부 좋아지는법\" \"4050 메이크업\" \"60대 메이크업\" 주름커버메이크업 정샘물 홍스메이크업 \"40대 헤어스타일\" 홍이모파운데이션 \"30대 메이크업\" \"눈화장 예쁘게 하는법\" 동안메이크업 \"홍이모 쿠션\" \"눈화장 메이크업\" \"아이섀도우 추천\" 아이메이크업 올리브영 \"올리브영 추천템\" \"올리브영 세일\" \"올리브영 추천템\" 올영세일 뷰티꿀팁 뷰티꿀템 중년메이크업 정샘물중년메이크업 \"40대 쿠션\" \"눈화장 메이크업\"",
       "followers": 10800,
-      "view_count": 499539,
+      "view_count": 503946,
       "video_count": 104,
-      "avg_views_per_video": 4803,
+      "avg_views_per_video": 4846,
       "engagement_rate": null,
       "tier": "micro",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
+    },
+    {
+      "id": "yt_UCSZPpTN4Jn4NgmI0R-zYvEA",
+      "platform": "youtube",
+      "channel_id": "UCSZPpTN4Jn4NgmI0R-zYvEA",
+      "handle": "@beautywangunnie",
+      "name": "뷰티 왕언니 | Beauty Wang Unnie",
+      "description": "#메이크업튜토리얼  #메이크업아티스트 #메이크업팁 \n저스트메이크업 · 뷰티 왕언니 채널\n\n고급 스킨 텍스처 메이크업과\n한눈에 정리되는 실전 뷰티 노하우\n한눈에 뷰티\n\n생활 뷰티 꿀팁부터 제품 활용 팁까지\n가장 현실적이고 쉽게 알려드리는 채널입니다.\n\n뷰티 왕언니만의\n“진짜 뷰티 이야기”를 만나보세요.\n\n구독 https://www.youtube.com/@be",
+      "profile_url": "https://www.youtube.com/channel/UCSZPpTN4Jn4NgmI0R-zYvEA",
+      "profile_image": "https://yt3.ggpht.com/BlE2sfCZCVAA7BsHTUT0BWyv2epjqu6rC2u7tTAk2BzzqNrTHzLZ2y8J28AM923JmACv-Rpd=s800-c-k-c0x00ffffff-no-rj",
+      "country": "KR",
+      "language": "gl",
+      "keywords": "메이크업튜토리얼 메이크업화장법 뷰티왕언니 언니메이크업asmr 우현증 우현증메이크업 저스트메이크업 메이크업브이로그 메이크업샵피부표현 피부관리 메이크업템추천 메이크업템 메이크업팁 청순고급메이크업 청순메이크업 내츄럴메이크업 내츄럴메이크업저스트메이크업 뷰티왕언니우현증 웨딩메이크업 메이크업튜토리얼봄웜 메이크업튜토리얼무쌍",
+      "followers": 10500,
+      "view_count": 1452711,
+      "video_count": 149,
+      "avg_views_per_video": 9750,
+      "engagement_rate": null,
+      "tier": "micro",
+      "category": [
+        "skincare",
+        "beauty"
+      ],
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCjMQS8jRLdVfSU9oJhVr1EA",
@@ -518,41 +662,41 @@
       "country": "KR",
       "language": "",
       "keywords": "",
-      "followers": 4750,
-      "view_count": 278988484,
+      "followers": 4800,
+      "view_count": 284873586,
       "video_count": 275,
-      "avg_views_per_video": 1014504,
+      "avg_views_per_video": 1035904,
       "engagement_rate": null,
       "tier": "nano",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     },
     {
       "id": "yt_UCuKCSqKtqluioMARbpsqnuw",
       "platform": "youtube",
       "channel_id": "UCuKCSqKtqluioMARbpsqnuw",
-      "handle": "@oliveyounglab",
-      "name": "올영연구소",
-      "description": "올영에서 핫한 건 직접 써보고 리뷰합니다\n좋은 건 좋다고, 별로면 별로라고 말하는 솔직한 올영 연구소💚\n\n",
+      "handle": "@올영덕후영덕이",
+      "name": "영덕이",
+      "description": "올리브영 덕후, 영덕이💚\n요즘 뜨는 뷰티템 직접 써보고 알려드려요!\n신상부터 찐템까지 영덕이가 골라봄 ✨\n",
       "profile_url": "https://www.youtube.com/channel/UCuKCSqKtqluioMARbpsqnuw",
-      "profile_image": "https://yt3.ggpht.com/5rvFetY89Vf7Z0eb5GasJaC4m-WZ6foovTEVZbtgqH4-JOdkbnKFXRvhzbnUlymL2C7BZJKVbg=s800-c-k-c0x00ffffff-no-rj",
+      "profile_image": "https://yt3.ggpht.com/J5IO3WPQJ8XAPlV7Fgwi06aVy3qn6et787IdqE3kw8sWT5Y03wRNmkTiZbG6esfJcno6qPX9Xuk=s800-c-k-c0x00ffffff-no-rj",
       "country": "KR",
       "language": "",
       "keywords": "",
-      "followers": 1090,
-      "view_count": 135359,
-      "video_count": 14,
-      "avg_views_per_video": 9668,
+      "followers": 1100,
+      "view_count": 183652,
+      "video_count": 16,
+      "avg_views_per_video": 11478,
       "engagement_rate": null,
       "tier": "nano",
       "category": [
         "skincare",
         "beauty"
       ],
-      "last_updated": "2026-09-06"
+      "last_updated": "2026-09-13"
     }
   ]
 }
